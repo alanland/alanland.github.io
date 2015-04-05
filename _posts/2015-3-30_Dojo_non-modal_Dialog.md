@@ -51,11 +51,12 @@ dialogObj._underlay.hide(); // hides underlay behind the dialog.
 
 
 参考：
-[stackoverflow 7246749](http://stackoverflow.com/questions/7246749/dojo-non-modal-dialog)
-[dojo reference guide](http://dojotoolkit.org/reference-guide/1.9/dijit/Dialog.html#coloring-the-underlay)
-http://w3facility.org/question/dojo-non-modal-dialog/
-http://mail.dojotoolkit.org/pipermail/dojo-interest/2008-December/034939.html
-http://jsfiddle.net/shoe788/W3TvW/1/
-http://www.blogjava.net/chen45257211/articles/380786.html
+
+- [stackoverflow 7246749](http://stackoverflow.com/questions/7246749/dojo-non-modal-dialog)
+- [dojo reference guide](http://dojotoolkit.org/reference-guide/1.9/dijit/Dialog.html#coloring-the-underlay)
+- http://w3facility.org/question/dojo-non-modal-dialog/
+- http://mail.dojotoolkit.org/pipermail/dojo-interest/2008-December/034939.html
+- http://jsfiddle.net/shoe788/W3TvW/1/
+- http://www.blogjava.net/chen45257211/articles/380786.html
 
 
