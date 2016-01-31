@@ -18,7 +18,7 @@ docker tag ubuntu localhost:5000/ubuntu
 #or some other name
 docker tag ubuntu localhost:5000/ubuntu_new_image_name
 ```
-`localhost:5000` is your registry address.
+`localhost:5000` 是你的本机地址.
 
 用 `docker images` 命令来查看结果
 
@@ -38,10 +38,21 @@ docker pull 182.168.xxx.xxx:5000/ubuntu_new_image_name
 docker stop registry && docker rm -v registry
 ```
 
-## 存储位置
+## 启动参数
+### 存储位置
 ```
 docker run -d -p 5000:5000 --restart=always --name registry \
   -v `pwd`/data:/var/lib/registry \
   registry:2
 ```
-````pwd`/data```就是你要本机存储的位置。
+``` `pwd`/data ```就是你要本机存储的位置。
+
+### 配置文件
+
+指定本地路径（如 `/home/user/registry-conf` ）下的配置文件
+```
+sudo docker run -d -p 5000:5000 \
+   -v /home/user/registry-conf:/registry-conf \
+   -e DOCKER_REGISTRY_CONFIG=/registry-conf/config.yml \
+   registry
+```
