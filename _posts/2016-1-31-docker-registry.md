@@ -40,16 +40,19 @@ docker stop registry && docker rm -v registry
 
 ## 启动参数
 ### 存储位置
+
 ```
 docker run -d -p 5000:5000 --restart=always --name registry \
   -v `pwd`/data:/var/lib/registry \
   registry:2
 ```
-``` pwd/data ```就是你要本机存储的位置。
+
+`pwd/data` 就是你要本机存储的位置。
 
 ### 配置文件
 
 指定本地路径（如 `/home/user/registry-conf` ）下的配置文件
+
 ```
 sudo docker run -d -p 5000:5000 \
    -v /home/user/registry-conf:/registry-conf \
