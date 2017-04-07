@@ -1,3 +1,5 @@
+
+
 ---
 ---
 
@@ -5,8 +7,10 @@
 // IMPORTS
 //
 
-@import "reset";
-@import "variables";
+
+
+@import "_sass/_reset";
+@import "_sass?_variables";
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/

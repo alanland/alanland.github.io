@@ -2,7 +2,10 @@
 layout: post
 title:  "Run Jekyll in Docker"
 date:   2017-04-07 14:58:00 +0000
+img:  docker-jekyll.jpg
+description: 使用Docker运行Jekyll
 categories: jekyll docker
+author: Alan Wang
 ---
 由于本机网络问题运行`gem install`无反应，所以使用docker来把jekyll运行起来。
 
