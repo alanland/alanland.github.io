@@ -1,0 +1,13 @@
+version: "2"
+services:
+  jekyll:
+    image:  jekyll/jekyll:3.4.3
+    container_name: jekyll
+    restart: always
+    command: jekyll serve --watch
+    ports:
+     - "4000:4000"
+    volumes:
+     - /etc/timezone:/etc/timezone
+     - ${PWD}/serve:/srv/jekyll
+
