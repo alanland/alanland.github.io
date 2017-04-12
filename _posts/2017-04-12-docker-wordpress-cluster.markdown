@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Docker WorkPress Cluster"
-date:   2017-04-12 14:21:49 +0000
+date:   2017-04-12 14:25:49 +0000
 img:  docker-jekyll.jpg
 description: Docker WordPress Cluster
 categories: docker
