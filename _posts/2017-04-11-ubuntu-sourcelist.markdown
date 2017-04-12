@@ -8,6 +8,8 @@ categories: docker
 tags:   [container, docker, swarm, kubernetes, mesos]
 author: Alan Wang
 ---
+阿里云 Ubuntu 16.04 源：
+
 ```
 deb http://mirrors.aliyun.com/ubuntu/ xenial main restricted universe multiverse
 deb http://mirrors.aliyun.com/ubuntu/ xenial-security main restricted universe multiverse
