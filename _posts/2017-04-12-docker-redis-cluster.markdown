@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Docker Redis Master"
+title:  "Docker Redis Cluster"
 date:   2017-04-12 14:21:49 +0000
 img:  docker-jekyll.jpg
-description: Docker Redis Master
+description: Docker Redis Cluster
 categories: docker
-tags:   [container, docker, swarm, compose, redis, master]
+tags:   [container, docker, swarm, compose, redis, cluster]
 author: Alan Wang
 ---
 使用aliyuncs上的sentinel镜像来部署redis集群。
