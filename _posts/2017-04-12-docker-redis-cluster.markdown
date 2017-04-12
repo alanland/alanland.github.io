@@ -11,6 +11,7 @@ author: Alan Wang
 使用aliyuncs上的sentinel镜像来部署redis集群。
 
 `redis.yml`配置：
+
 - `redis-master`服务： 部署一个`redis:3`容器作为初始master
 - `redis-slave`服务： 部署两个实例的`redis:3`容器作为slave
 - `sentinel`服务：部署3个实力的`redis-sentinel:5.7`容器作为集群的sentinel
