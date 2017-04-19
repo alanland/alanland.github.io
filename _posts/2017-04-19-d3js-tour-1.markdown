@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "D3.js tour 1"
-date:   2017-04-19 12:01:03 +0000
+date:   2017-04-19 23:59:03 +0000
 img:  docker-jekyll.jpg
 description: D3.js tour 1
 tags:   [js, d3]
@@ -41,7 +41,7 @@ p.style('color', 'red')
 
 ### 预览
 
-![]({{ site.baseurl }}/assets/demos/d3tour/tour-01.png "")
+![]({{ site.baseurl }}/assets/demos/d3tour/tour01.png "")
 
 
 ---
