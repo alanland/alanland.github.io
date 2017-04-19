@@ -7,6 +7,8 @@ description: D3.js tour 1
 tags:   [js, d3]
 author: Alan Wang
 ---
+本次主要了解`D3`是什么，写一个d3程序，并学习`select`，`selectAll`，`text`的用法。
+
 [官网](https://d3js.org/) 如下：
 
 ![]({{ site.baseurl }}/assets/images/d3.js-tour/d3.js-homepage.png "")
@@ -21,6 +23,7 @@ D3的全称是： `Data-Driven Documents`，即数据驱动的文档。这里的
 所以`Data-Driven Documents`的意思就是把数据绑定那`DOM`上，由数据驱动，实现可视化。
 
 ## 第一个程序
+
 ### HTML
 ```html
 <div class="w">

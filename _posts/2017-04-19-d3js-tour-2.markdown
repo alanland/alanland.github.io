@@ -7,6 +7,8 @@ description: D3.js tour 2
 tags:   [js, d3]
 author: Alan Wang
 ---
+本次主要学习`datum`和`data`的用法。
+
 根据上一教程，我们做如下的改进：
 
 ### 样式分离到CSS
