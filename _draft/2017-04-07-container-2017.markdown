@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Container 2017"
+date:   2017-04-07 23:59:00 +0000
+img:  docker-jekyll.jpg
+description: Docker 2017
+categories: jekyll docker
+tags:   [container, docker, swarm, kubernetes, mesos]
+author: Alan Wang
+---
+2016年，容器技术彻底走进了我们的生活。我在16年春节过后也把容器技术（Docker）带到了公司。
+
+稍微看一下`Kubernetes`，`Mesos`，`Docker`这三架马车：
+
+### Docker
+之前的Docker公司的几个技术：`Docker Engine`，`Docker Compose`，`Docker Machine`，
+`Docker Swarm`。
+
+如今DockerSwarm已然退出历史舞台，Docker1.12之后集成了Swarm(Swarm Kit),同时引进了
+Service，Task等，这是真正针对容器集群的一些概念。而不像之前的Swarm只有编排功能。
+
+### Docker Compose V3
+面对Swarm集群
+
+[Compose Version3 Reference](https://docs.docker.com/compose/compose-file/)
+
+
+## Kubernetes
+
+Service, Pod, Replication, Controller, Label 等概念的提出，之前有评论说Kubernetes是
+超前十年的技术，然而仅仅一年这些概念都变得普及。
+
+## Mesos
+Mesos作为一个老牌项目，完善的Paas功能，支持Hadoop，Spark等。
+
+偶而有人诟病其负责，
+
+
