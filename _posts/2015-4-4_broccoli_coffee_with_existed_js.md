@@ -127,3 +127,6 @@ Filter.prototype.write = function (readTree, destDir) {
 参考:
  - [NodeJs Api](https://nodejs.org/api/fs.html#fs_fs_writefilesync_filename_data_options)
 
+
+---
+END

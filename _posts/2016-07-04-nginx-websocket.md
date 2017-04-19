@@ -17,3 +17,6 @@ Nginx 1.9.2
       proxy_set_header Origin "";
     }
 ```
+
+---
+END

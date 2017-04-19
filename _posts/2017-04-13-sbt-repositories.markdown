@@ -74,3 +74,6 @@ sonatype-oss-snapshots
 [http://www.scala-sbt.org/0.13/docs/Launcher-Configuration.html](http://www.scala-sbt.org/0.13/docs/Launcher-Configuration.html)
 
 这个时间我已经把包下载好了，等以后在研究。
+
+---
+END

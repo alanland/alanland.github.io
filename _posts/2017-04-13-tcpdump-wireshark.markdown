@@ -93,3 +93,6 @@ tcpdump ip host 114.254.151.51 and ! 114.254.151.52
 ```
 tcpdump -i eth0 greater 1000
 ```
+
+---
+END

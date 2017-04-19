@@ -133,3 +133,6 @@ Swarm Mode中部署应用特别不方便。
 docker-compose 仍然可用，但是用`up`或者`run`运行的时候，模板中的`deploy`将被忽略。
 
 docker cli 只支持v3模板，但是不支持其中的`build`指令。
+
+---
+END

@@ -138,3 +138,6 @@ Example: Using valueOf
 o = new Object();
 myVar = o.valueOf();      // [object Object]
 ```
+
+---
+END

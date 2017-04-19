@@ -18,3 +18,6 @@ Page Header and Footer， 如果只想保留Page Header，可以通过CSS定制�
 ```
 
 上面CSS可以定制四周边距，但是内容还无法定时，可能Chrome或者HTML5还不支持。
+
+---
+END

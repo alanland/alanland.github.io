@@ -60,3 +60,6 @@ dialogObj._underlay.hide(); // hides underlay behind the dialog.
 - http://www.blogjava.net/chen45257211/articles/380786.html
 
 
+
+---
+END
