@@ -1,15 +1,16 @@
 ---
 layout: post
-title:  "D3.js tour 3"
+title:  "D3.js tour 4"
 date:   2017-04-20 01:20:13 +0000
 img:  docker-jekyll.jpg
-description: D3.js tour 3
+description: D3.js tour 4
 tags:   [js, d3]
 author: Alan Wang
 ---
 本节教程绘制一个简单的图标。会学习使用应用数据的`enter`方法。
 
 创建svg：
+
 ```js
 const svg = d3.select(this.$el)
   .append('svg')
@@ -18,11 +19,13 @@ const svg = d3.select(this.$el)
 ```
 
 数据：
+
 ```js
 dataset: [88, 9, 33, 43, 75, 67]
 ```
 
 应用数据添加图形：
+
 ```js
 svg.selectAll('rect')
   .data(this.dataset)
@@ -39,6 +42,7 @@ svg.selectAll('rect')
 ```
 
 样式：
+
 ```stylus
 svg rect {
   fill: cadetblue
