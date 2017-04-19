@@ -13,7 +13,7 @@ author: Alan Wang
 
 首先制作一个图标文件：
 
-![cbtree icons]({{ site.baseurl }}/assetsl/images/cbtree-icons.png "cbtree icons")
+![cbtree icons]({{ site.baseurl }}/assets/images/cbtree-icons.png "cbtree icons")
 
 接下来编写css文件，比如我们的图标主题叫做`office`:
 
@@ -55,7 +55,7 @@ tree = new Tree {
 
 可以浏览到效果：
 
-![]({{ site.baseurl }}/assetsl/images/cbtree-custom-icon-preview.png "")
+![]({{ site.baseurl }}/assets/images/cbtree-custom-icon-preview.png "")
 
 
 ---
