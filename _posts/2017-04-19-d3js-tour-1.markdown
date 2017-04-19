@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "D3.js tour 1"
+date:   2017-04-19 12:01:03 +0000
+img:  docker-jekyll.jpg
+description: D3.js tour 1
+tags:   [js, d3]
+author: Alan Wang
+---
+[官网](https://d3js.org/) 如下：
+
+![]({{ site.baseurl }}/assets/images/d3.js-tour/d3.js-homepage.png "")
+
+## D3 是什么
+
+大家可能被官网上炫酷的图标所吸引，首先看一下D3是什么。
+
+D3的全称是： `Data-Driven Documents`，即数据驱动的文档。这里的`Documents`指的是
+浏览器的`Document Object Model`。
+
+所以`Data-Driven Documents`的意思就是把数据绑定那`DOM`上，由数据驱动，实现可视化。
+
+## 第一个程序
+### HTML
+```html
+<div class="w">
+  <p></p>
+  <p></p>
+</div>
+```
+
+### JS
+```js
+let p = d3.select(this.$el)
+  .selectAll('p')
+  .text('hello')
+p.style('color', 'red')
+  .style('font-size', '24px')
+
+```
+
+### 预览
+
+![]({{ site.baseurl }}/assets/demos/d3tour/tour-01.png "")
+
+
+---
+END
