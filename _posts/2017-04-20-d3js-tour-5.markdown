@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "D3.js tour 5"
-date:   2017-04-20 01:30:13 +0000
+date:   2017-04-20 23:32:13 +0000
 img:  docker-jekyll.jpg
 description: D3.js tour 5
 tags:   [js, d3]
@@ -10,6 +10,7 @@ author: Alan Wang
 本节教程讲解简单使用比例尺。
 
 创建scale：
+
 ```js
 let linear = d3.scaleLinear()
   .domain([0, 10])
@@ -20,6 +21,7 @@ let linear = d3.scaleLinear()
 ```
 
 把scale应用到上一节的图表上：
+
 ```js
 const svg = d3.select(this.$el)
   .select('svg.scale')

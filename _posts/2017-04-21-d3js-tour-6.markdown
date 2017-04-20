@@ -1,0 +1,77 @@
+---
+layout: post
+title:  "D3.js tour 6"
+date:   2017-04-21 01:22:13 +0000
+img:  docker-jekyll.jpg
+description: D3.js tour 6
+tags:   [js, d3]
+author: Alan Wang
+---
+本节教程讲解比例尺的分类。
+
+比例尺可以按照规则把原始数据映射到另外的值域，并保持一定的关系。
+
+比如对原始数据进行缩放，把现实中的米映射成像素，把数据映射成不同的颜色，对数据进行归类等。
+
+## Continuous(连续型) (Linear, Power, Log, Identity, Time)
+连续型比例尺可以将连续的，可量化的输入 domain 映射到另一个一个连续区间 range.
+
+```js
+var x = d3.scaleLinear()
+    .domain([10, 130])
+    .range([0, 960]);
+
+x(20); // 80
+x(50); // 320
+```
+
+```js
+var color = d3.scaleLinear()
+    .domain([10, 100])
+    .range(["brown", "steelblue"]);
+
+color(20); // "#9a3439"
+color(50); // "#7b5167"
+```
+
+如果range也是数值类型，则可以进行invert计算：
+
+```js
+var x = d3.scaleLinear()
+    .domain([10, 130])
+    .range([0, 960]);
+
+x.invert(80); // 20
+x.invert(320); // 50
+```
+
+如果range是非数值类型的，则返回NaN。
+
+如果给定的value超过了预设值的range，并且没有启用clamping 则会正确返回domain值，
+但是也是超出预设值的domain范围。
+
+## Sequential(有序)
+Sequential和Continuous类似，都是将连续区间的值映射到另一个连续区间。
+但是与continuous scales不同的是，顺序比例尺的range是固定且不可配置的。
+Sequential Scales不提供invert, range, rangeRound 和 interpolate 方法.
+
+## Quantize(量化)
+Quantize(量化) 比例尺与linear scales相似，不一样的是输出range不是连续的，而是离散的。
+量化比例尺根据输出范围将输入分割成不同的片段，每个片段内的值都会对应同一个range值。
+这样就完成了连续到离散的转换。输入x与输出y之间的换算公式:y = m round(x) + b
+
+## Quantile(分位数)
+Quantile(分位数)比例尺可以将一组样本输入映射到一组离散的值。
+分位数比例尺会对domain进行排序，然后将其映射到range上。
+可以根据输入的domain值计算出在range上的分位数。
+
+## Threshold(阈值)
+Threshold(阈值)比例尺与quantize scales类似，
+只不过阈值比例尺允许将任意子集映射到离散区间。输入区间依然是连续的，但是会根据range被分割成一些切片。
+
+## Ordinal(序数型) (Band, Point, Category)
+与 continuous scales不同, 序数比例尺的domain和range都是离散的.
+例如序数比例尺可以将一组名称映射到一组颜色值。
+
+---
+END

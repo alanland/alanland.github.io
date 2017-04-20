@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "D3.js tour 7"
+date:   2017-04-21 01:27:13 +0000
+img:  docker-jekyll.jpg
+description: D3.js tour 7
+tags:   [js, d3]
+author: Alan Wang
+---
+本节教程讲解坐标轴。
+
+定义坐标：
+
+```js
+const axis = d3.axisTop(linear)
+```
+
+添加坐标：
+
+```js
+svg.append('g')
+  .attr('transform', 'translate(0,30)')
+  .call(axis)
+```
+
+样式：
+
+```css
+.axis path,
+.axis line {
+  fill: none;
+  stroke: black;
+  shape-rendering: crispEdges;
+}
+
+.axis text {
+  font-family: sans-serif;
+  font-size: 11px;
+}
+```
+
+预览：
+
+![]({{ site.baseurl }}/assets/demos/d3tour/tour07.png "")
+
+---
+END
