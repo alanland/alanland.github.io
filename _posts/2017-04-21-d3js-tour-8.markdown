@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "D3.js tour 8"
+date:   2017-04-21 02:00:13 +0000
+img:  docker-jekyll.jpg
+description: D3.js tour 8
+tags:   [js, d3]
+author: Alan Wang
+---
+本节教程讲解添加文本。
+
+```js
+svg.selectAll('text.label')
+  .data(dataset)
+  .enter()
+  .append('text')
+  .attr('class', 'label')
+  .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')')
+  .attr('x', function (d) {
+    return linear(d) - 24 - margin.left// 留边
+  })
+  .attr('y', function (d, i) {
+    return (i + 1) * 22 - 6
+  })
+  .text(function (d) {
+    return d
+  })
+```
+
+预览：
+
+![]({{ site.baseurl }}/assets/demos/d3tour/tour08.png "")
+
+---
+END
