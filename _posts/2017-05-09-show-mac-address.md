@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Scala List"
-date:   2017-04-28 19:07:37 +0000
-tags:   [scala]
+title:  "Linux上查看Mac地址"
+date:   2017-05-09 14:07:37 +0000
+tags:   [linux]
 author: Alan Wang
 ---
 Linux 上查看Mac地址：
