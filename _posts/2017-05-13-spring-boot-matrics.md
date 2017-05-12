@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Processing Tree"
+title:  "Spring Boot Metrics"
 date:   2017-05-13 01:27:37 +0000
-tags:   [processing]
+tags:   [spring, spring-boot, metrics]
 author: Alan Wang
 ---
 `Spring Boot Actuator` 提供了 metrics service, 让监控变得统一，方便管理。

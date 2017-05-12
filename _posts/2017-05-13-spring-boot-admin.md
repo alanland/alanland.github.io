@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Processing Tree"
+title:  "Spring Boot Admin"
 date:   2017-05-13 03:27:37 +0000
-tags:   [processing]
+tags:   [spring, spring-boot, spring-boot-admin]
 author: Alan Wang
 ---
 `Spring Boot Admin` 提供了Actuator之上提供了一个WEB UI。
