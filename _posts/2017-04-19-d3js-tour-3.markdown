@@ -1,0 +1,81 @@
+---
+layout: post
+title:  "D3.js tour 3"
+date:   2017-04-20 00:55:13 +0000
+img:  docker-jekyll.jpg
+description: D3.js tour 3
+tags:   [js, d3]
+author: Alan Wang
+---
+本次主要学习如何插入删除元素。`append`,`insert`和`remove`三个方法。
+
+根据上一教程，我们做如下的改进：
+
+### 样式分离到CSS
+```stylus
+  p {
+    color: cadetblue
+    height: 1.5em
+    line-height: 1.5em
+    font-size: 24px
+    border: dashed indianred 1px
+    width: 6em
+    text-align: left
+    padding-left: 1em
+  }
+```
+
+### 使用`datum`绑定数据到每个元素
+```js
+d3.select(this.$el)
+  .select('.datum')
+  .selectAll('p')
+  .datum('D3.JS')
+  .text(function (d, i) {
+    return `${i}: ${d}`
+  })
+```
+
+### 增加一个div展示data用法
+```html
+<div class="w">
+  <div class="datum">
+    <p></p>
+    <p></p>
+    <p></p>
+  </div>
+  <div class="data">
+    <p></p>
+    <p></p>
+    <p></p>
+  </div>
+</div>
+```
+
+样式：
+```stylus
+  .w > div {
+    float: left
+    margin: 1em
+  }
+```
+
+使用`data`方法绑定并显示数据：
+```js
+const data = ['hello', 'd3', 'js']
+d3.select(this.$el)
+  .select('.data')
+  .selectAll('p')
+  .data(data)
+  .text(function (d, i) {
+    return `${i}: ${d}`
+  })
+```
+
+### 预览
+
+![]({{ site.baseurl }}/assets/demos/d3tour/tour02.png "")
+
+
+---
+END
