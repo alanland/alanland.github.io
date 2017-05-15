@@ -2,7 +2,7 @@
 layout: post
 title:  "Linux Mac Address"
 date:   2017-05-09 14:07:37 +0000
-tags:   [linux]
+tags: [ linux ]
 author: Alan Wang
 ---
 Linux 上查看Mac地址：
