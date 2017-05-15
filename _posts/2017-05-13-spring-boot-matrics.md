@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spring Boot Metrics"
+title:  "Spring Boot Metrics usage"
 date:   2017-05-13 01:27:37 +0000
 tags:   [spring, spring-boot, metrics]
 author: Alan Wang
