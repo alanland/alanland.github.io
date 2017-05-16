@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Install ruby 2.4 in Ubuntu"
+title:  "SpringBoot Prometheus"
 date:   2017-05-15 13:27:37 +0000
-tags:   [ubuntu, ruby]
+tags:   [springboot, prometheus]
 author: Alan Wang
 ---
 首先配置依赖：
@@ -102,7 +102,7 @@ scrape_configs:
 
     metrics_path: '/prometheus'
     static_configs:
-      - targets: ['192.168.1.49:8888']
+      - targets: ['192.168.95.49:8888']
 ```
 
 访问prometheus targets 节点可以看到：
