@@ -106,7 +106,21 @@ void draw() {
 ```
 
 
-![]({{ site.baseurl }}/assets/demos/processing/tree/xxx.png)
+![]({{ site.baseurl }}/assets/demos/processing/tree/tree1.png)
+![]({{ site.baseurl }}/assets/demos/processing/tree/tree1-1.png)
+![]({{ site.baseurl }}/assets/demos/processing/tree/tree1-2.png)
+![]({{ site.baseurl }}/assets/demos/processing/tree/tree1-3.png)
+![]({{ site.baseurl }}/assets/demos/processing/tree/tree1-4.png)
+![]({{ site.baseurl }}/assets/demos/processing/tree/tree1-5.png)
+![]({{ site.baseurl }}/assets/demos/processing/tree/tree1-6.png)
+![]({{ site.baseurl }}/assets/demos/processing/tree/tree1-7.png)
+![]({{ site.baseurl }}/assets/demos/processing/tree/tree1-8.png)
+![]({{ site.baseurl }}/assets/demos/processing/tree/tree1-9.png)
+![]({{ site.baseurl }}/assets/demos/processing/tree/tree1-10.png)
+![]({{ site.baseurl }}/assets/demos/processing/tree/tree1-11.png)
+![]({{ site.baseurl }}/assets/demos/processing/tree/tree1-12.png)
+![]({{ site.baseurl }}/assets/demos/processing/tree/tree1-13.png)
+![]({{ site.baseurl }}/assets/demos/processing/tree/tree1-14.png)
 
 上面程序只加入了少许的随机，就能产生如此神奇的形状，而且我们看到，只要稍微调整一下参数就能生成各种各样的树。
 
