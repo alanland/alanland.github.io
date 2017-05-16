@@ -107,7 +107,7 @@ scrape_configs:
 
 访问prometheus targets 节点可以看到：
 
-![]({{ site.baseurl }}/assets/images/springboot-prometheus/targets.png "")
+![](/assets/images/springboot-prometheus/targets.png "")
 
 
 ---
