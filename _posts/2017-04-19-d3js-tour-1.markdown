@@ -11,7 +11,7 @@ author: Alan Wang
 
 [官网](https://d3js.org/) 如下：
 
-![]({{ site.baseurl }}/assets/images/d3.js-tour/d3.js-homepage.png "")
+![]({{ site.baseurl }}/assets/images/d3.js-tour/d3.js-homepage.png)
 
 ## D3 是什么
 
@@ -44,7 +44,7 @@ p.style('color', 'red')
 
 ### 预览
 
-![]({{ site.baseurl }}/assets/demos/d3tour/tour01.png "")
+![]({{ site.baseurl }}/assets/demos/d3tour/tour01.png)
 
 
 ---

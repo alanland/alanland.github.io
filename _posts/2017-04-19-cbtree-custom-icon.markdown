@@ -55,7 +55,7 @@ tree = new Tree {
 
 可以浏览到效果：
 
-![]({{ site.baseurl }}/assets/images/cbtree-custom-icon-preview.png "")
+![]({{ site.baseurl }}/assets/images/cbtree-custom-icon-preview.png)
 
 
 ---

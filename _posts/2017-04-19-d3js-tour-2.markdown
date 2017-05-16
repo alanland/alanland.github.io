@@ -74,7 +74,7 @@ d3.select(this.$el)
 
 ### 预览
 
-![]({{ site.baseurl }}/assets/demos/d3tour/tour02.png "")
+![]({{ site.baseurl }}/assets/demos/d3tour/tour02.png)
 
 
 ---

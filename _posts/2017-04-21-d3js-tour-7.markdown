@@ -41,7 +41,7 @@ svg.append('g')
 
 预览：
 
-![]({{ site.baseurl }}/assets/demos/d3tour/tour07.png "")
+![]({{ site.baseurl }}/assets/demos/d3tour/tour07.png)
 
 ---
 END

@@ -48,7 +48,7 @@ svg.selectAll('rect')
 
 预览：
 
-![]({{ site.baseurl }}/assets/demos/d3tour/tour05.png "")
+![]({{ site.baseurl }}/assets/demos/d3tour/tour05.png)
 
 ---
 END

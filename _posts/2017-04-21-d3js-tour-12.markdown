@@ -14,7 +14,7 @@ author: Alan Wang
 
 预览：
 
-![]({{ site.baseurl }}/assets/demos/d3tour/tour08.png "")
+![]({{ site.baseurl }}/assets/demos/d3tour/tour08.png)
 
 ---
 END

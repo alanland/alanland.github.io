@@ -54,7 +54,7 @@ svg rect {
 
 预览：
 
-![]({{ site.baseurl }}/assets/demos/d3tour/tour04.png "")
+![]({{ site.baseurl }}/assets/demos/d3tour/tour04.png)
 
 ---
 END

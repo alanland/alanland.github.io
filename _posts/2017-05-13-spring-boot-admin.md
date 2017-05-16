@@ -64,13 +64,13 @@ object Application extends App {
 ## 预览
 
 
-![]({{ site.baseurl }}/assets/images/spring-boot-admin/home.png "")
+![]({{ site.baseurl }}/assets/images/spring-boot-admin/home.png)
 
-![]({{ site.baseurl }}/assets/images/spring-boot-admin/detail.png "")
+![]({{ site.baseurl }}/assets/images/spring-boot-admin/detail.png)
 
-![]({{ site.baseurl }}/assets/images/spring-boot-admin/threads.png "")
+![]({{ site.baseurl }}/assets/images/spring-boot-admin/threads.png)
 
-![]({{ site.baseurl }}/assets/images/spring-boot-admin/trace.png "")
+![]({{ site.baseurl }}/assets/images/spring-boot-admin/trace.png)
 
 
 ---
