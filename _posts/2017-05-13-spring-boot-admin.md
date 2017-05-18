@@ -2,7 +2,7 @@
 layout: post
 title:  "Spring Boot Admin"
 date:   2017-05-13 03:27:37 +0000
-tags:   [spring, spring-boot, spring-boot-admin]
+tags:   [spring, springboot, spring-boot-admin]
 author: Alan Wang
 ---
 `Spring Boot Admin` 提供了Actuator之上提供了一个WEB UI。
