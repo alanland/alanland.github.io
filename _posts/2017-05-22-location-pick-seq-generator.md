@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Location Pick Seq Generator"
-date:   2017-05-22 18:27:37 +0000
+date:   2017-05-22 20:27:37 +0000
 tags:   [wms]
 author: Alan Wang
 ---
