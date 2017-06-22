@@ -8,6 +8,12 @@ author: Alan Wang
 
 [文档](http://docs.ansible.com/ansible/become.html)
 
+http://docs.ansible.com/ansible/playbooks.html
+
+http://docs.ansible.com/ansible/intro_configuration.html#ask-sudo-pass
+
+http://docs.ansible.com/ansible/playbooks_intro.html
+
 ## inventory
 ```yaml
 [test]
