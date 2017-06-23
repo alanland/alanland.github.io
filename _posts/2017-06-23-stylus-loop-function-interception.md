@@ -61,5 +61,45 @@ hellStyle()
 }
 ```
 
+使用匿名函数:
+```stylus
+// MIXIN FOR RESPONSIVE CSS GRID;
+// Extra small screen / phone
+xs = 0
+// Small screen / phone
+sm = 480px
+// Medium screen / tablet
+md = 768px
+// Large screen / desktop
+lg = 1024px
+// // Extra large screen / wide desktop
+xl= 1200px
+
+respond-to(fn, medias)
+    for current-media in medias
+        if current-media=='xs'
+            @media only screen and (min-width: sm)
+                fn()
+        else if current-media=='sm'
+            @media only screen and (min-width: sm + 1px)
+                fn()
+        else if current-media=='md'
+            @media only screen and (min-width: md + 1px)
+                fn()
+        else if current-media=='lg'
+            @media only screen and (min-width: lg + 1px)
+                fff()
+        else if current-media=='xl'
+            @media only screen and (min-width: xl + 1px)
+                fn()
+
+arr = 'xs' 'sm'
+.hell
+    respond-to(@(){
+        padding: 184px
+        border: red
+    }(), arr)
+```
+
 ---
 END
