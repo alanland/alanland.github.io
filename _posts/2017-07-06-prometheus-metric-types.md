@@ -43,6 +43,24 @@ memory_usage_bytes{host="master-01"} 80
 - 例如：count=7次，sum=7次的值求值
 - 它提供一个quantiles的功能，可以按%比划分跟踪的结果。例如：quantile取值0.95，表示取采样值里面的95%数据
 
+```
+To pick between counter and gauge, there is a simple rule of thumb: 
+if the value can go down, it is a gauge.
+
+Counters can only go up (and reset, such as when a process restarts). 
+They are useful for accumulating the number of events, 
+or the amount of something at each event. For example, 
+the total number of HTTP requests, 
+or the total number of bytes sent in HTTP requests. 
+Raw counters are rarely useful. Use the rate() function 
+to get the per-second rate at which they are increasing.
+
+Gauges can be set, go up, and go down. 
+They are useful for snapshots of state, 
+such as in-progress requests, 
+free/total memory, or temperature. 
+You should never take a rate() of a gauge.
+```
 
 ## Python Client demo
 ```python
