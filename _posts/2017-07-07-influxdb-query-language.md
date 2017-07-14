@@ -86,10 +86,21 @@ WHERE time > now() - 1h AND ("host"='server01' OR "host"='server02')
 GROUP BY time(1m), "host", "region"
 ```
 
+## Query
+```sql
+select * from example.autogen.cpu_load_short
+
+SELECT mean("value") AS "mean_value", sum("count") AS "sum_count" 
+FROM "example"."autogen"."cpu_load_short" 
+WHERE time > now() - 1h AND ("host"='server01' OR "host"='server02') 
+GROUP BY time(1m)
+```
+
 
 ---
 Links:
 
+- https://docs.influxdata.com/influxdb/v1.2/query_language/continuous_queries/
 - http://blog.csdn.net/u010185262/article/details/53158786
 
 ---

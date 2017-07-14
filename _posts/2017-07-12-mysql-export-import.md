@@ -7,7 +7,7 @@ author: Alan Wang
 ---
 
 ```shell
-IP=xxx.xxx.xx.xx
+IP=xxx.xxx.xxx.xxx
 PORT=3016
 USER=xxx
 PASSWORD=xxx
