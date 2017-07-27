@@ -7,10 +7,11 @@ author: Alan Wang
 ---
 
 ```sql
+show variables like '%profil%'
 set profiling=1;
 select * from ttx_user;
 show profiles;
-show profile cpu, block io for query 4;
+show profile cpu, memory, block io for query 4;
 ```
 
 
