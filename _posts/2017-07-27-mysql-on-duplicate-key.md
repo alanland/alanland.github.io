@@ -99,6 +99,21 @@ ON DUPLICATE KEY UPDATE
 ```
 `warehouseCode`使用的是原来的值,和代码书写的顺序一致.
 
+---
+PS: MySql避免重复插入还有另外两种方式:
+
+- ignore
+  ```sql
+  INSERT IGNORE INTO `table_name`(...) values (...)
+  1 INSERT IGNORE INTO `table_1` (`name`) SELECT `name` FROM `table_2`;
+  ```
+- replace
+  ```sql
+    复制代码
+  REPLACE INTO `table_name`(`col_name`, ...) VALUES (...);
+  REPLACE INTO `table_name` (`col_name`, ...) SELECT ...;
+  REPLACE INTO `table_name` SET `col_name`='value',
+  ```
 
 ---
 END
