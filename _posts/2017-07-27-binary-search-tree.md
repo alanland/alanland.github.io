@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Binary search tree"
+title:  "Binary search tree(BST/B Tree)"
 date:   2017-07-27 14:27:37 +0000
 tags:   [tree, algorithm]
 author: Alan Wang
