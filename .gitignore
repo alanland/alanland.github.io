@@ -6,3 +6,6 @@ npm-debug.log
 */*/.DS_Store
 *.sh
 _posts2
+
+.idea
+*.lock
