@@ -12,6 +12,7 @@ The menu command **File > Preferences > Settings (Code > Preferences > Settings 
 You can also open the user and workspace settings from the Command Palette (`Ctrl+Shift+P`) with Preferences: Open User Settings and Preferences: Open Workspace Settings or use the keyboard shortcut (`Ctrl+,`).
 
 ```json
+"git.autofetch": false,
 "window.zoomLevel": 1.5,
 "editor.mouseWheelZoom": true,
 "editor.fontSize": 16,
