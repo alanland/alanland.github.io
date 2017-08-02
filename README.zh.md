@@ -2,6 +2,8 @@
 
 ### [我的博客在这里 &rarr;](http://huxpro.github.io)
 
+### CNAME
+https://help.github.com/articles/adding-or-removing-a-custom-domain-for-your-github-pages-site/
 
 ### 关于收到"Page Build Warning"的email
 
