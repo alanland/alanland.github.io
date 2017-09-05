@@ -2,7 +2,7 @@
 layout: post
 title:  "Visual Studio Code Setting"
 date:   2017-08-02 10:27:37 +0000
-tags:   [ide]
+tags:   [ide, vscode]
 author: Alan Wang
 ---
 File > Preferences > Settings (Code > Preferences > Settings
