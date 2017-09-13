@@ -77,7 +77,6 @@ If you use this extension's settings prettier.eslintIntegration:true it will rea
 
 - https://stackoverflow.com/questions/45914485/make-prettier-ignore-javascript-formatting
 
-## 
 
 ## 配置
 
