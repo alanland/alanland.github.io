@@ -2,19 +2,23 @@
 layout: post
 title:  "Jupyter Notebook"
 date:   2017-07-19 10:27:37 +0000
-tags:   [python, ipython, jupyter]
+tags:   [python, ipython, jupyter, notebook]
 author: Alan Wang
 ---
 ## 安装
+
 ```shell
 conda install jupyter notebook
 ```
+
 或者
+
 ```shell
 pip install jupyter notebook
 ```
 
 ## 启动
+
 ```shell
 jupyter notebook
 ```

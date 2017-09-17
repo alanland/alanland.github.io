@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pandas Series"
+title:  "Pandas: Series"
 date:   2017-09-17 03:57:37 +0000
 tags:   [python, pandas]
 author: Alan Wang
@@ -25,7 +25,7 @@ import matplotlib.pyplot as plt
 
 Series是一个一维的类似的数组对象，包含一个数组的数据（任何NumPy的数据类型）和一个与数组关联的数据标签，被叫做 索引 。最简单的Series是由一个数组的数据构成:
 
-```iython
+```ipython
 In [1]: import pandas as pd
 In [2]: from pandas import Series, DataFrame
 In [3]: s = Series([4, 7, -5, 3])
