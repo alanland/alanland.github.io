@@ -1,6 +1,6 @@
 ---
 layout post
-title  "Ubuntu Java 列出字体失败"
+title  "Ubuntu Java List Font failed"
 date   2017-10-25 08:57:37 +0000
 tags   [ubuntu, java, font]
 author Alan Wang
