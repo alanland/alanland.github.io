@@ -266,29 +266,46 @@ for user in session.query(User).\
 ### Common Filter Operators
 
 - equals:
+    ```python
     query.filter(User.name == 'ed')
+    ```
 - not equals:
+    ```python
     query.filter(User.name != 'ed')
+    ```
 - LIKE:
+    ```python
     query.filter(User.name.like('%ed%'))
+    ```
 - ILIKE (case-insensitive LIKE):
+    ```python
     query.filter(User.name.ilike('%ed%'))
+    ```
 - IN:
+    ```python
     query.filter(User.name.in_(['ed', 'wendy', 'jack']))
     query.filter(User.name.in_(
         session.query(User.name).filter(User.name.like('%ed%'))
     ))
+    ```
 - NOT IN:
+    ```python
     query.filter(~User.name.in_(['ed', 'wendy', 'jack']))
+    ```
 - IS NULL:
+    ```python
     query.filter(User.name == None)
     # alternatively, if pep8/linters are a concern
     query.filter(User.name.is_(None))
+    ```
 - IS NOT NULL:
+    ```python
     query.filter(User.name != None)
     # alternatively, if pep8/linters are a concern
     query.filter(User.name.isnot(None))
+    ```
 - AND:
+    ```python
     # use and_()
     from sqlalchemy import and_
     query.filter(and_(User.name == 'ed', User.fullname == 'Ed Jones'))
@@ -296,11 +313,16 @@ for user in session.query(User).\
     query.filter(User.name == 'ed', User.fullname == 'Ed Jones')
     # or chain multiple filter()/filter_by() calls
     query.filter(User.name == 'ed').filter(User.fullname == 'Ed Jones')
+    ```
 - OR:
+    ```python
     from sqlalchemy import or_
     query.filter(or_(User.name == 'ed', User.name == 'wendy'))
+    ```
 - MATCH:
+    ```python
     query.filter(User.name.match('wendy'))
+    ```
 
 
 
