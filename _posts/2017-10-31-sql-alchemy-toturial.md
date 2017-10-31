@@ -1,9 +1,9 @@
 ---
-layout post
-title  "SqlAlchemy Tutorial 1"
-date   2017-10-31 04:57:37 +0000
-tags   [python, sqlalchemy]
-author Alan Wang
+layout: post
+title:  "SqlAlchemy Tutorial 1"
+date:   2017-10-31 04:57:37 +0000
+tags:   [python, sqlalchemy]
+author: Alan Wang
 ---
 
 ## Version Check

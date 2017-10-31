@@ -1,9 +1,9 @@
 ---
-layout post
-title  "Python dynamic modify attribute"
-date   2017-10-19 04:57:37 +0000
-tags   [python]
-author Alan Wang
+layout: post
+title:  "Python dynamic modify attribute"
+date:   2017-10-19 04:57:37 +0000
+tags:   [python]
+author: Alan Wang
 ---
 
 ## object
