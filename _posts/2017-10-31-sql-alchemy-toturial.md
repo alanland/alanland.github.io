@@ -324,8 +324,86 @@ for user in session.query(User).\
     query.filter(User.name.match('wendy'))
     ```
 
+## Returning Lists and Scalars
+
+- `all()` returns a list:
+    ```python
+    >>> query = session.query(User).filter(User.name.like('%ed')).order_by(User.id)
+    SQL>>> query.all()
+    [<User(name='ed', fullname='Ed Jones', password='f8s7ccs')>,
+          <User(name='fred', fullname='Fred Flinstone', password='blah')>]
+    ```
+- first() applies a limit of one and returns the first result as a scalar:
+    ```python
+    SQL>>> query.first()
+    <User(name='ed', fullname='Ed Jones', password='f8s7ccs')>
+    ```
+- `one()` fully fetches all rows, and if not exactly one object identity or composite row is present in the result, raises an error. With multiple rows found:
+    ```
+    >>> user = query.one()
+    Traceback (most recent call last):
+    ...
+    MultipleResultsFound: Multiple rows were found for one()
+    ```
+    With no rows found:
+    ```python
+    >>> user = query.filter(User.id == 99).one()
+    Traceback (most recent call last):
+    ...
+    NoResultFound: No row was found for one()
+    ```
+    The `one()` method is great for systems that expect to handle “no items found” versus “multiple items found” differently; such as a RESTful web service, which may want to raise a “404 not found” when no results are found, but raise an application error when multiple results are found.
+
+- `one_or_none()` is like `one()`, except that if no results are found, it doesn’t raise an error; it just returns None. Like one(), however, it does raise an error if multiple results are found.
+
+- `scalar()` invokes the one() method, and upon success returns the first column of the row:
+    ```python
+    >>> query = session.query(User.id).filter(User.name == 'ed').\
+    ...    order_by(User.id)
+    SQL>>> query.scalar()
+    1
+    ```
+
+## Using Textual SQL
+```python
+>>> from sqlalchemy import text
+SQL>>> for user in session.query(User).\
+...             filter(text("id<224")).\
+...             order_by(text("id")).all():
+...     print(user.name)
+```
+
+**Bind parameters** can be specified with string-based SQL, using a colon.
+To specify the values, use the `params()` method:
+
+```python
+>>> session.query(User).filter(text("id<:value and name=:name")).\
+...     params(value=224, name='fred').order_by(User.id).one()
+<User(name='fred', fullname='Fred Flinstone', password='blah')>
+```
+
+`from_statement()`
+
+```python
+>>> session.query(User).from_statement(
+...                     text("SELECT * FROM users where name=:name")).\
+...                     params(name='ed').all()
+[<User(name='ed', fullname='Ed Jones', password='f8s7ccs')>]
+```
+
+```python
+>>> stmt = text("SELECT name, id FROM users where name=:name")
+>>> stmt = stmt.columns(User.name, User.id)
+SQL>>> session.query(User.id, User.name).\
+...          from_statement(stmt).params(name='ed').all()
+[(1, u'ed')]
+```
 
 
+```python
+>>> session.query(User).filter(text("id<:value and name=:name")).\
+...     params(value=224, name='fred').order_by(User.id).one()
+```
 
 
 
