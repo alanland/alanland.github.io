@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Windows Nginx"
-date:   2017-11-17 05:57:37 +0000
+date:   2017-11-07 05:57:37 +0000
 tags:   [windows, nginx]
 author: Alan Wang
 ---
