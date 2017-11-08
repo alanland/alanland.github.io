@@ -1,6 +1,9 @@
 ---
 layout: post
-title: JavaScript中的加号[+]
+title:  "JavaScript中的加号[+]"
+date:   2015-03-18 23:29:37 +0000
+tags:   [js]
+author: Alan Wong
 ---
 
 昨天看到一个问题， `var a=+new Data`是什么意思．

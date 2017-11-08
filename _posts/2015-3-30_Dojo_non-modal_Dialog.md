@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Dojo non-modal Dialog
+title:  "Dojo non-modal Dialog"
+date:   2015-03-30 23:29:37 +0000
+tags:   [js, dojo]
+author: Alan Wang
 ---
 
 今天有个功能需要`non-modal`的Dialog，而`dijit/Dialg`明确指名了该控件是`modal`的，google了下，相关的空间有如下几个：

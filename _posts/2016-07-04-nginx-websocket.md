@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Nginx Websocket
+title:  "Nginx Websocket"
+date:   2016-07-04 23:29:37 +0000
+tags:   [nginx, websocket]
+author: Alan Wang
 ---
 
 # Nginx with websocket and stomp

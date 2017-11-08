@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Markdown Style Guide
+title:  "Markdown Style Guide"
+date:   2013-03-10 23:27:37 +0000
+tags:   [markdown]
+author: Alan Wang
 ---
 
 This is a demo of all styled elements in Jekyll Now.
