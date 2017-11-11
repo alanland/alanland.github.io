@@ -1,0 +1,40 @@
+
+---
+layout: post
+title:  "Lua: Array Length"
+date:   2017-11-11 13:27:37 +0000
+tags:   [lua]
+author: Alan Wang
+---
+lua 数组需要注意的细节
+
+lua 中，数组的实现方式其实类似于 C++中的 map ，对于数组中所有的值，都是以键值对的形式来存储（无论是显式还是隐式），lua 内部实际采用哈希表和数组分别保存键值对、普通值，所以不推荐混合使用这两种赋值方式。尤其需要注意的一点是： lua 数组中允许 nil 值的存在，但是数组默认结束标志却是 nil 。这类比于 C 语言中的字符串，字符串中允许'\0'存在，但当读到'\0'时，就认为字符串已经结束了。
+
+初始化是例外，在 lua 相关源码中，初始化数组时首先判断数组的长度，若长度大于 0 ，并且最后一个值不为 nil ，返回包括 nil 的长度；若最后一个值为 nil ，则返回截至第一个非 nil 值的长度。
+
+注意！！一定不要使用#操作符来计算包含 nil 的数组长度，这是一个未定义的操作，不一定报错，但不能保证结果如你所想。如果你要删除一个数组中的元素，请使用 remove 函数，而不是用 nil 赋值。
+
+```lua
+local arr1 = {1, 2, 3, [5]=5}
+print(#arr1)               -- output: 3
+
+local arr2 = {1, 2, 3, nil, nil}
+print(#arr2)               -- output: 3
+
+local arr3 = {1, nil, 2}
+arr3[5] = 5
+print(#arr3)               -- output: 1
+
+local arr4 = {1,[3]=2}
+arr4[4] = 4
+print(#arr4)               -- output: 4
+```
+
+按照我们上面的分析，应该为 1 ，但这里却是 4 ，所以一定不要使用#操作符来计算包含 nil 的数组长度。
+
+---
+
+- [OpenResty 最佳实践 判断数组大小](http://wiki.jikexueyuan.com/project/openresty-best-practice/array-size.html)
+
+---
+
