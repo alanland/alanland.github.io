@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Lua: Array Length"

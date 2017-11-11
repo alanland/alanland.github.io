@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "OpenResty: Dynamic Routing Based On Redis"
