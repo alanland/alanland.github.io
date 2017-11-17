@@ -24,3 +24,6 @@ first `COMMAND` = only the command name without options and without arguments
 `STARTED` = the absolute time the process was started
 `ELAPSED` = elapsed time since the process was started (wall clock time), format [[dd-]hh:]mm:ss TIME = cumulative CPU time, "[dd-]hh:mm:ss" format
 second `COMMAND` = again the command, this time with all its provided options and arguments
+
+
+- [How to find uptime of a linux process](https://superuser.com/questions/380520/how-to-find-uptime-of-a-linux-process)
