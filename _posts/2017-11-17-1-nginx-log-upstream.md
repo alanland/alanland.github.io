@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Tomcat Connections Close Wait"
-date:   2017-11-15 10:23:37 +0000
+title:  "Nginx log upstream"
+date:   2017-11-17 10:23:37 +0000
 tags:   [nginx, upstream]
 author: Alan Wang
 ---
