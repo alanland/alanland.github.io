@@ -21,18 +21,20 @@ services:
     environment:
      - RABBITMQ_DEFAULT_USER=root
      - RABBITMQ_DEFAULT_PASS=password
-     - RABBITMQ_ERLANG_COOKIE=xxxxxxxxxxxx
+#     - RABBITMQ_ERLANG_COOKIE=xxxxxxxxxxxx
+     - RABBITMQ_USE_LONGNAME=true
+     - RABBITMQ_LOGS=/var/log/rabbitmq/rabbit.log
     ports:
+     - "4369:4369"
      - "5672:5672"
      - "15672:15672"
      - "25672:25672"
-     - "4369:4369"
+     - "35197:35197"
     volumes:
      - /etc/timezone:/etc/timezone
      - $PWD/data/rabbitmq:/var/lib/rabbitmq
-     - $PWD/erlang.cookie:/var/lib/rabbitmq/.erlang.cookie
+     - $PWD/data/rabbitmq/logs:/var/log/rabbitmq
     extra_hosts:
-#     - "rabbit80:172.16.120.80"
      - "rabbit81:172.16.120.81"
 ```
 
