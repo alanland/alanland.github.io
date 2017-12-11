@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Install OpenResty in MacOS"
+title:  "Connection Refused"
 date:   2017-12-05 10:23:37 +0000
-tags:   [macos, openresty, nginx]
+tags:   [tomcat, http, tcp, connection]
 author: Alan Wang
 ---
 
