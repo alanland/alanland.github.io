@@ -15,6 +15,7 @@ docker network prune
 can be used to remove all networks not used by at least one container.
 
 ---
+
 ```
 docker network rm $(docker network ls | grep "bridge" | awk '/ / { print $1 }')
 ```
