@@ -126,10 +126,25 @@ val x = loop // will lead to an infinite loop.
 
 - and(x, y) == x && y
 
+```scala
 def and(x:Boolean, y: => Boolean) = if(x) y else false
 def and(x:Boolean, y: => Boolean) = if(!x) false else y
+```
 
 - or(x, y) == x || y
 
+```scala
 def or(x: Boolean, y: => Boolean) = if(x) true else y
 def or(x: Boolean, y: => Boolean) = if(!x) y else true
+```
+
+
+
+## Value Definitions
+
+The `def` form is **by-name**, 右手边只有在使用的时候才进行计算
+
+`val` form is **by-value**， 右手边部分在定义的时候就进行计算
+
+def loop: Boolean = loop 
+val loop: Boolean = loop

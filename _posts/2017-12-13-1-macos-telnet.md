@@ -13,6 +13,7 @@ brew tap theeternalsw0rd/telnet
 
 brew install telnet
 ```
+
 ---
 
 - [where did telnet go? (10.13 preview)](https://forums.developer.apple.com/thread/79056)

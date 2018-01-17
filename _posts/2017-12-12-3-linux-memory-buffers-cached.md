@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SSH over SSH"
+title:  "Linux memory"
 date:   2017-12-12 15:23:37 +0000
 tags:   [linux, memory]
 author: Alan Wang
@@ -12,6 +12,14 @@ author: Alan Wang
 sync && echo 3 > /proc/sys/vm/drop_caches
 ```
 
+```sh
+# To free pagecache:
+echo 1 > /proc/sys/vm/drop_caches
+# To free dentries and inodes:
+echo 2 > /proc/sys/vm/drop_caches
+# To free pagecache, dentries and inodes:
+echo 3 > /proc/sys/vm/drop_caches
+```
 
 ## free 命令
 
