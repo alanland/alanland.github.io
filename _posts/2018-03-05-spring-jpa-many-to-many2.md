@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SpringBoot Jpa Many-to-Many 2"
-date:   2010-01-18 09:23:37 +0000
+date:   2018-03-05 09:23:37 +0000
 tags:   [springboot, jpa]
 author: Alan Wang
 ---
