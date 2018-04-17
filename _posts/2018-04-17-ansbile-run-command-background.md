@@ -52,7 +52,7 @@ then:
 
 ### As a systemd service
 
-```sh
+```ini
 [Unit]
 Description=myapp
 After=syslog.target
