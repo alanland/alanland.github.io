@@ -15,7 +15,9 @@ author: Alan Wang
 </html>  
 ```
 
-```perl
+## Nginx 配置文件
+
+```lua
 #user  root;
 worker_processes  1;
 #worker_rlimit_nofile: 65535;
