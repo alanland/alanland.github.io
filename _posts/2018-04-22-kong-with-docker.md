@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kong Started"
+title:  "Install Kong with Docker"
 date:   2018-04-22 08:23:37 +0000
 tags:   [docker, kong]
 author: Alan Wang
@@ -149,3 +149,4 @@ services:
 
 ---
 - https://store.docker.com/images/kong
+- https://hub.docker.com/r/pgbi/kong-dashboard/
