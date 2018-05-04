@@ -34,3 +34,7 @@ author: Alan Wang
     ignore_errors: True
     register: installed
 ```
+
+---
+- http://www.ansible.com.cn
+- https://stackoverflow.com/questions/38651791/is-it-possible-to-add-ansible-ssh-common-args-in-inventory-file
