@@ -150,3 +150,23 @@ $ kubectl delete deployment kubernetes-dashboard --namespace kube-system
 - [Dashboard Installation](https://github.com/kubernetes/dashboard/wiki/Installation#recommended-setup)
 - [Github Dashboard](https://github.com/kubernetes/dashboard/blob/master/README.md#getting-started)
 - [基于 Docker for MAC 的 Kubernetes 本地环境搭建与应用部署](https://segmentfault.com/a/1190000012850396)
+
+
+
+
+
+# 首页
+- 数量不显示
+
+# 交易
+- 没有过滤优惠券
+- 图没有数据
+- 图不显示今天
+- 条件品类下拉不显示
+- 没有查询已完成的
+- 状态显示错误
+
+# 订单
+- 没有过滤优惠券
+
+
