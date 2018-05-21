@@ -21,3 +21,4 @@ val JSON: ObjectMapper = new ObjectMapper()
 ---
 - https://github.com/FasterXML/jackson-modules-java8
 - https://stackoverflow.com/questions/27952472/serialize-deserialize-java-8-java-time-with-jackson-json-mapper
+- [FasterXML/jackson-module-scala的坑](https://www.jianshu.com/p/b278baa16a88)
