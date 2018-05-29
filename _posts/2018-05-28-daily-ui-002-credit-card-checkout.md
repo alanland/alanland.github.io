@@ -5,13 +5,11 @@ date:   2018-05-28 12:23:37 +0000
 tags:   [dailyui]
 author: Alan Wang
 ---
-```
-#002
 
-Credit Card Checkout
- 
-Hint: Design a credit card checkout form or page. Don't forget the important elements such as the numbers, dates, security numbers, etc. (It's up to you!) Don't forget to share on Dribbble and/or Twitter when you're done.
-```
+> #002
+> Credit Card Checkout
+>
+> Hint: Design a credit card checkout form or page. Don't forget the important elements such as the numbers, dates, security numbers, etc. (It's up to you!) Don't forget to share on Dribbble and/or Twitter when you're done.
 
 ## 分析
 
@@ -32,7 +30,7 @@ Hint: Design a credit card checkout form or page. Don't forget the important ele
   - 这次买的什么商品或者服务
   - 可以在操作流程中的上一步显示
 
-----
+## 设计元素
 
 - 双色
 - 渐变背景
