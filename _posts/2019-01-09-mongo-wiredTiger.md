@@ -1,4 +1,3 @@
-+
 ---
 layout: post
 title:  "Mongo WiredTiger 内存设置"
