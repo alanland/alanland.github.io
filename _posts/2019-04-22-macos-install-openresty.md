@@ -2,11 +2,15 @@
 layout: post
 title:  "curl/wget查看http请求头和响应头"
 date:   2019-04-19 11:23:37 +0000
-tags:   [linux]
+tags:   [nginx, openresty, mac]
 author: Alan Wang
 ---
 
-```shbrew install libgd
+```sh
+brew install libgd
+RESTY_OPENSSL_VERSION="1.1.0j"
+curl -fSL https://www.openssl.org/source/openssl-${RESTY_OPENSSL_VERSION}.tar.gz -o openssl-${RESTY_OPENSSL_VERSION}.tar.gz
+tar xzf openssl-${RESTY_OPENSSL_VERSION}.tar.gz
 
 ./configure -j2 \
     --with-http_addition_module \
@@ -33,9 +37,8 @@ author: Alan Wang
     --with-pcre-jit \
     --with-sha1-asm \
     --with-stream \
-    --with-stream_ssl_module \
     --with-threads \
-    --with-openssl=/usr/local/opt/openssl/lib
+    --with-openssl=./openssl-${RESTY_OPENSSL_VERSION}
 
 
 make
