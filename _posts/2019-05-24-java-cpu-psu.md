@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Aliyun Kubernetes LBS"
+title:  "Java CPU 和 PSU"
 date:   2019-05-24 12:23:37 +0000
-tags:   [kubernetes, lbs, aliyun]
+tags:   [java]
 author: Alan Wang
 ---
 
