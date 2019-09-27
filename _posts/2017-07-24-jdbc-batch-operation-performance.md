@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MySql JDBC batch operation performance""
+title:  "MySql JDBC batch operation performance"
 date:   2017-07-24 13:27:37 +0000
 tags:   [mysql, jdbc]
 author: Alan Wang

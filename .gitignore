@@ -1,11 +1,19 @@
+*~
+*.gem
+.bundle
+.sass-cache
 _site
+Gemfile.lock
 node_modules
 npm-debug.log
 .DS_Store
 */.DS_Store
 */*/.DS_Store
 *.sh
+!serve.sh
 _posts2
 
 .idea
 *.lock
+.jekyll-cache
+vendor
