@@ -7,6 +7,8 @@ categories: [Java]
 author: Alan Wang
 ---
 
+Docker Compose 运行 Kafka，结合 SpringBoot 进行生产和消费消息。
+
 ### 安装
 
 选择 wurstmeister 的 kafka 镜像：
