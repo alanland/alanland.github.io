@@ -25,6 +25,6 @@ octant
 
 附上两张截图：
 
-![](./2019-09-05-vmware-octant/octant-1.jpg)
+![](/assets/images/2019-09-05-vmware-octant/octant-1.jpg)
 
-![](./2019-09-05-vmware-octant/octant-2.jpg)
+![](/assets/images/2019-09-05-vmware-octant/octant-2.jpg)
