@@ -4,7 +4,7 @@ title:  "Container 2017"
 date:   2017-04-07 23:59:00 +0000
 img:  docker-jekyll.jpg
 description: Docker 2017
-categories: jekyll docker
+categories: [Docker]
 tags:   [container, docker, swarm, kubernetes, mesos]
 author: Alan Wang
 ---

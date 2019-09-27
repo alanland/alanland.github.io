@@ -4,7 +4,7 @@ title:  "Docker Compose v3"
 date:   2017-04-11 00:53:24 +0000
 img:  docker-jekyll.jpg
 description: Docker Compose v3
-categories: docker
+categories: [Docker]
 tags:   [container, docker, swarm, kubernetes, mesos]
 author: Alan Wang
 ---

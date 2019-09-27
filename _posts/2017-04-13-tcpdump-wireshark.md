@@ -4,7 +4,7 @@ title:  "TCPDump Wireshark"
 date:   2017-04-17 20:49:17 +0000
 img:  docker-jekyll.jpg
 description: TCPDump Wireshark
-categories: docker
+categories: [Linux]
 tags:   [netwark, tcpdump, wireshark]
 author: Alan Wang
 ---

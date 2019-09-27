@@ -4,7 +4,7 @@ title:  "Scala Implicit - 1"
 date:   2017-04-17 21:30:19 +0000
 img:  docker-jekyll.jpg
 description: Scala Implicit
-categories: docker
+categories: [Scala]
 tags:   [container, docker, swarm, kubernetes, mesos]
 author: Alan Wang
 ---

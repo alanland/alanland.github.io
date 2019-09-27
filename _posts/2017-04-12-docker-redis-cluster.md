@@ -4,7 +4,7 @@ title:  "Docker Redis Cluster"
 date:   2017-04-12 14:21:49 +0000
 img:  docker-jekyll.jpg
 description: Docker Redis Cluster
-categories: docker
+categories: [Docker]
 tags:   [container, docker, swarm, compose, redis, cluster]
 author: Alan Wang
 ---

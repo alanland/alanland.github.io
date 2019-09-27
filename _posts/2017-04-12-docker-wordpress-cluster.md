@@ -4,7 +4,7 @@ title:  "Docker WorkPress Cluster"
 date:   2017-04-12 14:25:49 +0000
 img:  docker-jekyll.jpg
 description: Docker WordPress Cluster
-categories: docker
+categories: [Docker]
 tags:   [container, docker, swarm, compose, cluster]
 author: Alan Wang
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "Golang asterisk"
 date:   2017-04-17 21:04:35 +0000
 img:  docker-jekyll.jpg
-categories: docker
+categories: [Go]
 tags:   [golang]
 author: Alan Wang
 ---

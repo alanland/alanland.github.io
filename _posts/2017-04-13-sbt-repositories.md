@@ -4,7 +4,7 @@ title:  "Sbt Repositories"
 date:   2017-04-13 23:10:46 +0000
 img:  docker-jekyll.jpg
 description: Docker 2017
-categories: docker
+categories: [Scala]
 tags:   [container, docker, swarm, kubernetes, mesos]
 author: Alan Wang
 ---
