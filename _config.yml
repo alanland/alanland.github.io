@@ -16,7 +16,7 @@
 title: 下一个365天
 description: > # this means to ignore newlines until "baseurl:"
   六月你好
-#baseurl: "/aoush"
+#baseurl: "/"
 url: "https://alanland.github.io"
 permalink: /:year/:month/:day/:title
 repository: alanland/a
@@ -26,10 +26,10 @@ paginate: 20
 github_profile: "https://github.com/alanland"
 user: "Alan Wong"
 user_email: "alanland@163.com"
-contact_url: "https://goo.gl/tVljbV"
-google_tracking_id: "UA-96359860-1"
-google_site_verification: "UA-96359860-1"
-disqus_shortname: "matjek"
+#contact_url: "https://goo.gl/tVljbV"
+#google_tracking_id: "UA-96359860-1"
+#google_site_verification: "UA-96359860-1"
+#disqus_shortname: "matjek"
 
 # Build settings
 markdown: kramdown
