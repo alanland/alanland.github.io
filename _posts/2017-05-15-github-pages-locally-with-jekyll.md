@@ -7,7 +7,7 @@ author: Alan Wang
 ---
 可以搭建一个本地的Jekyll服务器，查看你的Github Pages。
 
-## Requirements
+### Requirements
 Check whether you have Ruby 2.1.0 or higher installed:
 
 ```sh
@@ -17,7 +17,7 @@ ruby 2.X.X
 $ gem install bundler
 ```
 
-## Install Jekyll using Bundler
+### Install Jekyll using Bundler
 `Gemfile`
 
 ```sh
@@ -29,13 +29,28 @@ gem 'github-pages', group: :jekyll_plugins
 bundle install
 ```
 
-## Build your local Jekyll site
+### 安装 Jekyll 到用户下面而不是全局
+
+```bash
+gem install --user-install bundler jekyll
+export PATH=$HOME/.gem/ruby/X.X.0/bin:$PATH
+gem env
+```
+
+### 指定目录安装并运行
+
+```bash
+bundle install --path vendor/bundle && bundle exec jekyll server --trace
+```
+
+
+### Build your local Jekyll site
 
 ```sh
 bundle exec jekyll serve
 ```
 
-## Keeping your site up to date with the GitHub Pages gem
+### Keeping your site up to date with the GitHub Pages gem
 ```sh
 bundle update github-pages
 # or simply
@@ -44,3 +59,8 @@ bundle update
 
 ---
 END
+
+
+---
+
+- https://jekyllrb.com/docs/installation/macos/
