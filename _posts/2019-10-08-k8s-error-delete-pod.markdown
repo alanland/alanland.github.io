@@ -44,6 +44,11 @@ kdelp xxx --grace-period=0 --force
 
 停止的 Pod 被删除掉了。
 
+附上一个删除所有停止 Pod 的 shell 脚本：
+```sh
+for p in $(kubectl get pods | grep Terminating | awk '{print $1}'); do kubectl delete pod $p --grace-period=0 --force;done
+```
+
 
 重新 apply 配置，Pod 的最后5次事件是：
 
