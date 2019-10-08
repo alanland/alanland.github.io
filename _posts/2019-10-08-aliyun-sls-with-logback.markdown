@@ -101,10 +101,18 @@ logger.error("test exception", new RuntimeException("my exception"))
 
 设置好`查询分析属性`，运行程序。
 
-即可使用阿里云的控制台进行日志日志查询了，比如编写查询语句：
+即可使用阿里云的控制台进行日志日志查询了，比如编写查询语句（如果要查询详细信息，增加查询字段`log`即可）：
 
 ```sql
 | select time, level, thread, message, __source__, __topic__ where level='ERROR'
 ```
 
 ![](/assets/images/2019-10-08-aliyun-sls-with-logback/aliyun-sls-logback-query.png)
+
+
+最后附上两个日志服务附带的 Nginx Dashboard 截图：
+
+![](/assets/images/2019-10-08-aliyun-sls-with-logback/aliyun-sts-nginx-1.jpg)
+
+![](/assets/images/2019-10-08-aliyun-sls-with-logback/aliyun-sts-nginx-2.jpg)
+
