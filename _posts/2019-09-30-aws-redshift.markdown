@@ -7,6 +7,8 @@ categories: [Tools]
 author: Alan Wang
 ---
 
+AWS 使用的第一个服务 RedShift。从安装命令行开始，到数据连接测试。中间拷贝数据遇到了点问题， 最后自己上传了一份样例数据到 S3 上进行了测试。
+
 ## CLI 工具
 
 - [安装 AWS CLI](https://docs.aws.amazon.com/zh_cn/cli/latest/userguide/cli-chap-install.html)
@@ -131,6 +133,8 @@ OK。
 文档中有复制权限到其他 region 的描述，没有测试。
 
 - https://docs.aws.amazon.com/zh_cn/redshift/latest/mgmt/authorizing-redshift-service.html
+
+先用测试数据进行了基本的查询，仅作测试用。由于数据量比较小也提现不出来性能什么的。今天先到这里。
 
 ## 表设计
 
