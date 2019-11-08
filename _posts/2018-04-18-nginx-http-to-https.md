@@ -6,7 +6,34 @@ tags:   [nginx, ssl]
 author: Alan Wang
 ---
 
-## http 访问跳转文件
+## 简单重定向方法
+
+所有网站: 
+```lua
+server {
+    listen 80 default_server;
+
+    server_name _;
+
+    return 301 https://$host$request_uri;
+}
+```
+
+指定网站:
+
+```lua
+server {
+    listen 80;
+
+    server_name foo.com;
+    return 301 https://foo.com$request_uri;
+}
+```
+
+
+## 百度使用的方法
+
+### http 访问跳转文件
 `/nigxn/rewrite/index.html`
 
 ```html
@@ -15,7 +42,7 @@ author: Alan Wang
 </html>  
 ```
 
-## Nginx 配置文件
+### Nginx 配置文件
 
 ```lua
 #user  root;
