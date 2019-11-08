@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Aliyun Kubernetes PV/PVC Nas"
+title:  "Aliyun Kubernetes 使用 Nas 作为 PersistentVolume "
 date:   2019-11-08T11:21:07.449Z
 tags:   [aliyun, nas, kubernetes, pv, pvc]
 categories: [Cloud]
