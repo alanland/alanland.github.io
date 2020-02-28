@@ -1,0 +1,73 @@
+---
+layout: post
+title:  "K3s"
+date:   2019-11-01T09:26:29.401Z
+tags:   [k3s, k8s]
+categories: [Cloud]
+author: Alan Wang
+---
+
+根据 [QuickStart](https://rancher.com/docs/k3s/latest/en/quick-start/) 进行安装:
+
+```sh
+curl -sfL https://get.k3s.io | sh -
+```
+
+由于网络问题, 该脚本下载失败, 我们直接下载下面脚本:
+
+[https://raw.githubusercontent.com/rancher/k3s/master/install.sh](https://raw.githubusercontent.com/rancher/k3s/master/install.sh)
+
+然后执行:
+
+```sh
+$ sh install.sh
+[INFO]  Finding latest release
+[INFO]  Using v0.10.2 as release
+[INFO]  Downloading hash https://github.com/rancher/k3s/releases/download/v0.10.2/sha256sum-amd64.txt
+[INFO]  Downloading binary https://github.com/rancher/k3s/releases/download/v0.10.2/k3s
+[INFO]  Verifying binary download
+[INFO]  Installing k3s to /usr/local/bin/k3s
+[INFO]  Creating /usr/local/bin/kubectl symlink to k3s
+[INFO]  Creating /usr/local/bin/crictl symlink to k3s
+[INFO]  Creating /usr/local/bin/ctr symlink to k3s
+[INFO]  Creating killall script /usr/local/bin/k3s-killall.sh
+[INFO]  Creating uninstall script /usr/local/bin/k3s-uninstall.sh
+[INFO]  env: Creating environment file /etc/systemd/system/k3s.service.env
+[INFO]  systemd: Creating service file /etc/systemd/system/k3s.service
+[INFO]  systemd: Enabling k3s unit
+Created symlink from /etc/systemd/system/multi-user.target.wants/k3s.service to /etc/systemd/system/k3s.service.
+[INFO]  systemd: Starting k3s
+```
+
+测试安装结果:
+
+```sh
+$ kubectl get node
+NAME            STATUS   ROLES    AGE   VERSION
+ubuntu-xenial   Ready    master   67s   v1.16.2-k3s.1
+```
+
+Kubernetes Dashboard:
+
+```sh
+kubectl apply -f https://raw.githubusercontent.com/kubernetes/dashboard/v2.0.0-beta4/aio/deploy/recommended.yaml
+```
+
+查看:
+ 
+```sh
+$ kubectl get pod -n kubernetes-dashboard
+NAME                                         READY   STATUS              RESTARTS   AGE
+kubernetes-dashboard-7b5bf5d559-5tjp2        0/1     ContainerCreating   0          109s
+dashboard-metrics-scraper-566cddb686-7cjxw   0/1     ContainerCreating   0          109s
+```
+
+语言问题可以查看： 
+
+```sh
+export LC_ALL="en_US.UTF-8"
+export LC_CTYPE="en_US.UTF-8"
+sudo dpkg-reconfigure locales
+```
+
+

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AWS RedShift"
+title:  "AWS CLI and RedShift"
 date:   2019-09-30 14:58:00 +0000
 tags:   [aws, redshift]
 categories: [Tools]
