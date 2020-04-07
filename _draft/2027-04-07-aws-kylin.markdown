@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "AWS RedShift"
+date:   2019-09-30 14:58:00 +0000
+tags:   [aws, kylin]
+categories: [Tools]
+author: Alan Wang
+---
+
+https://www.infoq.cn/article/tNr1NQ8gsMpmC6m5khfK
+
+
+下载 3.0 的版本
+
+```shell script
+cd /usr/local/
+# https://www.apache.org/dyn/closer.cgi/kylin/apache-kylin-3.0.0/apache-kylin-3.0.0-bin-hbase1x.tar.gz
+wget http://mirrors.tuna.tsinghua.edu.cn/apache/kylin/apache-kylin-3.0.0/apache-kylin-3.0.0-bin-hbase1x.tar.gz
+tar -zxvf apache-kylin-3.0.0-bin-hbase1x.tar.gz
+cd apache-kylin-3.0.0-bin-hbase1x
+export KYLIN_HOME=`pwd`
+# export SPARK_HOME=/path/to/spark
+
+### spark
+cd /usr/local/
+wget http://mirrors.tuna.tsinghua.edu.cn/apache/spark/spark-2.4.4/spark-2.4.4-bin-hadoop2.7.tgz
+tar -zxvf spark-2.4.4-bin-hadoop2.7.tgz
+cd spark-2.4.4-bin-hadoop2.7
+export SPARK_HOME=`pwd`
+
+### OR $KYLIN_HOME/bin/download-spark.sh
+
+
+
+
+
+
+$KYLIN_HOME/bin/sample.sh
+
+#
+```
+- 

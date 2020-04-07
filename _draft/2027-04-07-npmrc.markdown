@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "AWS RedShift"
+date:   2020-01-03T16:59:18.313Z
+tags:   [aws, redshift]
+categories: [Tools]
+author: Alan Wang
+---
+
+
+.npmrc
+
+```shell script
+registry=https://registry.npm.taobao.org
+electron_mirror="https://npm.taobao.org/mirrors/electron/"
+```

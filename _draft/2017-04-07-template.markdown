@@ -1,43 +1,142 @@
 ---
 layout: post
-title:  "Run Jekyll in Docker"
-date:   2017-04-07 14:58:00 +0000
-tags:   [jekyll]
+title:  "AWS RedShift"
+date:   2019-09-30 14:58:00 +0000
+tags:   [aws, redshift]
 categories: [Tools]
 author: Alan Wang
 ---
-由于本机网络问题运行`gem install`无反应，所以使用docker来把jekyll运行起来。
 
+## CLI 工具
 
-去docker hub上下载镜像。
-
-地址： [https://hub.docker.com/r/jekyll/jekyll/](https://hub.docker.com/r/jekyll/jekyll/)
+- [安装 AWS CLI](https://docs.aws.amazon.com/zh_cn/cli/latest/userguide/cli-chap-install.html)
 
 ```sh
-docker pull jekyll/jekyll:3.4.3
+pip install awscli --upgrade --user
+
+export PATH=/Users/alan/.local/bin:$PATH
+
+aws --version
+
+pip list -o
+
+pip install --upgrade --user awscli
 ```
 
-使用compose来启动容器，编写`docker-compose.yml`如下：
+- [IAM 用户和组](https://docs.aws.amazon.com/zh_cn/IAM/latest/UserGuide/getting-started_create-admin-group.html)
 
-```yaml
-version: "2"
-services:
-  jekyll:
-    image:  jekyll/jekyll:3.4.3
-    container_name: jekyll
-    restart: always
-    command: jekyll serve
-    ports:
-     - "4000:4000"
-    volumes:
-     - ${PWD}:/srv/jekyll
-```
+可以根据文档创建一个完整权限的编程用户。
 
-将该文将放到你的blog目录下，启动：
+- [设置CLI](https://docs.aws.amazon.com/zh_cn/redshift/latest/mgmt/setting-up-rs-cli.html)
+
+- https://docs.aws.amazon.com/zh_cn/cli/latest/userguide/cli-chap-configure.html
 ```sh
-docker-compose up -d
+(base) ➜  ~ aws configure
+AWS Access Key ID [None]: xx
+AWS Secret Access Key [None]: K/xxx
+Default region name [None]: cn-northwest-1
+Default output format [None]: json
 ```
 
-浏览器访问 [http://localhost:4000](http://localhost:4000) 即可。
+格式只有 `json`，`text`， `table` 三种， 要是有 yaml 格式i就好了。
+
+如果要创建多个配置：
+```sh
+aws configure --profile produser
+```
+
+运行命令的时候可以指定 profile：
+```sh
+aws s3 ls --profile produser
+```
+
+## Access
+
+设置权限
+
+- https://docs.amazonaws.cn/en_us/redshift/latest/gsg/rs-gsg-authorize-cluster-access.html
+
+然后就可以通过客户端工具连接了。
+
+## 加载数据
+
+- https://docs.aws.amazon.com/zh_cn/redshift/latest/gsg/rs-gsg-create-sample-db.html
+
+执行
+
+```sql
+sql> copy users from 's3://awssampledbuswest2/tickit/allusers_pipe.txt'
+     credentials 'aws_iam_role=arn:aws-cn:iam::xxx:role/myRedshiftRole'
+     delimiter '|' region 'cn-northwest-1'
+```
+
+错误
+
+```
+[2019-09-30 15:30:45] [XX000][500310] [Amazon](500310) Invalid operation: User arn:aws-cn:redshift:cn-northwest-1:xxx:dbuser:xxx/xxx is not authorized to assume IAM Role arn:aws-cn:iam::xxx:role/myRedshiftRole
+```
+
+解决
+
+打开 cluster 设置，`IAM Roles` 应用一下权限即可。
+
+再次执行
+
+```
+[XX000][500310] [Amazon](500310) Invalid operation: S3ServiceException:The specified bucket does not exist,Status 404,Error NoSuchBucket,Rid
+```
+
+再次执行
+```sql
+copy users from 's3://awssampledbuswest2/tickit/allusers_pipe.txt'
+credentials 'aws_iam_role=arn:aws-cn:iam::xxx:role/myRedshiftRole'
+delimiter '|' region 'us-west-2';
+```
+```
+S3ServiceException:The provided token is malformed or otherwise invalid
+```
+
+https://docs.aws.amazon.com/zh_cn/redshift/latest/dg/s3serviceexception-error.html
+
+可能是集群和 s3 不在一个区域。
+
+- https://stackoverflow.com/questions/24860468/amazon-redshift-copy-command
+
+更改成宁夏区域：
+
+```sql
+copy users from 's3://awssampledbcnnorthwest1/tickit/allusers_pipe.txt'
+    credentials 'aws_iam_role=arn:aws-cn:iam::xxx:role/myRedshiftRole'
+    delimiter '|' region 'cn-northwest-1';
+```
+
+```sh
+[XX000][500310] [Amazon](500310) Invalid operation: S3ServiceException:Access Denied,Status 403,Error AccessDenied
+```
+
+柠檬了个鬼。
+
+https://s3.cn-northwest-1.amazonaws.com.cn/cybertrans/Book1.csv
+
+自己写了个数据放到 s3 上测试
+
+```sql
+copy users from 's3://cybertrans/users.csv'
+    credentials 'aws_iam_role=arn:aws-cn:iam::xxx:role/myRedshiftRole'
+    delimiter ',' region 'cn-northwest-1';
+```
+
+OK。
+
+文档中有复制权限到其他 region 的描述，没有测试。
+
+- https://docs.aws.amazon.com/zh_cn/redshift/latest/mgmt/authorizing-redshift-service.html
+
+## 表设计
+
+https://docs.aws.amazon.com/zh_cn/redshift/latest/dg/tutorial-tuning-tables-create-test-data.html
+
+---
+
 
 
