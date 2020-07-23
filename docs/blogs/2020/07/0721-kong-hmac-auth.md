@@ -61,3 +61,9 @@ HMAC-SHA 可以通过这个[在线工具](https://www.devglan.com/online-tools/h
 一般我们要求 `host`，`date`，`request-line` 来进行签名。要求高的话，就开启 request-body 校验。
 :::
 
+:::tip HMAC Auth的优点
+- 不传播密码
+- 参数加密，防止敏感信息
+- HMAC 摘要防篡改
+- 加入时间戳，防止重放攻击
+:::
