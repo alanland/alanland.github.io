@@ -20,6 +20,7 @@ RecordRTC 网页上有前端加 Logo 的例子，稍微改造了下，效果如�
 
 参考：
 
+- [Record RTC](https://recordrtc.org/)
 - [Draw Text on canvas in HTML5](http://www.authorcode.com/draw-text-on-canvas-in-html5/)
 - [HTML5 Canvas Text](http://tutorials.jenkov.com/html5-canvas/text.html)
 - [30+ Simple Demos using RecordRTC](https://www.webrtc-experiment.com/RecordRTC/simple-demos/)
