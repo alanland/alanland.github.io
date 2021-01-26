@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Aliyun Install Helm"
 date:   2019-05-20 11:23:37 +0000
 tags:   [kubernetes, helm, aliyun]
-author: Alan Wang
+categories: [DevOps]
 ---
 
 ## 本地安装 Helm

@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "大众点评开源分布式监控平台 CAT"
 date:   2010-01-18 09:23:37 +0000
 tags:   [dianping, cat]
-author: Alan Wang
 ---
 
 [OSChina CAT](https://www.oschina.net/p/cat-dianping)

@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "CSS calc and vh, vw"
 date:   2017-05-19 12:27:37 +0000
 tags:   [css, css3]
-author: Alan Wang
 ---
 今天看`jsfiddle.net`的样式发现了两个好玩而的东西，可以来解决之前很麻烦的布局问题。
 

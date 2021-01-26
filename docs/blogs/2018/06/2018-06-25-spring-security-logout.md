@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Spring Security Logout"
 date:   2018-06-25 12:23:37 +0000
 tags:   [spring, security]
-author: Alan Wang
 ---
 
 ## Logout inviladate session

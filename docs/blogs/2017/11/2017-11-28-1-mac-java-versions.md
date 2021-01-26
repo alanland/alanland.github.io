@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Multiple Java Environments on MacOS"
 date:   2017-11-28 10:23:37 +0000
 tags:   [java, mac]
-author: Alan Wang
 ---
 
 命令行下输入`java -version`如果没有安装就会提示去Oracle的网站下载安装。

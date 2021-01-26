@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Spring get HttpServletRequest"
 date:   2017-11-10 13:57:37 +0000
 tags:   [lua]
-author: Alan Wang
 ---
 
 # Lua 基本语法

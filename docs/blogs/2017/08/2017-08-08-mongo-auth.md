@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Mongo User"
 date:   2017-08-08 13:57:37 +0000
 tags:   [mongo]
-author: Alan Wang
 ---
 Compose 配置:
 

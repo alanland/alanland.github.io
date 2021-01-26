@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Spark DataFrame and DataSet API"
 date:   2017-08-05 13:57:37 +0000
 tags:   [spark]
-author: Alan Wang
+categories: [Java]
 ---
 ## SparkSession
 ```scala

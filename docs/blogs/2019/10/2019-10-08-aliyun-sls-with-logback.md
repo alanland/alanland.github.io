@@ -1,10 +1,8 @@
 ---
-layout: post
 title:  "Aliyun SLS with Logback"
 date:   2019-10-08T16:40:16.195Z
 tags:   [aliyun, logback, java]
 categories: [Java]
-author: Alan Wang
 ---
 
 之前使用阿里云的[日志服务SLS](https://sls.console.aliyun.com/lognext/profile)分析过 Nginx 的请求日志，由于内置的 Nginx 模板和 SQL 查询都

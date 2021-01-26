@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Auto generate Release Notes in gitlab"
 date:   2018-11-16 10:23:37 +0000
 tags:   [gitlab, git]
-author: Alan Wang
+categories: [DevOps]
 ---
 
 以下方案搜索自网络，未经过测试。

@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Count Source Code Lines"
 date:   2017-06-15 14:57:37 +0000
 tags:   [linux, shell]
-author: Alan Wang
+categories: [DevOps]
 ---
 使用命令行：
 ```shell

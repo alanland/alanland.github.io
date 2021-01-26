@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Prometheus AlertManager Email configuration"
 date:   2017-06-26 13:27:37 +0000
 tags:   [prometheus, alert-manager]
-author: Alan Wang
 ---
 ## docker-compose.yml
 ```yaml

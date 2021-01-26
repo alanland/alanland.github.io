@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Kubenetes 阿里云服务负载均衡内网IP"
 date:   2019-05-21 11:23:37 +0000
 tags:   [kubernetes, helm, aliyun]
-author: Alan Wang
+categories: [DevOps]
 ---
 
 在使用Helm的默认模板创建Service的时候，修改`Service`类型为`LoadBalancer`，阿里云会创建一个外网的负载均衡。

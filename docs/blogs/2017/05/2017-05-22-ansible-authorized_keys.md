@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Ansible authorized_keys"
 date:   2017-05-22 19:27:37 +0000
 tags:   [ssh, ansible, operation]
-author: Alan Wang
+categories: [DevOps]
 ref:
   - http://www.jianshu.com/p/fc88132924d5
 ---

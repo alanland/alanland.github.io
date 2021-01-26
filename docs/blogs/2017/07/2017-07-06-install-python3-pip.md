@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Python: install python3-pip"
 date:   2017-07-06 12:27:37 +0000
 tags:   [python]
-author: Alan Wang
+categories: [Python]
 ---
 ```shell
 $ sudo apt-get install python3-pip

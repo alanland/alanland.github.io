@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "JVM生产环境参数"
 date:   2019-06-03 12:25:37 +0000
 tags:   [linux, jvm]
-author: Alan Wang
 ---
 
 ## Java < 8

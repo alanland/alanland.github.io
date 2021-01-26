@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "两种内存溢出"
 date:   2019-06-03 12:23:37 +0000
 tags:   [linux, jvm, oom]
-author: Alan Wang
+categories: [DevOps]
 ---
 
 

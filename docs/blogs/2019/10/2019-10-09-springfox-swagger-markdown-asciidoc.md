@@ -1,10 +1,8 @@
 ---
-layout: post
 title:  "Springfox, Swagger, Asciidoc"
 date:   2019-10-09T15:23:34.498Z
 tags:   [java, gradle, swagger]
 categories: [Java]
-author: Alan Wang
 ---
 
 重新把文档纳入到 CI 里面，方案还是 Swagger 做注解，  用 Springfox 做集成，使用 Swagger2Markdown 插件转换成 Adoc，最后通过

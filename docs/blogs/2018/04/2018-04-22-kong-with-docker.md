@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Install Kong with Docker"
 date:   2018-04-22 08:23:37 +0000
 tags:   [docker, kong]
-author: Alan Wang
 ---
 
 ## 1. Link Kong to either a Cassandra or PostgreSQL container

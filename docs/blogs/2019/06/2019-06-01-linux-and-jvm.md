@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Linux常用运维命令"
 date:   2019-06-01 12:23:37 +0000
 tags:   [linux, jvm]
-author: Alan Wang
 ---
 
 ## 查看进程

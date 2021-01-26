@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Vue Router Load Just Once"
 date:   2017-09-05 12:57:37 +0000
 tags:   [vue]
-author: Alan Wang
 ---
 对于`component`相同的path, 点击之后并不会重新mount
 

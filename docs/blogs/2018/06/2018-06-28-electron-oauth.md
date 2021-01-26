@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Spring Security Logout"
 date:   2018-06-28 17:23:37 +0000
 tags:   [electron, oauth]
-author: Alan Wang
+categories: [Java]
 ---
 
 增加一个按钮（Login with GitHub），点击按钮打开一个`BrowserWindow`：

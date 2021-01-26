@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Ubuntu - System is booting up. See pam_nologin(8)"
 date:   2018-05-12 14:23:37 +0000
 tags:   [ubuntu]
-author: Alan Wang
 ---
 
 SSH 登录时：

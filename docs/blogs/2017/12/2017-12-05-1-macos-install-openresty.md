@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Install OpenResty in MacOS"
 date:   2017-12-05 10:23:37 +0000
 tags:   [macos, openresty, nginx]
-author: Alan Wang
+categories: [DevOps]
 ---
 
 

@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Get host Ip from docker"
 date:   2017-12-09 14:23:37 +0000
 tags:   [docker, macos]
-author: Alan Wang
 ---
 
 ## MacOS

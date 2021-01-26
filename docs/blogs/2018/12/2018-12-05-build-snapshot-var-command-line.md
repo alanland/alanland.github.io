@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "通过命令行参数执行不同版本的Gradle构建"
 date:   2018-12-05 11:23:37 +0000
 tags:   [gradle]
-author: Alan Wang
 ---
 
 ## `build.gradle`

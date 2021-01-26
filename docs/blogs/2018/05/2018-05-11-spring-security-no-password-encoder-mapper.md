@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Spring Security 5 – There is no PasswordEncoder mapped for the id “null”"
 date:   2018-05-11 11:23:37 +0000
 tags:   [Sping Security]
-author: Alan Wang
 ---
 
 Spring Security 5 – There is no PasswordEncoder mapped for the id “null”

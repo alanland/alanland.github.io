@@ -1,10 +1,8 @@
 ---
-layout: post
 title:  "Aliyun Kubernetes error with delete Pod"
 date:   2019-10-08 10:58:00 +0000
 tags:   [kubernetes, aliyun]
 categories: [Cloud]
-author: Alan Wang
 ---
 
 Aliyun 的 Kubernetes 测试环境 CI 更新的时候，卡住了。 

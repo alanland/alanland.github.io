@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "VSCode plugins"
 date:   2017-08-11 11:57:37 +0000
 tags:   [ide, vscode]
-author: Alan Wang
+categories: [前端]
 ---
 ESLint
 Prettier JavaScript Formatter

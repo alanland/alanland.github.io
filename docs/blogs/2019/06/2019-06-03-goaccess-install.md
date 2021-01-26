@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "GoAccess Install"
 date:   2019-06-03 12:28:37 +0000
 tags:   [linux, nginx, goaccess]
-author: Alan Wang
 ---
 
 

@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Pandas: Series"
 date:   2017-09-17 03:57:37 +0000
 tags:   [python, pandas]
-author: Alan Wang
 ---
 
 ## 安裝

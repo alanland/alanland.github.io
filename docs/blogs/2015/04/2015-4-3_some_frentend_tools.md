@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "一些前端工具"
 date:   2015-04-03 23:29:37 +0000
 tags:   [js, web]
-author: Alan Wang
+categories: [前端]
 ---
 
 前端开发总归少不了用到很多工具,想到的列出来,有些想起来再补充吧.

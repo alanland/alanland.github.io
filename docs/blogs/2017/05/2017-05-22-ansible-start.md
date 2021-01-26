@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Ansible Start"
 date:   2017-05-22 18:27:37 +0000
 tags:   [ssh, ansible, operation]
-author: Alan Wang
 ---
 ubuntu安装：
 ```sh

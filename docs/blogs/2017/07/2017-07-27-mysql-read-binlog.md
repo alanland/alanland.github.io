@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "MySql read binlog"
 date:   2017-07-27 11:27:37 +0000
 tags:   [mysql, binlog]
-author: Alan Wang
+categories: [DevOps]
 ---
 
 拷贝或者下载binlog文件，比如　`mysql-bin00000111`

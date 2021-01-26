@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "non-ASCII Text in HTTP Header Fields"
 date:   2015-03-31 23:29:37 +0000
 tags:   [js, http]
-author: Alan Wang
 ---
 
 今天程序出现下面问题，才知道原来HttpHeader里面不能放`non ascii`的内容．

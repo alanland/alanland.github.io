@@ -1,10 +1,8 @@
 ---
-layout: post
 title:  "AWS CLI and RedShift"
 date:   2019-09-30 14:58:00 +0000
 tags:   [aws, redshift]
 categories: [Tools]
-author: Alan Wang
 ---
 
 AWS 使用的第一个服务 RedShift。从安装命令行开始，到数据连接测试。中间拷贝数据遇到了点问题， 最后自己上传了一份样例数据到 S3 上进行了测试。

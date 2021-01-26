@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "How to Clear Nginx Cache"
 date:   2019-06-10 12:13:37 +0000
 tags:   [nginx]
-author: Alan Wang
 ---
 
 ## Clear Nginx Proxy cache

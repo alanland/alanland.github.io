@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "GLIBCXX_3.4.20 not found"
 date:   2017-08-08 11:57:37 +0000
 tags:   [mongo]
-author: Alan Wang
+categories: [DevOps]
 ---
 Basically, just do the following commands: Firstly, install:
 

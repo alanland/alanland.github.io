@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Electron package"
 date:   2017-09-08 12:57:37 +0000
 tags:   [js, electron]
-author: Alan Wang
 ---
 
 ## Run

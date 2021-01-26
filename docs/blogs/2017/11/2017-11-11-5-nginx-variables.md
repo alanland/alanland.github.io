@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Nginx: Variable Usage"
 date:   2017-11-11 21:17:37 +0000
 tags:   [nginx]
-author: Alan Wang
 ---
 
 Nginx的配置文件也算是一门编程语言，设计上受 Perl 和 Bourne shell 的影响。

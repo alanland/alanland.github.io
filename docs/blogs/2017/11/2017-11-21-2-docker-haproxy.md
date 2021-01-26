@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Docker HAProxy"
 date:   2017-11-21 17:23:37 +0000
 tags:   [docker, haproxy]
-author: Alan Wang
 ---
 
 

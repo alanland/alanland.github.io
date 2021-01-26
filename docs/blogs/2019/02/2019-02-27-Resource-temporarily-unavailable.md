@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "-bash: fork: retry: Resource temporarily unavailable"
 date:   2019-02-27 11:23:37 +0000
 tags:   [linux]
-author: Alan Wang
+categories: [DevOps]
 ---
 
 -bash: fork: retry: Resource temporarily unavailable

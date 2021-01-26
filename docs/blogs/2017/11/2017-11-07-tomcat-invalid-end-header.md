@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Tomcat: Zip exception: Invalid end header"
 date:   2017-11-07 04:57:37 +0000
 tags:   [tomcat, vpn]
-author: Alan Wang
 ---
 
 ```

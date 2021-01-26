@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "MacOS Openresty"
 date:   2018-08-20 10:23:37 +0000
 tags:   [openresty, macos]
-author: Alan Wang
 ---
 
 

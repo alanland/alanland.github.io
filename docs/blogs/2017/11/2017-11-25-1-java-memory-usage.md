@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Java Application Memory Usage"
 date:   2017-11-25 17:23:37 +0000
 tags:   [java, memory]
-author: Alan Wang
+categories: [DevOps]
 ---
 
 Top command reflects the total amount of memory used by the Java application. This includes among other things:

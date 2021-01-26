@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Linux Mac Address"
 date:   2017-05-09 14:07:37 +0000
 tags: [ linux ]
-author: Alan Wang
+categories: [DevOps]
 ---
 Linux 上查看Mac地址：
 

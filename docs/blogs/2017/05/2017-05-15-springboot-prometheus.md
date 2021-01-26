@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "SpringBoot Prometheus"
 date:   2017-05-15 13:27:37 +0000
 tags:   [springboot, prometheus]
-author: Alan Wang
+categories: [Java]
 ---
 首先配置依赖：
 

@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "IntelliJ Idea Plugins"
 date:   2017-07-26 13:27:37 +0000
 tags:   [mysql, profile]
-author: Alan Wang
+categories: [Java]
 ---
 
 ## [Flow](http://findtheflow.io/)

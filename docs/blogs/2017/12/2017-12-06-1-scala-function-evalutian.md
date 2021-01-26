@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Scala: Evaluation of Function Applications"
 date:   2017-12-06 23:23:37 +0000
 tags:   [scala, fp]
-author: Alan Wang
 ---
 
 有参数的函数，和表达式的计算方法类似：

@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Hadoop install"
 date:   2017-06-11 10:27:37 +0000
 tags:   [bigdata, hadoop]
-author: Alan Wang
 ---
 首先去[官网](http://hadoop.apache.org/releases.html)下载hadoop.本文书写时最新版为`3.0.0-alpha3`，
 最新稳定版为`2.8.0`。

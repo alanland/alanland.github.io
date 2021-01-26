@@ -1,12 +1,10 @@
 ---
-layout: post
 title:  "Docker Compose v3"
 date:   2017-04-11 00:53:24 +0000
 img:  docker-jekyll.jpg
 description: Docker Compose v3
 categories: [Docker]
 tags:   [container, docker, swarm, kubernetes, mesos]
-author: Alan Wang
 ---
 从 1.13 开始，Docker 命令行工具支持直接使用 v3 版本的 docker-compose.yml 文件来进行应用栈(stack)部署管理。
 

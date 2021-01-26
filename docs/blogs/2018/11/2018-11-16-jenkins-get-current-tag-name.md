@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Jenkins get current tag name"
 date:   2018-11-16 16:29:37 +0000
 tags:   [git, jenkins, ci]
-author: Alan Wang
 ---
 
 前提是 HEAD is tagged

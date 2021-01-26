@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Nginx/OpenResty: Rate Limit"
 date:   2017-11-11 12:57:37 +0000
 tags:   [ratelimite, nginx, openresty, lua]
-author: Alan Wang
+categories: [DevOps]
 ---
 
 ## 手动方案

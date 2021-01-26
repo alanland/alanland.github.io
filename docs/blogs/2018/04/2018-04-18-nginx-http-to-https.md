@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Nginx HTTP to HTTPS"
 date:   2018-04-18 12:43:37 +0000
 tags:   [nginx, ssl]
-author: Alan Wang
 ---
 
 ## 简单重定向方法

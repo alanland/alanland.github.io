@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Js Mobile double-tap"
 date:   2017-08-07 11:57:37 +0000
 tags:   [js, mobile]
-author: Alan Wang
 ---
 
 由于移动设备没有双击事件,我们使用一下代码来实现.

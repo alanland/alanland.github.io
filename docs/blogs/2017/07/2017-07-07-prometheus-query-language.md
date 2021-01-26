@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Prometheus: Query Language"
 date:   2017-07-07 09:27:37 +0000
 tags:   [prometheus]
-author: Alan Wang
 ---
 ## data type
 比如数据: 

@@ -1,10 +1,9 @@
 +
 ---
-layout: post
 title:  "Jekins build and upload with git tag version"
 date:   2018-12-14 11:23:37 +0000
 tags:   [git, gradle, jenkins, ci]
-author: Alan Wang
+categories: [DevOps]
 ---
 
 如何使用git的tag版本号作为项目的版本号进行打包和发布：

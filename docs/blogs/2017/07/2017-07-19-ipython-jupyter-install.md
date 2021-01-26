@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Jupyter Notebook"
 date:   2017-07-19 10:27:37 +0000
 tags:   [python, ipython, jupyter, notebook]
-author: Alan Wang
 ---
 ## 安装
 

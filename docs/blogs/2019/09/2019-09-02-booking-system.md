@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "书写工具的选择"
 date:   2019-09-02 12:15:37 +0000
 tags:   [booking]
-author: Alan Wang
+categories: [Blog]
 ---
 
 ## gitbook

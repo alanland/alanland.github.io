@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Mongo WiredTiger 内存设置"
 date:   2019-01-09 11:23:37 +0000
 tags:   [mongo]
-author: Alan Wang
 ---
 
 Docker 启动命令：

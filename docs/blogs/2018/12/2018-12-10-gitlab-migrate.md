@@ -1,10 +1,8 @@
 +
 ---
-layout: post
 title:  "Gitlab服务器迁移"
 date:   2018-12-10 11:23:37 +0000
 tags:   [gitlab]
-author: Alan Wang
 ---
 
 ## 同版本迁移

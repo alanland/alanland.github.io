@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Pac4j - SpringMVC - SecurityLogic"
 date:   2018-05-09 08:23:37 +0000
 tags:   [spring, springmvc, pac4j]
-author: Alan Wang
+categories: [Java]
 ---
 
 Pac4j-SpringMVC 使用 intercepter 来实现实现权限控制：

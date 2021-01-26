@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Refactoring: Parameter Object"
 date:   2017-08-11 11:57:37 +0000
 tags:   [refactoring, parameter-object]
-author: Alan Wang
 ---
 对于方法参数过多的时候,重构的时候需要将多个参数封装成一个`参数对象`:
 

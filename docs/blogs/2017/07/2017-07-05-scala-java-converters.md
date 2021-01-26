@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Scala: JavaConverters"
 date:   2017-07-06 10:57:37 +0000
 tags:   [scala]
-author: Alan Wang
 ---
 ## `scala.collection.JavaConverters`
 

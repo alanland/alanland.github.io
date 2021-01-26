@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Lua: Array Length"
 date:   2017-11-11 13:27:37 +0000
-tags:   [lua]
-author: Alan Wang
+tags:   [lua, Nginx]
+categories: [Lua]
 ---
 lua 数组需要注意的细节
 

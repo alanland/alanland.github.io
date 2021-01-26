@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Gradle Dependency Types"
 date:   2019-09-04 12:15:37 +0000
 tags:   [gradle]
-author: Alan Wang
+categories: [Java]
 ---
 
 

@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Supervisor Tutorial"
 date:   2017-10-25 05:57:37 +0000
 tags:   [ubuntu, supervisor]
-author: Alan Wang
 ---
 
 ## Install

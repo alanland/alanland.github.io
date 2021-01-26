@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Kubernetes Dashboard UI"
 date:   2018-04-19 14:23:37 +0000
 tags:   [kubernetes]
-author: Alan Wang
 ---
 
 运行命令，deploy：

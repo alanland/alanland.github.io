@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Daily UI: 002 Credit Card Checkout"
 date:   2018-05-28 12:23:37 +0000
 tags:   [dailyui]
-author: Alan Wang
 ---
 
 > #002

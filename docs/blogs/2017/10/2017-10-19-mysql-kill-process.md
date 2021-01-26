@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Mysql batch kill connections"
 date:   2017-10-19 05:57:37 +0000
 tags:   [mysql]
-author: Alan Wang
 ---
 
 ```sql

@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "SonarQube Install"
 date:   2017-06-11 10:57:37 +0000
 tags:   [bigdata, spark]
-author: Alan Wang
 ---
 主页
 https://www.sonarqube.org/

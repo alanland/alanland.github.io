@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "MacOS Docker Bash Completion"
 date:   2017-12-19 09:23:37 +0000
 tags:   [macos, docker]
-author: Alan Wang
+categories: [DevOps]
 ---
 
 

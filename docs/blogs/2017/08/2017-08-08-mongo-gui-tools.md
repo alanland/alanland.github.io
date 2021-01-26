@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Mongo Gui Tools"
 date:   2017-08-08 11:57:37 +0000
 tags:   [mongo]
-author: Alan Wang
 ---
 ##　[MongoDB Compass](https://www.mongodb.com/download-center#compass)
 

@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Arduino: 01. Getting Started"
 date:   2017-07-15 00:27:37 +0000
 tags:   [arduino]
-author: Alan Wang
 ---
 今天想起来以前买的Arduino板子,已经放在公司一年多了.晚上带回家里充上电,重新玩儿一下.
 

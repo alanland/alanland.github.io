@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Aliyun Kubernetes LBS"
 date:   2019-05-24 12:23:37 +0000
 tags:   [kubernetes, lbs, aliyun]
-author: Alan Wang
+categories: [DevOps]
 ---
 
 ## 使用已有的内网 SLB

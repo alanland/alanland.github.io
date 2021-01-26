@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Gradle: Groovy CompileStatic"
 date:   2017-11-11 13:57:37 +0000
 tags:   [gradle, groovy]
-author: Alan Wang
+categories: [Java]
 ---
 
 Create a config `groovyOptionsConfig.groovy`:

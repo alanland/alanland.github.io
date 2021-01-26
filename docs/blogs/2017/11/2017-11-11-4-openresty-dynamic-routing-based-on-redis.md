@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "OpenResty: Dynamic Routing Based On Redis"
 date:   2017-11-11 17:57:37 +0000
 tags:   [ratelimite, nginx, openresty, lua]
-author: Alan Wang
+categories: [DevOps]
 ---
 
 来自官网例子，通过请求头里面的`User-Agent`把请求路由到不同的后端。

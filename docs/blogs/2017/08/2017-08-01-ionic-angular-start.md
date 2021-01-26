@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Ionic and Angular TimeSheet"
 date:   2017-08-01 11:27:37 +0000
 tags:   [ionic, angular]
-author: Alan Wang
+categories: [前端]
 ---
 昨天用Ionic3和Angular4做了一个TeamForce客户端,简单记录下.
 

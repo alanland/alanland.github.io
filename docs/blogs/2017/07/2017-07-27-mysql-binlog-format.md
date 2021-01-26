@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "MySql binlog format"
 date:   2017-07-27 12:27:37 +0000
 tags:   [mysql, binlog]
-author: Alan Wang
 ---
 MySql二进制日志(binlog)有`3`种不同的格式可选：`Mixed`,`Statement`,`Row`，
 默认格式是`Statement`.

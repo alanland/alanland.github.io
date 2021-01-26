@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "View log runtime using redis"
 date:   2017-07-17 20:27:37 +0000
 tags:   [redis, logback, java]
-author: Alan Wang
 ---
 一个在线查看日志的需求,要可以运行时查看(点击查看开始看,点击停止就不看了).
 

@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "SpringMVC Swagger: unable to infer base url"
 date:   2017-11-28 17:23:37 +0000
 tags:   [springmvc ,swagger, springframework]
-author: Alan Wang
+categories: [Java]
 ---
 
 Swagger UI 使用Chrome访问的时候不停的弹框，而使用Safari则没有弹窗的问题：

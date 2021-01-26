@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Vue v-for 数组对象属性绑定"
 date:   2017-09-06 12:57:37 +0000
 tags:   [js]
-author: Alan Wang
+categories: [前端]
 ---
 
 在数组循环的时候,如下绑定不起作用.

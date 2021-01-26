@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Spring Security Postgresql"
 date:   2018-05-10 08:23:37 +0000
 tags:   [spring-security, postgres]
-author: Alan Wang
+categories: [Java]
 ---
 
 ```java

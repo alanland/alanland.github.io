@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "semaphore"
 date:   2017-09-14 14:57:37 +0000
 tags:   [ansible, semaphore]
-author: Alan Wang
+categories: [DevOps]
 ---
 
 写程序遇到问题,想看下源码,才发现这个是用`go`写的,继续转向google.

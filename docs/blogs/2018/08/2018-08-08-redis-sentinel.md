@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Redis Sentinel"
 date:   2018-08-08 14:23:37 +0000
 tags:   [redis]
-author: Alan Wang
 ---
 
 ## master

@@ -1,12 +1,10 @@
 ---
-layout: post
 title:  "Docker WorkPress Cluster"
 date:   2017-04-12 14:25:49 +0000
 img:  docker-jekyll.jpg
 description: Docker WordPress Cluster
 categories: [Docker]
 tags:   [container, docker, swarm, compose, cluster]
-author: Alan Wang
 ---
 准备： Docker 1.13, Swarm mode, Compose v3
 

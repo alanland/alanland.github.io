@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Spring Get Queue Size"
 date:   2018-04-18 12:23:37 +0000
 tags:   [spring, rabbitmq]
-author: Alan Wang
 ---
 ```groovy
 import org.springframework.amqp.rabbit.core.RabbitAdmin

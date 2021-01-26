@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Tomcat Connections Close Wait"
 date:   2017-11-15 10:23:37 +0000
 tags:   [tomcat]
-author: Alan Wang
 ---
 
 设置 server.xml `keepAliveTimeout="0"`

@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "C3: Simple DrillDown"
 date:   2017-06-24 12:27:37 +0000
 tags:   [c3, chart, drilldown]
-author: Alan Wang
 ---
 
 使用c3来实现数据下钻的一个例子.原理就是使用点击事件,load新的数据,

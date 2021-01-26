@@ -1,12 +1,10 @@
 ---
-layout: post
 title:  "Scala Implicit"
 date:   2017-04-07 21:36:12 +0000
 img:  docker-jekyll.jpg
 description: Scala Implicit
 categories: [Scala]
 tags:   [container, docker, swarm, kubernetes, mesos]
-author: Alan Wang
 ---
 `implicit`用法：
 

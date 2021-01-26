@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "DockerUI started"
 date:   2016-01-29 23:29:37 +0000
 tags:   [docker]
-author: Alan Wang
 ---
 
 [dockerui](https://github.com/crosbymichael/dockerui)。一个docker的可视化工具，能对进行管理。

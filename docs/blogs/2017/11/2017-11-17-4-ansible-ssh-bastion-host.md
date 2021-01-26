@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Ansible SSH Bastion Host"
 date:   2017-11-17 19:23:37 +0000
 tags:   [ansible, ssh, bastion]
-author: Alan Wang
 ---
 
 在ansible的使用过程中，存在这样的场景，ansible所在的管理节点与被管理的机器需要 通过一个跳板机才能连接，无法直接连接。网上搜了一下，要解决这个问题，并不需要在 ansible里做什么处理，而是在ssh连接层面解决这个问题。

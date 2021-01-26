@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Spark Tutorial 1"
 date:   2017-12-01 22:23:37 +0000
 tags:   [scala, spark]
-author: Alan Wang
 ---
 
 这里我使用熟悉的groovy来构建项目。

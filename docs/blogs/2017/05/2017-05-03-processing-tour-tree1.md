@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Processing Tree"
 date:   2017-05-03 23:27:37 +0000
 tags:   [processing]
-author: Alan Wang
 ---
 首先画一个渐进的背景：
 

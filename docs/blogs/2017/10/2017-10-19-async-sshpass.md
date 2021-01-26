@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Use rsync with sshpass"
 date:   2017-10-19 03:57:37 +0000
 tags:   [linux]
-author: Alan Wang
 ---
 
 使用sshpass：

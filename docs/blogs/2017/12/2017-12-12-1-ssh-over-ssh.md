@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "SSH over SSH"
 date:   2017-12-12 13:23:37 +0000
 tags:   [linux, ssh]
-author: Alan Wang
 ---
 
 通过 user2@ip2 password2 作为跳板机登录 ip1

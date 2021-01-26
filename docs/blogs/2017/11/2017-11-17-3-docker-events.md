@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Docker Events"
 date:   2017-11-17 18:23:37 +0000
 tags:   [docker]
-author: Alan Wang
 ---
 
 js获取时间:

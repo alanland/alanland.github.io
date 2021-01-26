@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "MySql: Profiling"
 date:   2017-07-24 13:27:37 +0000
 tags:   [mysql, profile]
-author: Alan Wang
 ---
 
 ```sql

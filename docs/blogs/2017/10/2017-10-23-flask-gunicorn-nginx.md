@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Flask Gunicorn Nginx delpoy"
 date:   2017-10-23 04:57:37 +0000
 tags:   [python, flask, supervisor]
-author: Alan Wang
+categories: [Python]
 ---
 
 ## Gunicorn

@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Java Heap Unreachable Objects"
 date:   2019-03-26 11:23:37 +0000
 tags:   [jvm, heap]
-author: Alan Wang
 ---
 
 ## Histogram of Unreachable Objects

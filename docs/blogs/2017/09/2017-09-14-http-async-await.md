@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "JS async await"
 date:   2017-09-14 12:57:37 +0000
 tags:   [js, es7]
-author: Alan Wang
 ---
 
 - The `async` function declaration defines an asynchronous function, which returns an AsyncFunction object.

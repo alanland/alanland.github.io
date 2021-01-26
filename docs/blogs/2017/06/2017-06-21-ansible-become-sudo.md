@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Ansible: Become(sudo)"
 date:   2017-06-21 18:27:37 +0000
 tags:   [ansible]
-author: Alan Wang
 ---
 
 

@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "APScheduler Local Timezone"
 date:   2017-12-11 10:23:37 +0000
 tags:   [python, apscheduler]
-author: Alan Wang
 ---
 
 将Python程序打包到Docker里面运行的时候，报错：

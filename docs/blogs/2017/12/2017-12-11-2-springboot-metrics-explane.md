@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Springboot Metrics"
 date:   2017-12-11 11:23:37 +0000
 tags:   [springboot, metrics]
-author: Alan Wang
+categories: [Java]
 ---
 
 ```json

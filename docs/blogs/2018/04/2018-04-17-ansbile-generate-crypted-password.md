@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Ansible Generate Crypted Password for User Module)"
 date:   2018-04-17 11:23:37 +0000
 tags:   [ansible, linux]
-author: Alan Wang
+categories: [DevOps]
 ---
 The mkpasswd utility that is available on most Linux systems is a great option:
 

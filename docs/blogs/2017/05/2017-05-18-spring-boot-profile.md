@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Spring Boot Profile"
 date:   2017-05-18 21:27:37 +0000
 tags:   [spring, spring-boot, profile, yml]
-author: Alan Wang
 ref:
  - https://docs.spring.io/spring-boot/docs/current/reference/html/howto-properties-and-configuration.html
 ---

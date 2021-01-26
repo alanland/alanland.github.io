@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Ansible Bastion Access"
 date:   2018-04-26 08:23:37 +0000
 tags:   [ansible, bastion]
-author: Alan Wang
 ---
 
 使用`sshpass`，修改 inventory 文件：

@@ -1,11 +1,9 @@
 ---
-layout: post
 title:  "Custom Cbtree Icons"
 date:   2017-04-19 19:54:28 +0000
 img:  docker-jekyll.jpg
 description: Custom Cbtree Icons
 tags:   [dojo, dijit, cbtree, icon]
-author: Alan Wang
 ---
 关于自定义Cbtree Icon，此文只讲实现，不讲原理：
 

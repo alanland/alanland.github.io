@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Idea Run Dashboard"
 date:   2018-05-21 15:23:37 +0000
 tags:   [idea]
-author: Alan Wang
 ---
 
 Idea 2017.1 增加了 `Spring Boot Run Dashboard`，如果配置为Spring Boot 运行仍然找不到该窗口，可以编辑文件

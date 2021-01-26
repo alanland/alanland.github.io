@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Export Sql Result to Excel"
 date:   2017-09-29 03:57:37 +0000
 tags:   [mqsql]
-author: Alan Wang
 ---
 
 ## 方案一

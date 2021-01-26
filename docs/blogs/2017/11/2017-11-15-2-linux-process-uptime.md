@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Linux Process uptime"
 date:   2017-11-15 09:23:37 +0000
 tags:   [linux, uptime]
-author: Alan Wang
 ---
 
 As "uptime" has several meanings, here is a useful command.

@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "MySql JDBC batch operation performance"
 date:   2017-07-24 13:27:37 +0000
 tags:   [mysql, jdbc]
-author: Alan Wang
 ---
 对一个50多万行记录的表中更新数据,每次读取1000,根据主键id进行更新,
 每次对1000条数据进行更新,测试平局消耗时间大概在18秒.

@@ -1,12 +1,10 @@
 ---
-layout: post
 title:  "Dependent Object Types"
 date:   2017-04-07 21:36:12 +0000
 img:  docker-jekyll.jpg
 description:
 categories: [Scala]
 tags:   [language, dot, scala]
-author: Alan Wang
 ---
 下面是关于DOT的一些资料：
 

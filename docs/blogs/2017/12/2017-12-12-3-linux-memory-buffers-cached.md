@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Linux memory"
 date:   2017-12-12 15:23:37 +0000
 tags:   [linux, memory]
-author: Alan Wang
 ---
 
 ## 手动释放

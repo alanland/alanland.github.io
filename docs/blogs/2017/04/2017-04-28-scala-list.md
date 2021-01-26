@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Scala List"
 date:   2017-04-28 19:07:37 +0000
 tags:   [scala]
-author: Alan Wang
 ---
 Scala list 常用操作：
 

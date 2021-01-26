@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Jackson Java Time"
 date:   2018-05-21 13:23:37 +0000
 tags:   [java, jackson]
-author: Alan Wang
 ---
 
 Jackson为Java 8 Time Api专门推出了一个Modlue，`jackson-modules-java8`，不再使用之前的`jsr310module`.

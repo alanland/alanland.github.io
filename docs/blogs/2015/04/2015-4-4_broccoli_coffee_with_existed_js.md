@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Broccoli Coffee 插件处理已经存在的同名js文件"
 date:   2015-04-04 23:29:37 +0000
 tags:   [js, broccoli, coffee]
-author: Alan Wang
 ---
 
 今天测试`Broccoli`这个工具,前面都好好的,谁知到coffe编译的时候出了问题.

@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Listening Events using Slot"
 date:   2017-09-11 11:57:37 +0000
 tags:   [vue, slot]
-author: Alan Wang
+categories: [前端]
 ---
 
 ```

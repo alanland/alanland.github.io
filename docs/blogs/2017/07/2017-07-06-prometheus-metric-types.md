@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Prometheus: Metric Types"
 date:   2017-07-06 14:27:37 +0000
 tags:   [prometheus]
-author: Alan Wang
 ---
 ## Counter
 - Counter 用于累计值，例如 记录 请求次数、任务完成数、错误发生次数。

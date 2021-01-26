@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Flask: Blueprints"
 date:   2017-09-16 09:57:37 +0000
 tags:   [flask, python]
-author: Alan Wang
 ---
 
 Flask 的 Blueprints 可以让我们来模块化的组织路由,代码,资源文件和静态文件.

@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Ansible create user with SUDO privilege"
 date:   2017-09-15 11:57:37 +0000
 tags:   [ansible]
-author: Alan Wang
 ---
 ## 直接给 sudo group
 

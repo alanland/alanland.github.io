@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Tomcat Post Request Header Invalid Character"
 date:   2017-05-18 12:27:37 +0000
 tags:   [tomcat]
-author: Alan Wang
+categories: [Java]
 ---
 使用Tomcat之后，遇到了下面一个报错：
 ```

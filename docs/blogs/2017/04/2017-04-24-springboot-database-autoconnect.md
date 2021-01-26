@@ -1,11 +1,10 @@
 ---
-layout: post
 title:  "Spring Boot Database Auto Connect"
 date:   2017-04-24 10:07:37 +0000
 img:  docker-jekyll.jpg
 description: "Spring Boot Database Auto Connect"
 tags:   [spring, springboot, database, java]
-author: Alan Wang
+categories: [Java]
 ---
 SpringBoot配置数据库的自动重连：
 

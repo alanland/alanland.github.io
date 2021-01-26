@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Github Pages locally with Jekyll"
 date:   2017-05-15 19:27:37 +0000
 tags:   [jekyll, github-pages]
-author: Alan Wang
+categories: [Blog]
 ---
 可以搭建一个本地的Jekyll服务器，查看你的Github Pages。
 

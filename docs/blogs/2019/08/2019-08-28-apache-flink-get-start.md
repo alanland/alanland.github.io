@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Apache Flink 初探1"
 date:   2019-08-29 12:13:37 +0000
 tags:   [flink, scala]
-author: Alan Wang
+categories: [BigData]
 ---
 
 ## 安装

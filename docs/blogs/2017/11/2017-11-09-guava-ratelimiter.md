@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Guava RateLimiter"
 date:   2017-11-09 11:57:37 +0000
 tags:   [guava, ratelimeiter, design]
-author: Alan Wang
+categories: [Java]
 ---
 
 从 [Guava Libraries](https://code.google.com/p/guava-libraries/) `13.0` 智斗增加了

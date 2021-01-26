@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Spring Boot OAuth2 Single Sign Off (Logout) Programmatically"
 date:   2018-05-11 16:23:37 +0000
 tags:   [spring-security, oauth]
-author: Alan Wang
 ---
 
 ## In the client app (WebSecurityConfigurerAdapter):

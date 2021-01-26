@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "SSH over SSH"
 date:   2017-12-12 14:23:37 +0000
 tags:   [linux]
-author: Alan Wang
 ---
 
 # 查看哪些IP连接本机

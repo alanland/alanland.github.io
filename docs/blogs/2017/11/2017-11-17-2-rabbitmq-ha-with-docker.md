@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "RabbitMQ ha with Docker"
 date:   2017-11-17 12:23:37 +0000
 tags:   [rabbitmq, docker, ha, cluster]
-author: Alan Wang
+categories: [DevOps]
 ---
 
 ## `docker-compose.xml`

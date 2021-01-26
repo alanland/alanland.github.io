@@ -1,10 +1,8 @@
 ---
-layout: post
 title:  "Gradle Plugin Management"
 date:   2019-10-21T15:52:50.200Z
 tags:   [gradle]
 categories: [Java]
-author: Alan Wang
 ---
 
 Gradle plugins 的私服设置：

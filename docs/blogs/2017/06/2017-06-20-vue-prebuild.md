@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Vue: runtime-only build"
 date:   2017-06-20 18:27:37 +0000
 tags:   [javascript, vue]
-author: Alan Wang
 ---
 ```
 VM17700:431 [Vue warn]: You are using the runtime-only build

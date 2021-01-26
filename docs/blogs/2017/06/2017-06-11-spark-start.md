@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Spark Start"
 date:   2017-06-11 10:57:37 +0000
 tags:   [bigdata, spark]
-author: Alan Wang
 ---
 去[官网](http://spark.apache.org/downloads.html)下载Spark，比如`2.1.0,hadoop 2.7`，
 现在我用本机运行测试程序，直接使用java依赖。

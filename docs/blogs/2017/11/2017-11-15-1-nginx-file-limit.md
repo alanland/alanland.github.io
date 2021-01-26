@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Linux/Nginx: Open File Limit"
 date:   2017-11-15 09:17:37 +0000
 tags:   [linux, nginx, ulimit]
-author: Alan Wang
 ---
 
 

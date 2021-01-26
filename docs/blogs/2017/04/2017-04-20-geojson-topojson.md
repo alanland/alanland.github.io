@@ -1,11 +1,9 @@
 ---
-layout: post
 title:  "GeoJson and TopoJson"
 date:   2017-04-19 23:17:49 +0000
 img:  docker-jekyll.jpg
 description: GeoJson and TopoJson
 tags:   [js, d3, geojson, topjson]
-author: Alan Wang
 ---
 ## GeoJson
 

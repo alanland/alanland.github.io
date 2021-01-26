@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Install ruby 2.4 in Ubuntu"
 date:   2017-05-15 13:27:37 +0000
 tags:   [ubuntu, ruby]
-author: Alan Wang
+categories: [DevOps]
 ---
 更新Ruby版本为2.4：
 

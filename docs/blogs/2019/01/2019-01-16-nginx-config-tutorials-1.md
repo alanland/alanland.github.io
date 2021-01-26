@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Nginx 配置学习 - 1"
 date:   2019-01-16 11:23:37 +0000
 tags:   [nginx]
-author: Alan Wang
 ---
 
  PS: 原文链接在末尾

@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Java Heap GroovyClassLoader"
 date:   2019-04-15 11:23:37 +0000
 tags:   [jvm, heap, groovy]
-author: Alan Wang
 ---
 Groovy is a dynamic language, every method call is dispatched dynamically. To optimise that Groovy creates a `MetaClass` for every `java.lang.Class` in the `MetaClassRegistry`. These MetaClass instances are created on-demand and stored using Weak references.
 

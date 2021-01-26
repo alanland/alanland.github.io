@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Filebeat: Nginx log"
 date:   2017-12-11 17:23:37 +0000
 tags:   [logstash, nginx, filebeat]
-author: Alan Wang
 ---
 2017-12-12 15:16:58.105 [http-nio-30010-exec-368] ERROR o.springframework.boot.web.support.ErrorPageFilter - Cannot forward to error page for request [/wms/rf/invQuery/getLocInventorys] as the response has already been committed. As a result, the response may have the wrong status code. If your application is running on WebSphere Application Server you may be able to resolve this problem by setting com.ibm.ws.webcontainer.invokeFlushAfterService to false
 org.apache.catalina.connector.ClientAbortException: java.io.IOException: Broken pipe

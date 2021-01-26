@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Flask: Streaming Content"
 date:   2017-09-16 01:57:37 +0000
 tags:   [flask, python]
-author: Alan Wang
+categories: [Python]
 ---
 
 ## Basic Usage

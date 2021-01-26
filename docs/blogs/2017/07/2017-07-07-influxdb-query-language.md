@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "InfluxDB: Query Language"
 date:   2017-07-07 15:27:37 +0000
 tags:   [influxdb]
-author: Alan Wang
 ---
 ## influxDB名词
 - database：数据库；

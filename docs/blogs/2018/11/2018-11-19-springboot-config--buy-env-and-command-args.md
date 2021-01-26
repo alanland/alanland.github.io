@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "通过命令行参数和环境变量配置 SpringBoot Config（yml）"
 date:   2018-11-19 11:23:37 +0000
 tags:   [spring,springboot]
-author: Alan Wang
 ---
 
 ## 通过 Application Property Files

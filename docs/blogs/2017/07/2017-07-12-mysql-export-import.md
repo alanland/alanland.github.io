@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Mysql backup database"
 date:   2017-07-12 09:27:37 +0000
 tags:   [mysql]
-author: Alan Wang
 ---
 
 ```shell

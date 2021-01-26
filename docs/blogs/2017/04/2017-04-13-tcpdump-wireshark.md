@@ -1,12 +1,10 @@
 ---
-layout: post
 title:  "TCPDump Wireshark"
 date:   2017-04-17 20:49:17 +0000
 img:  docker-jekyll.jpg
 description: TCPDump Wireshark
 categories: [Linux]
 tags:   [netwark, tcpdump, wireshark]
-author: Alan Wang
 ---
 `tcpdump`是Linux自带的抓包工具，支持针对网络层. 协议. 主机. 网络或端口的过滤，
 并提供 and. or. not等逻辑语句来帮助你去掉无用的信息。

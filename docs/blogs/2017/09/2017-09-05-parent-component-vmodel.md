@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Vue 父子组件数据双向绑定"
 date:   2017-09-05 13:57:37 +0000
 tags:   [vue, element-ui]
-author: Alan Wang
+categories: [前端]
 ---
 ## 子组件
 

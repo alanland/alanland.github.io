@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Ansible started in MacOS"
 date:   2017-12-01 13:23:37 +0000
 tags:   [macos, ansible]
-author: Alan Wang
+categories: [DevOps]
 ---
 
 ## isa

@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Octave Install"
 date:   2017-08-02 19:57:37 +0000
 tags:   [linux, octave]
-author: Alan Wang
+categories: [算法]
 ---
 ```shell
 mkdir programs/octave && cd programs/octave

@@ -1,12 +1,10 @@
 ---
-layout: post
 title:  "Spray 1 First App"
 date:   2017-04-14 04:00:18 +0000
 img:  docker-jekyll.jpg
 description: Spray 1 First App
 categories: [Scala]
 tags:   [scala, spray]
-author: Alan Wang
 ---
 首先用`SimpleRoutingApp`来运行第一个程序：
 

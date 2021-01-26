@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Location Pick Seq Generator"
 date:   2017-05-22 20:27:37 +0000
 tags:   [wms]
-author: Alan Wang
 ---
 晚上库位初始化的时候，库位属性包含`区`，`道`，`列`，`层`。
 库位编码的时候是同向的，要根据S形的拣货路线维护拣货顺序。

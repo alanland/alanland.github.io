@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "VMWare  Octant"
 date:   2019-09-05 12:15:37 +0000
-tags:   [vmware, octant, kubenetes]
-author: Alan Wang
+tags:   [vmware, octant, kubernetes]
+categories: [DevOps]
 ---
 
 
@@ -27,4 +26,4 @@ octant
 
 ![](./resources/2019-09-05-vmware-octant/octant-1.jpg)
 
-![](./resources/2019-09-05-vmware-octant/octant-2.jpg)
+![](./resources/2019-09-05-vmware-octant/octant-2.png)

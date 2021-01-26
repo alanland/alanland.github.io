@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "X-Frame-Options"
 date:   2018-05-04 08:23:37 +0000
 tags:   [spring, http, spring-security]
-author: Alan Wang
 ---
 
 测试`iframe`跨域的时候，出现 `X-Frame-Options DENY` 相关的错误，

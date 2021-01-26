@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Vue Router Meta"
 date:   2017-09-05 11:57:37 +0000
 tags:   [vue]
-author: Alan Wang
 ---
 
 通过router meta向页面传递参数, 通过`this.$route.meta.url`获取.

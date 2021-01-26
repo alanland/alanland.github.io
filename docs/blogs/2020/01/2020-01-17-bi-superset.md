@@ -1,10 +1,8 @@
 ---
-layout: post
 title:  "Bi: Superset"
 date:   2020-01-17T22:14:46.424Z
 tags:   [superset, bi]
 categories: [Tools]
-author: Alan Wang
 ---
 
 ## Kubernetes 安装

@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "MySQL order by with same values"
 date:   2018-08-16 10:23:37 +0000
 tags:   [mysql]
-author: Alan Wang
+categories: [DevOps]
 ---
 
 项目遇到一个问题，分页的时候第一页和第二页数据有重复。最后经过排查发现是 `order by` 相同的timestamp引起的。

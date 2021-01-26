@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Js获取Url参数"
 date:   2017-09-06 11:57:37 +0000
 tags:   [js]
-author: Alan Wang
 ---
 ```js
 var url_string = "http://www.example.com/t.html?a=1&b=3&c=m2-m3-m4-m5";

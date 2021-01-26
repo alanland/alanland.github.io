@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "C3: Simple DrillDown"
 date:   2017-06-24 17:27:37 +0000
 tags:   [echarts, chart, drilldown]
-author: Alan Wang
+categories: [前端]
 ---
 ## 准备数据
 

@@ -1,10 +1,8 @@
 ---
-layout: post
 title:  "Metabase"
 date:   2020-01-17T21:07:46.680Z
 tags:   [metabase, bi]
 categories: [Tools]
-author: Alan Wang
 ---
 
 ## Kubernetes 安装

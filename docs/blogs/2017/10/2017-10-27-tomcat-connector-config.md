@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Tomcat Connector"
 date:   2017-10-27 04:57:37 +0000
 tags:   [tomcat]
-author: Alan Wang
+categories: [DevOps]
 ---
 
 ```

@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Linux: Find Out Which Process Is Listening Upon a Port"
 date:   2017-06-20 12:27:37 +0000
 tags:   [linux]
-author: Alan Wang
+categories: [DevOps]
 ---
 
 ## netstat

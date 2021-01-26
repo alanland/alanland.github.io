@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "MySql: ON DUPLICATE KEY"
 date:   2017-07-27 13:27:37 +0000
 tags:   [mysql, sql]
-author: Alan Wang
 ---
 MySql的`INSERT ... ON DUPLICATE KEY`语法,在插入时候,
 如果遇到唯一索引列重复,就会忽略插入.

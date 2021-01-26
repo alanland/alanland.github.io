@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "阿里云SLB"
 date:   2010-01-16 09:23:37 +0000
 tags:   [aliyun, slb]
-author: Alan Wang
 ---
 
 专有网络VPC

@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Spring Active Profile by Command Line"
 date:   2018-04-17 20:23:37 +0000
 tags:   [spring]
-author: Alan Wang
 ---
 
 ## Option 1: Java System Properties (VM Arguments)

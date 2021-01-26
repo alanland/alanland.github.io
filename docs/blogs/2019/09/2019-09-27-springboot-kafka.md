@@ -1,10 +1,9 @@
 ---
-layout: post
 title:  "Kafka With Docker and SpringBoot"
 date:   2019-09-27 14:58:00 +0000
 tags:   [docker, kafka, spring]
 categories: [Java]
-author: Alan Wang
+categories: [Java]
 ---
 
 Docker Compose 运行 Kafka，结合 SpringBoot 进行生产和消费消息。

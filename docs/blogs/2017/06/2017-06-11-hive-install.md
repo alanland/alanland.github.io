@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Spark Start"
 date:   2017-06-11 12:30:37 +0000
 tags:   [bigdata, hive]
-author: Alan Wang
+categories: [BigData]
 ---
 我们已经安装好了hadoop，去[官网](http://www.apache.org/dyn/closer.cgi/hive/)下载hive，
 我们下载`1.2.2`版本。

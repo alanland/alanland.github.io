@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Nginx Keepalived VIP"
 date:   2019-04-16 11:23:37 +0000
 tags:   [nginx, keepalived, vip]
-author: Alan Wang
 ---
 
 `/etc/keepalived/keepalived.conf`

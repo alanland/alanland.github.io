@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Vue Dynamic Tag"
 date:   2017-09-11 12:57:37 +0000
 tags:   [vue]
-author: Alan Wang
 ---
 
 ```html

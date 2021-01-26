@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Python with Ansible"
 date:   2017-09-14 19:57:37 +0000
 tags:   [ansible, python]
-author: Alan Wang
 ---
 写自动化,去看了[官网的API](http://docs.ansible.com/ansible/latest/dev_guide/developing_api.html),发现1.x和2.x真不是那么一回事儿.
 

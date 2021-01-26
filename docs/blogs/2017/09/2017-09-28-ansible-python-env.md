@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Ansible python env"
 date:   2017-09-28 08:57:37 +0000
 tags:   [ansible, python]
-author: Alan Wang
 ---
 
 ## 安装conda(python)

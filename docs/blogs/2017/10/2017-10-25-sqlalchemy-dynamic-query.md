@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "SqlAlchemy Dynamic Query"
 date:   2017-10-25 07:57:37 +0000
 tags:   [sqlalchemy]
-author: Alan Wang
 ---
 
 ## 1.filter_by

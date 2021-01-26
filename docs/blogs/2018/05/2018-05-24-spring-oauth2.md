@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "SpringOauth"
 date:   2018-05-24 12:23:37 +0000
 tags:   [pac4j]
-author: Alan Wang
+categories: [Java]
 ---
 
 

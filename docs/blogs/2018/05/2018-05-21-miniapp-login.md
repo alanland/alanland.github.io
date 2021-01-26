@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "小程序授权优化"
 date:   2018-05-21 12:23:37 +0000
 tags:   [miniapp]
-author: Alan Wang
 ---
 
 

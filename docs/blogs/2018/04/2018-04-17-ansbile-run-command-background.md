@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Run Ansible Task Background (Daemon Mode)"
 date:   2018-04-17 09:23:37 +0000
 tags:   [ansible]
-author: Alan Wang
 ---
 
 有尝试过用`shell`执行`nohup`命令，测试了几种方式都失败，比如：

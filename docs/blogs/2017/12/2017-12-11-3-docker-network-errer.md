@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Docker ERROR: could not find an available, non-overlapping IPv4 address pool among the defaults to assign to the network"
 date:   2017-12-11 12:23:37 +0000
 tags:   [springboot, metrics]
-author: Alan Wang
 ---
 
 I've seen it suggested docker may be at its maximum of created networks. The command 

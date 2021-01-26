@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Docker registry china mirror"
 date:   2017-06-26 14:27:37 +0000
 tags:   [docker]
-author: Alan Wang
+categories: [Cloud]
 ---
 
 `/etc/default/docker`

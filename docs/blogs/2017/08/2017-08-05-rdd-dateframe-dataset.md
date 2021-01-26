@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Spark RDD, DataFrame, DataSet"
 date:   2017-08-05 11:57:37 +0000
 tags:   [spark]
-author: Alan Wang
 ---
 ## RDD, DataFrame
 

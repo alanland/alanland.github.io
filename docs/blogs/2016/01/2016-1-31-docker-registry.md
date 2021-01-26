@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Docker Registry"
 date:   2016-01-31 23:29:37 +0000
 tags:   [docker]
-author: Alan Wang
 ---
 
 主页上的介绍：

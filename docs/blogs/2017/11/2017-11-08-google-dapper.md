@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Google Dapper"
 date:   2017-11-08 14:57:37 +0000
-tags:   [dapper]
-author: Alan Wang
+tags:   [dapper, apm]
+categories: [架构]
 ---
 
 来源： http://bigbully.github.io/Dapper-translation/

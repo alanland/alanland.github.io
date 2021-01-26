@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "HTML空格"
 date:   2017-09-14 11:57:37 +0000
 tags:   [html]
-author: Alan Wang
+categories: [前端]
 ---
 - `&#32;` == 普通的英文半角空格
 - `&#160;` == `&nbsp;` == `&#xA0;` == no-break space （普通的英文半角空格但不换行）

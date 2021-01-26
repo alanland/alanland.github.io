@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Ubuntu Java List Font failed"
 date:   2017-10-25 08:57:37 +0000
 tags:   [ubuntu, java, font]
-author: Alan Wang
 ---
 
 ```java

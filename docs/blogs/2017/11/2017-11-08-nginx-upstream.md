@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Nginx Upstream"
 date:   2017-11-08 05:57:37 +0000
 tags:   [nginx]
-author: Alan Wang
+categories: [DevOps]
 ---
 
 ```perl

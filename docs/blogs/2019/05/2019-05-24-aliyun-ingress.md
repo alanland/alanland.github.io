@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Aliyun Kubernetes Ingress"
 date:   2019-05-24 14:23:37 +0000
 tags:   [kubernetes, lbs, ingress, aliyun]
-author: Alan Wang
 ---
 
 ## 说明

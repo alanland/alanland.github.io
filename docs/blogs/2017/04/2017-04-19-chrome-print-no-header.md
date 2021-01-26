@@ -1,11 +1,9 @@
 ---
-layout: post
 title:  "Remove Page Footer or Header in Chrome Printer"
 date:   2017-04-19 12:01:03 +0000
 img:  docker-jekyll.jpg
 description: Remove Page Footer or Header in Chrome Printer
 tags:   [chrome, print]
-author: Alan Wang
 ---
 Chrome 打印的时候会默认生成Page Header 和 Footer，打印选项可以同时去掉
 Page Header and Footer， 如果只想保留Page Header，可以通过CSS定制：

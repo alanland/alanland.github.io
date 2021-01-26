@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "服务调用链跟踪"
 date:   2017-11-08 05:57:37 +0000
 tags:   [architecture]
-author: Alan Wang
 ---
 
 ## Twitter Zipkin

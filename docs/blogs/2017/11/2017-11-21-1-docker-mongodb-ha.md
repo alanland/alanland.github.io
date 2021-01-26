@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "MongoDB HA use Docker"
 date:   2017-11-21 13:23:37 +0000
 tags:   [docker, mongodb, ha, cluster]
-author: Alan Wang
 ---
 
 export mongo1=192.168.95.164

@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Container Disk Usage"
 date:   2017-06-19 12:57:37 +0000
 tags:   [docker, container]
-author: Alan Wang
+categories: [Cloud]
 ---
 ```shell
 docker ps -s

@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "MySql: innodb_lock_wait"
 date:   2017-07-24 12:27:37 +0000
 tags:   [mysql, lock]
-author: Alan Wang
 ---
 常见错误:
 ```

@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Blender Shortcuts"
 date:   2010-01-04 09:23:37 +0000
 tags:   [blender]
-author: Alan Wang
 ---
 
 - `右键` select

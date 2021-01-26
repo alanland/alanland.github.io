@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Linux: Run Program Background / Daemon"
 date:   2018-08-08 12:23:37 +0000
 tags:   [linux]
-author: Alan Wang
+categories: [DevOps]
 ---
 
 后台运行程序的几种方式：

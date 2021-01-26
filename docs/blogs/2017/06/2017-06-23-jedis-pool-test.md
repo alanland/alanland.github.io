@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Redis: Jedis Pool test"
 date:   2017-06-23 11:27:37 +0000
 tags:   [redis, jedis]
-author: Alan Wang
 ---
 程序中Redis连接的时候,偶尔会出现下面问题:
 ```shell

@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Springboot Metrics to ELK"
 date:   2017-12-09 13:23:37 +0000
 tags:   [elk, springboot, metrics]
-author: Alan Wang
 ---
 
 logstash 配置如下：

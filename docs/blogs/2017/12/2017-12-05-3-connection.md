@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Connection Refused"
 date:   2017-12-05 10:23:37 +0000
 tags:   [tomcat, http, tcp, connection]
-author: Alan Wang
 ---
 
 ## connection refused

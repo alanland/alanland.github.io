@@ -1,10 +1,8 @@
 ---
-layout: post
 title:  "Polynote Compose"
 date:   2019-12-26T19:52:25.148Z
 tags:   [docker]
 categories: [Tools]
-author: Alan Wang
 ---
 
 Scala 的  Web Notebook 工具.

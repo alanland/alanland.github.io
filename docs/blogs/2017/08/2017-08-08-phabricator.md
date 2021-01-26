@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Mongo Gui Tools"
 date:   2017-08-08 11:57:37 +0000
 tags:   [code-review, phabricator]
-author: Alan Wang
 ---
 
 使用 Compose:

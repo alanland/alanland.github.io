@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Ansible Install Docker"
 date:   2017-05-22 17:47:37 +0000
 tags:   [ansible, operation, docker]
-author: Alan Wang
 ---
 使用Galaxy上的[docker_ubuntu](https://galaxy.ansible.com/list#/roles/292)
 

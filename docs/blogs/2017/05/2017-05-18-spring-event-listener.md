@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Spring Event Listener"
 date:   2017-05-18 12:27:37 +0000
 tags:   [spring, event-listener, spring-boot, java]
-author: Alan Wang
 ---
 Spring提供了`ApplicationEvent`，可以发送事件并同步异步处理：
 

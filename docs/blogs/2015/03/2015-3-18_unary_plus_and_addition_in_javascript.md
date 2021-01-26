@@ -1,8 +1,8 @@
 ---
-layout: post
 title:  "JavaScript中的加号[+]"
 date:   2015-03-18 23:29:37 +0000
 tags:   [js]
+categories: [前端]
 author: Alan Wong
 ---
 

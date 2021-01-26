@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Ansible: install nginx"
 date:   2017-06-22 14:27:37 +0000
 tags:   [ansible]
-author: Alan Wang
+categories: [DevOps]
 ---
 使用[ansible-role-nginx](https://github.com/jdauphant/ansible-role-nginx)这个角色,
 

@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Disable host key checking"
 date:   2017-09-15 12:57:37 +0000
 tags:   [ansible]
-author: Alan Wang
+categories: [DevOps]
 ---
 错误: 
 > "Using a SSH password instead of a key is not possible because Host Key checking is enabled and sshpass does not support this.

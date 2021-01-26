@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Spring Boot Admin"
 date:   2017-05-13 03:27:37 +0000
 tags:   [spring, springboot, spring-boot-admin]
-author: Alan Wang
 ---
 `Spring Boot Admin` 提供了Actuator之上提供了一个WEB UI。
 可以查看比如JVM、类加载、HTTP监控、活跃会话数量、当前应用并发数、延迟等信息。

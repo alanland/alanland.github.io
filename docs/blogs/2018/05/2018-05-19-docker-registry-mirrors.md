@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Docker registry mirrors"
 date:   2018-05-19 14:23:37 +0000
 tags:   [ubuntu, docker]
-author: Alan Wang
 ---
 
 ## Ubuntu

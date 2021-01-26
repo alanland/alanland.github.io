@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Trigger Jenkins build on new Gitlab tag"
 date:   2018-11-16 16:23:37 +0000
 tags:   [gitlab, git]
-author: Alan Wang
 ---
 
 ## Configure Bitbucket Server
