@@ -36,8 +36,8 @@ module.exports = {
         "icon": "reco-message",
         "items": [
           {
-            "text": "vuepress-reco",
-            "link": "/docs/theme-reco/"
+            "text": "华为",
+            "link": "/docs/theme-reco/huawei/"
           }
         ]
       },
@@ -55,10 +55,50 @@ module.exports = {
     ],
     "sidebar": {
       "/docs/theme-reco/": [
-        "",
-        "theme",
-        "plugin",
-        "api"
+        // "",
+        // "theme",
+        // "plugin",
+        // "api",
+
+        "huawei/",
+        {
+          title: '运维',
+          collapsable: true,
+          children: [
+            "huawei/o-release-flow",
+            "huawei/o-hardware",
+            "huawei/o-deploy",
+            "huawei/o-ops",
+          ]
+        },
+        {
+          title: '架构',
+          collapsable: true,
+          children: [
+            "huawei/t-performance",
+            "huawei/t-architecture",
+            "huawei/t-datamodel",
+            "huawei/t-scale",
+            "huawei/t-api",
+            "huawei/t-concurrence",
+            "huawei/t-logic",
+            "huawei/t-reliability",
+          ]
+        },
+        {
+          title: '安全',
+          collapsable: true,
+          children: [
+            "huawei/t-performance",
+            "huawei/t-architecture",
+            "huawei/t-datamodel",
+            "huawei/t-scale",
+            "huawei/t-api",
+            "huawei/t-concurrence",
+            "huawei/t-logic",
+            "huawei/t-reliability",
+          ]
+        },
       ]
     },
     "type": "blog",
@@ -88,12 +128,12 @@ module.exports = {
     ],
     "logo": "/logo.png",
     "search": true,
-    "searchMaxSuggestions": 10,
+    "searchMaxSuggestions": 20,
     "lastUpdated": "Last Updated",
     "author": "Alan",
-    "authorAvatar": "/avatar.png",
+    "authorAvatar": "/avatar.jpg",
     "record": "xxxx",
-    "startYear": "2017"
+    "startYear": "2010"
   },
   "markdown": {
     "lineNumbers": true

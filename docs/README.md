@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: Next 365 Days
+tagline: Life, Program, Web, BigData, BI ...
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
