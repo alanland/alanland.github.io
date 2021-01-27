@@ -17,3 +17,7 @@ _posts2
 *.lock
 .jekyll-cache
 vendor
+
+package-lock.json
+yarn-error.log
+yarn.lock
