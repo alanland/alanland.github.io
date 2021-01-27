@@ -2,6 +2,7 @@
 title:  "TProfiler"
 date:   2018-08-09 10:23:37 +0000
 tags:   [java, tprofiler, profile]
+categories: [Java]
 ---
 
 ## 安装配置

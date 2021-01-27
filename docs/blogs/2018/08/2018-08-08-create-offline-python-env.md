@@ -2,6 +2,7 @@
 title:  "Create Offline Python Enviroment with Conda"
 date:   2018-08-08 13:23:37 +0000
 tags:   [python]
+categories: [Python]
 ---
 
 ```sh

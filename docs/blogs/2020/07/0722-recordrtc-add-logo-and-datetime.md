@@ -1,10 +1,8 @@
 ---
 title: RecordRTC添加当前时间戳和Logo
 date: 2020-07-23T16:31:00.147Z
-categories:
- - Web
-tags:
- - webrtc
+categories: [前端]
+tags: [webrtc]
 ---
 
 RecordRtc 录像保存的视频需要添加录像时间等信息。

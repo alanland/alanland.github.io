@@ -1,8 +1,13 @@
 ---
-title:  "MacOS Openresty"
+title:  "JavaScript浏览器内获取IP"
 date:   2018-08-28 10:23:37 +0000
 tags:   [js]
+categories: [前端]
 ---
+
+三种方法获取当前本地IP。
+
+## 使用RTC Connection
 
 The RTCPeerConnection interface allow you to create a WebRTC connection between your computer and a remote peer. However, we are going to create an **"interrupted"** version of it in order to retrieve the IP of the client using only javascript.
 
