@@ -39,3 +39,10 @@ tags: [blog, vuepress]
 ![](./resources/2021-01-26-blogs-upgrade-to-vuepress/RunJekyllinDocker.png)
 ### 标签
 ![](./resources/2021-01-26-blogs-upgrade-to-vuepress/Tags.png)
+
+
+## 一些好玩儿的主题
+
+- https://diygod.me/handshake/#more
+- https://nyakku.moe/posts/2019/10/21/moefy-your-vuepress-blog.html
+- https://moefyit.github.io/moefy-vuepress/

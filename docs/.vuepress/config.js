@@ -138,5 +138,15 @@ module.exports = {
   },
   "markdown": {
     "lineNumbers": true
-  }
+  },
+  plugins: [
+    [
+      "ribbon",
+      {
+        size: 90, // 彩带的宽度，默认为 90
+        opacity: 0.8, // 彩带的不透明度，默认为 0.3
+        zIndex: -9999, // 彩带的 z-index 属性，默认值为 -1
+      },
+    ],
+  ],
 }
