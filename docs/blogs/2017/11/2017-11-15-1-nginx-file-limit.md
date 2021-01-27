@@ -1,6 +1,6 @@
 ---
 title:  "Linux/Nginx: Open File Limit"
-date:   2017-11-15 09:17:37 +0000
+date:   2017-11-15 09:17:37
 tags:   [linux, nginx, ulimit]
 ---
 

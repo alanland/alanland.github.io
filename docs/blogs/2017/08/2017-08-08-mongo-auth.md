@@ -1,6 +1,6 @@
 ---
 title:  "Mongo User"
-date:   2017-08-08 13:57:37 +0000
+date:   2017-08-08 13:57:37
 tags:   [mongo]
 ---
 Compose 配置:

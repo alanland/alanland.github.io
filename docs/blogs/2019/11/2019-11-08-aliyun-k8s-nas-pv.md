@@ -2,7 +2,7 @@
 title:  "Aliyun Kubernetes 使用 Nas 作为 PersistentVolume "
 date:   2019-11-08T11:21:07.449Z
 tags:   [aliyun, nas, kubernetes, pv, pvc]
-categories: [Cloud]
+categories: [DevOps]
 ---
 
 阿里云 Kubernetes 服务支持 Nas,OSS,云盘作为 PV, 但是 OSS 有一些限制, 比如无法进行`chmod`操作, 有些镜像比如 redis 在镜像中就包含了

@@ -1,6 +1,6 @@
 ---
 title:  "Aliyun Install Helm"
-date:   2019-05-20 11:23:37 +0000
+date:   2019-05-20 11:23:37
 tags:   [kubernetes, helm, aliyun]
 categories: [DevOps]
 ---

@@ -1,6 +1,6 @@
 ---
 title:  "curl/wget查看http请求头和响应头"
-date:   2019-04-19 11:23:37 +0000
+date:   2019-04-19 11:23:37
 tags:   [nginx, openresty, mac]
 ---
 

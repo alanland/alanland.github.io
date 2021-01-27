@@ -1,6 +1,6 @@
 ---
 title:  "MySql read binlog"
-date:   2017-07-27 11:27:37 +0000
+date:   2017-07-27 11:27:37
 tags:   [mysql, binlog]
 categories: [DevOps]
 ---

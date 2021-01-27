@@ -1,6 +1,6 @@
 ---
 title:  "RabbitMQ ha with Docker"
-date:   2017-11-17 12:23:37 +0000
+date:   2017-11-17 12:23:37
 tags:   [rabbitmq, docker, ha, cluster]
 categories: [DevOps]
 ---

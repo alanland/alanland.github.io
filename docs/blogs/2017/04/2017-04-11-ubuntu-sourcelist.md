@@ -1,9 +1,9 @@
 ---
 title:  "Aliyun Ubuntu Software Source"
-date:   2017-04-11 01:43:32 +0000
+date:   2017-04-11 01:43:32
 img:  docker-jekyll.jpg
 description: Aliyun Ubuntu Software Source
-categories: [Linux]
+categories: [DevOps]
 tags:   [container, docker, swarm, kubernetes, mesos]
 ---
 阿里云 Ubuntu 16.04 源：

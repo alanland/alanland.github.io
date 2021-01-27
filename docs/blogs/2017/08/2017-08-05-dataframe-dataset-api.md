@@ -1,6 +1,6 @@
 ---
 title:  "Spark DataFrame and DataSet API"
-date:   2017-08-05 13:57:37 +0000
+date:   2017-08-05 13:57:37
 tags:   [spark]
 categories: [Java]
 ---

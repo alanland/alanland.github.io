@@ -1,6 +1,6 @@
 ---
 title:  "Spring Data JPA 查询方法支持的关键字"
-date:   2018-04-17 13:23:37 +0000
+date:   2018-04-17 13:23:37
 tags:   [spring, jpa, spring-data]
 ---
 

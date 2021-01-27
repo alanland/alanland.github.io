@@ -1,6 +1,6 @@
 ---
 title:  "Idea Run Dashboard"
-date:   2018-05-21 15:23:37 +0000
+date:   2018-05-21 15:23:37
 tags:   [idea]
 ---
 

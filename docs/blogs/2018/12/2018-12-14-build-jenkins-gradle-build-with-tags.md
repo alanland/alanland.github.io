@@ -1,7 +1,7 @@
 +
 ---
 title:  "Jekins build and upload with git tag version"
-date:   2018-12-14 11:23:37 +0000
+date:   2018-12-14 11:23:37
 tags:   [git, gradle, jenkins, ci]
 categories: [DevOps]
 ---

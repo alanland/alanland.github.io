@@ -1,6 +1,6 @@
 ---
 title:  "Spring Boot OAuth2 Single Sign Off (Logout) Programmatically"
-date:   2018-05-11 16:23:37 +0000
+date:   2018-05-11 16:23:37
 tags:   [spring-security, oauth]
 ---
 

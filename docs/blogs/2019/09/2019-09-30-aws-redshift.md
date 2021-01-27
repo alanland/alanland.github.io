@@ -1,6 +1,6 @@
 ---
 title:  "AWS CLI and RedShift"
-date:   2019-09-30 14:58:00 +0000
+date:   2019-09-30 14:58:00
 tags:   [aws, redshift]
 categories: [Tools]
 ---

@@ -1,6 +1,6 @@
 ---
 title:  "Prometheus: Reload"
-date:   2017-06-26 12:27:37 +0000
+date:   2017-06-26 12:27:37
 tags:   [prometheus]
 categories: [DevOps]
 ---

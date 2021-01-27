@@ -1,6 +1,6 @@
 ---
 title:  "JVisualVM"
-date:   2019-06-04 12:23:37 +0000
+date:   2019-06-04 12:23:37
 tags:   [linux, jvm]
 ---
 

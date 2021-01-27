@@ -1,6 +1,6 @@
 ---
 title:  "Count Source Code Lines"
-date:   2017-06-15 14:57:37 +0000
+date:   2017-06-15 14:57:37
 tags:   [linux, shell]
 categories: [DevOps]
 ---

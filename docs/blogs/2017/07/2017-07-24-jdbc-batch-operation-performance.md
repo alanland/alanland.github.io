@@ -1,6 +1,6 @@
 ---
 title:  "MySql JDBC batch operation performance"
-date:   2017-07-24 13:27:37 +0000
+date:   2017-07-24 13:27:37
 tags:   [mysql, jdbc]
 ---
 对一个50多万行记录的表中更新数据,每次读取1000,根据主键id进行更新,

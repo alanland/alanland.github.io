@@ -1,6 +1,6 @@
 ---
 title:  "Kafka With Docker and SpringBoot"
-date:   2019-09-27 14:58:00 +0000
+date:   2019-09-27 14:58:00
 tags:   [docker, kafka, spring]
 categories: [Java]
 ---

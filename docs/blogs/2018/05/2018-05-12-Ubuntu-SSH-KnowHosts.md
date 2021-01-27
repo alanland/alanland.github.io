@@ -1,6 +1,6 @@
 ---
 title:  "Ubuntu - Remove SSH key from known_hosts"
-date:   2018-05-12 14:33:37 +0000
+date:   2018-05-12 14:33:37
 tags:   [ubuntu, ssh]
 categories: [DevOps]
 ---

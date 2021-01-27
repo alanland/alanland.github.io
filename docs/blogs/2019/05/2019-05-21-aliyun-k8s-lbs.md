@@ -1,6 +1,6 @@
 ---
 title:  "Kubenetes 阿里云服务负载均衡内网IP"
-date:   2019-05-21 11:23:37 +0000
+date:   2019-05-21 11:23:37
 tags:   [kubernetes, helm, aliyun]
 categories: [DevOps]
 ---

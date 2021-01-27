@@ -1,6 +1,6 @@
 ---
 title:  "Aliyun Kubernetes Ingress"
-date:   2019-05-24 14:23:37 +0000
+date:   2019-05-24 14:23:37
 tags:   [kubernetes, lbs, ingress, aliyun]
 ---
 

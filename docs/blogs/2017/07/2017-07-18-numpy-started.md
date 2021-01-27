@@ -1,6 +1,6 @@
 ---
 title:  "Numpy Started"
-date:   2017-07-18 10:27:37 +0000
+date:   2017-07-18 10:27:37
 tags:   [python, numpy]
 ---
 `numpy`是Python下的一个数值计算包,很多科学都用到到.

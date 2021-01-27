@@ -1,9 +1,9 @@
 ---
 title:  "Docker Redis Cluster"
-date:   2017-04-12 14:21:49 +0000
+date:   2017-04-12 14:21:49
 img:  docker-jekyll.jpg
 description: Docker Redis Cluster
-categories: [Docker]
+categories: [DevOps]
 tags:   [container, docker, swarm, compose, redis, cluster]
 ---
 使用aliyuncs上的sentinel镜像来部署redis集群。

@@ -1,6 +1,6 @@
 ---
 title:  "Mongo Gui Tools"
-date:   2017-08-08 11:57:37 +0000
+date:   2017-08-08 11:57:37
 tags:   [code-review, phabricator]
 ---
 

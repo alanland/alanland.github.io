@@ -1,6 +1,6 @@
 ---
 title:  "Prometheus Config Reload"
-date:   2017-05-16 13:27:37 +0000
+date:   2017-05-16 13:27:37
 tags:   [prometheus]
 ---
 Prometheus can reload its configuration at runtime.

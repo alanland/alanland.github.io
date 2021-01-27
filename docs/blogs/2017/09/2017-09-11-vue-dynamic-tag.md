@@ -1,6 +1,6 @@
 ---
 title:  "Vue Dynamic Tag"
-date:   2017-09-11 12:57:37 +0000
+date:   2017-09-11 12:57:37
 tags:   [vue]
 ---
 

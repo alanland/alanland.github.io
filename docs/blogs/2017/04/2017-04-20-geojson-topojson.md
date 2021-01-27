@@ -1,6 +1,6 @@
 ---
 title:  "GeoJson and TopoJson"
-date:   2017-04-19 23:17:49 +0000
+date:   2017-04-19 23:17:49
 img:  docker-jekyll.jpg
 description: GeoJson and TopoJson
 tags:   [js, d3, geojson, topjson]

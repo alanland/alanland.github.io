@@ -1,6 +1,6 @@
 ---
 title:  "Mongo WiredTiger 内存设置"
-date:   2019-01-09 11:23:37 +0000
+date:   2019-01-09 11:23:37
 tags:   [mongo]
 ---
 

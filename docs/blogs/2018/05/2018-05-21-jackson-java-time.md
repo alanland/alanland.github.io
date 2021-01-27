@@ -1,6 +1,6 @@
 ---
 title:  "Jackson Java Time"
-date:   2018-05-21 13:23:37 +0000
+date:   2018-05-21 13:23:37
 tags:   [java, jackson]
 ---
 

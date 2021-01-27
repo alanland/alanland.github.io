@@ -1,6 +1,6 @@
 ---
 title:  "Spring Boot Metrics usage"
-date:   2017-05-13 01:27:37 +0000
+date:   2017-05-13 01:27:37
 tags:   [spring, spring-boot, metrics]
 ---
 `Spring Boot Actuator` 提供了 metrics service, 让监控变得统一，方便管理。

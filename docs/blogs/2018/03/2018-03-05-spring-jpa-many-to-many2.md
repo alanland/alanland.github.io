@@ -1,6 +1,6 @@
 ---
 title:  "SpringBoot Jpa Many-to-Many 2"
-date:   2018-03-05 09:23:37 +0000
+date:   2018-03-05 09:23:37
 tags:   [springboot, jpa]
 categories: [Java]
 ---

@@ -1,6 +1,6 @@
 ---
 title:  "SpringBoot Prometheus"
-date:   2017-05-15 13:27:37 +0000
+date:   2017-05-15 13:27:37
 tags:   [springboot, prometheus]
 categories: [Java]
 ---

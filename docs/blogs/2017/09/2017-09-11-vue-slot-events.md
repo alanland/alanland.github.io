@@ -1,6 +1,6 @@
 ---
 title:  "Listening Events using Slot"
-date:   2017-09-11 11:57:37 +0000
+date:   2017-09-11 11:57:37
 tags:   [vue, slot]
 categories: [前端]
 ---

@@ -1,6 +1,6 @@
 ---
 title:  "Docker Registry"
-date:   2016-01-31 23:29:37 +0000
+date:   2016-01-31 23:29:37
 tags:   [docker]
 ---
 

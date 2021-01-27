@@ -1,7 +1,7 @@
 ---
 title:  "书写工具的选择"
-date:   2019-09-02 12:15:37 +0000
-tags:   [booking]
+date:   2019-09-02 12:15:37
+tags:   [booking, blog]
 categories: [Blog]
 ---
 

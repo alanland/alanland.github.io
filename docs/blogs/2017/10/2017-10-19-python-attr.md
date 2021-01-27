@@ -1,6 +1,6 @@
 ---
 title:  "Python dynamic modify attribute"
-date:   2017-10-19 04:57:37 +0000
+date:   2017-10-19 04:57:37
 tags:   [python]
 ---
 

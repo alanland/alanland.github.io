@@ -1,6 +1,6 @@
 ---
 title:  "MySql: explicit_defaults_for_timestamp"
-date:   2017-06-19 11:57:37 +0000
+date:   2017-06-19 11:57:37
 tags:   [mysql]
 ---
 MySql参数，转换为空insert为默认值．

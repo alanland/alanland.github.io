@@ -1,6 +1,6 @@
 ---
 title:  "Gradle Dependency Types"
-date:   2019-09-04 12:15:37 +0000
+date:   2019-09-04 12:15:37
 tags:   [gradle]
 categories: [Java]
 ---

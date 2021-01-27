@@ -1,6 +1,6 @@
 ---
 title:  "MySQL order by with same values"
-date:   2018-08-16 10:23:37 +0000
+date:   2018-08-16 10:23:37
 tags:   [mysql]
 categories: [DevOps]
 ---

@@ -1,6 +1,6 @@
 ---
 title:  "Spring Security Errors"
-date:   2018-06-25 12:23:37 +0000
+date:   2018-06-25 12:23:37
 tags:   [spring, security]
 ---
 

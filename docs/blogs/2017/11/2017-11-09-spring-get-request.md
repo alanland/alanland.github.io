@@ -1,6 +1,6 @@
 ---
 title:  "Spring get HttpServletRequest"
-date:   2017-11-09 13:57:37 +0000
+date:   2017-11-09 13:57:37
 tags:   [spring, request]
 ---
 

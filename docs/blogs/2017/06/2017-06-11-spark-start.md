@@ -1,6 +1,6 @@
 ---
 title:  "Spark Start"
-date:   2017-06-11 10:57:37 +0000
+date:   2017-06-11 10:57:37
 tags:   [bigdata, spark]
 ---
 去[官网](http://spark.apache.org/downloads.html)下载Spark，比如`2.1.0,hadoop 2.7`，

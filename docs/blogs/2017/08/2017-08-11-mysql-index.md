@@ -1,6 +1,6 @@
 ---
 title:  "MySql: single-column index, multi-culomn index"
-date:   2017-08-11 12:57:37 +0000
+date:   2017-08-11 12:57:37
 tags:   [mysql, index]
 ---
 考虑使用索引的只要有两种类型:

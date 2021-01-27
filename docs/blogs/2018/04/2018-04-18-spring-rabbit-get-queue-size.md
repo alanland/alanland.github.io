@@ -1,6 +1,6 @@
 ---
 title:  "Spring Get Queue Size"
-date:   2018-04-18 12:23:37 +0000
+date:   2018-04-18 12:23:37
 tags:   [spring, rabbitmq]
 ---
 ```groovy

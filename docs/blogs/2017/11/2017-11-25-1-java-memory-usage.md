@@ -1,6 +1,6 @@
 ---
 title:  "Java Application Memory Usage"
-date:   2017-11-25 17:23:37 +0000
+date:   2017-11-25 17:23:37
 tags:   [java, memory]
 categories: [DevOps]
 ---

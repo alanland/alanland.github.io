@@ -1,6 +1,6 @@
 ---
 title:  "DockerUI started"
-date:   2016-01-29 23:29:37 +0000
+date:   2016-01-29 23:29:37
 tags:   [docker]
 ---
 

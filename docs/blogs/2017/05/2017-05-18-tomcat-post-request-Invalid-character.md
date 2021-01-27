@@ -1,6 +1,6 @@
 ---
 title:  "Tomcat Post Request Header Invalid Character"
-date:   2017-05-18 12:27:37 +0000
+date:   2017-05-18 12:27:37
 tags:   [tomcat]
 categories: [Java]
 ---

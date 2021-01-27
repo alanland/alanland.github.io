@@ -1,6 +1,6 @@
 ---
 title:  "Jupyter Notebook"
-date:   2017-07-19 10:27:37 +0000
+date:   2017-07-19 10:27:37
 tags:   [python, ipython, jupyter, notebook]
 ---
 ## 安装

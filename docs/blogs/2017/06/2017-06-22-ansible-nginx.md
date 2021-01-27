@@ -1,6 +1,6 @@
 ---
 title:  "Ansible: install nginx"
-date:   2017-06-22 14:27:37 +0000
+date:   2017-06-22 14:27:37
 tags:   [ansible]
 categories: [DevOps]
 ---

@@ -1,6 +1,6 @@
 ---
 title:  "Kong 0.12 Quick Start"
-date:   2018-04-22 08:23:37 +0000
+date:   2018-04-22 08:23:37
 tags:   [kong]
 ---
 ## 1. Add your API using the Admin API

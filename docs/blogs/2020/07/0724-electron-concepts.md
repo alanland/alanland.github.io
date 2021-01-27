@@ -1,10 +1,8 @@
 ---
 title: Electron 概念
 date: 2020-07-24T13:54:51.428Z
-categories:
- - Web
-tags:
- - electron
+categories: [前端]
+tags: [electron]
 ---
 
 ## Main and Renderer Processes

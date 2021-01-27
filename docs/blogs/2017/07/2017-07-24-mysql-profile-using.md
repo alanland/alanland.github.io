@@ -1,6 +1,6 @@
 ---
 title:  "MySql: Profiling"
-date:   2017-07-24 13:27:37 +0000
+date:   2017-07-24 13:27:37
 tags:   [mysql, profile]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title:  "Prometheus AlertManager Email configuration"
-date:   2017-06-26 13:27:37 +0000
+date:   2017-06-26 13:27:37
 tags:   [prometheus, alert-manager]
 ---
 ## docker-compose.yml

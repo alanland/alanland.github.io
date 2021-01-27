@@ -1,6 +1,6 @@
 ---
 title:  "Markdown Style Guide"
-date:   2013-03-10 23:27:37 +0000
+date:   2013-03-10 23:27:37
 tags:   [markdown]
 ---
 

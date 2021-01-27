@@ -1,6 +1,6 @@
 ---
 title:  "Prometheus: PushGateway"
-date:   2017-07-06 11:27:37 +0000
+date:   2017-07-06 11:27:37
 tags:   [prometheus, push-gateway]
 ---
 Prometheus默认是采用`pull`的方式来获取监控数据,对于`push`方式来提交数据,Prometheus提供了`pushgateway`工具.

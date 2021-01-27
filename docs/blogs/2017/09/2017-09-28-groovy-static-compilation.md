@@ -1,6 +1,6 @@
 ---
 title:  "Groovy static compilation"
-date:   2017-09-28 05:57:37 +0000
+date:   2017-09-28 05:57:37
 tags:   [groovy]
 ---
 

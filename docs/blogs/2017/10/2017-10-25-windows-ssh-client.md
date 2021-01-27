@@ -1,6 +1,6 @@
 ---
 title:  "Windows SSH Client"
-date:   2017-10-25 04:57:37 +0000
+date:   2017-10-25 04:57:37
 tags:   [ssh, windows]
 categories: [DevOps]
 ---

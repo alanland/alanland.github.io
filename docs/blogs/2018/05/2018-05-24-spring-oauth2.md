@@ -1,6 +1,6 @@
 ---
 title:  "SpringOauth"
-date:   2018-05-24 12:23:37 +0000
+date:   2018-05-24 12:23:37
 tags:   [pac4j]
 categories: [Java]
 ---

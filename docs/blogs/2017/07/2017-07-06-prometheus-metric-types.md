@@ -1,6 +1,6 @@
 ---
 title:  "Prometheus: Metric Types"
-date:   2017-07-06 14:27:37 +0000
+date:   2017-07-06 14:27:37
 tags:   [prometheus]
 ---
 ## Counter

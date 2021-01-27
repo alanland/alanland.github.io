@@ -1,6 +1,6 @@
 ---
 title:  "Scala: Evaluation of Function Applications"
-date:   2017-12-06 23:23:37 +0000
+date:   2017-12-06 23:23:37
 tags:   [scala, fp]
 ---
 

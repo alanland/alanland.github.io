@@ -1,6 +1,6 @@
 ---
 title:  "Docker HAProxy"
-date:   2017-11-22 17:23:37 +0000
+date:   2017-11-22 17:23:37
 tags:   [docker, haproxy]
 categories: [DevOps]
 ---

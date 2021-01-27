@@ -1,6 +1,6 @@
 ---
 title:  "TProfiler"
-date:   2018-08-09 10:23:37 +0000
+date:   2018-08-09 10:23:37
 tags:   [java, tprofiler, profile]
 categories: [Java]
 ---

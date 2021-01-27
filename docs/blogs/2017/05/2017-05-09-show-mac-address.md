@@ -1,6 +1,6 @@
 ---
 title:  "Linux Mac Address"
-date:   2017-05-09 14:07:37 +0000
+date:   2017-05-09 14:07:37
 tags: [ linux ]
 categories: [DevOps]
 ---

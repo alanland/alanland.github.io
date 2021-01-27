@@ -1,6 +1,6 @@
 ---
 title:  "How to set a default namespace for kubectl"
-date:   2019-04-18 11:23:37 +0000
+date:   2019-04-18 11:23:37
 tags:   [kubernetes]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title:  "Visual Studio Code save git credentials"
-date:   2017-08-02 11:57:37 +0000
+date:   2017-08-02 11:57:37
 tags:   [ide, git, vscode]
 ---
 ```shell

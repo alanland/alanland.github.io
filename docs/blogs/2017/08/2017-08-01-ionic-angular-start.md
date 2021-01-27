@@ -1,6 +1,6 @@
 ---
 title:  "Ionic and Angular TimeSheet"
-date:   2017-08-01 11:27:37 +0000
+date:   2017-08-01 11:27:37
 tags:   [ionic, angular]
 categories: [前端]
 ---

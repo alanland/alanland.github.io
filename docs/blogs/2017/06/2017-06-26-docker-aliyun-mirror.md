@@ -1,8 +1,8 @@
 ---
 title:  "Docker registry china mirror"
-date:   2017-06-26 14:27:37 +0000
+date:   2017-06-26 14:27:37
 tags:   [docker]
-categories: [Cloud]
+categories: [DevOps]
 ---
 
 `/etc/default/docker`

@@ -1,6 +1,6 @@
 ---
 title:  "Spring Security Logout"
-date:   2018-06-28 17:23:37 +0000
+date:   2018-06-28 17:23:37
 tags:   [electron, oauth]
 categories: [Java]
 ---

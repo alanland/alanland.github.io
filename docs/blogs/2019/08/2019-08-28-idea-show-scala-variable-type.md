@@ -1,6 +1,6 @@
 ---
 title:  "Idea Scala plugin show variable type"
-date:   2019-08-29 12:15:37 +0000
+date:   2019-08-29 12:15:37
 tags:   [idea, scala]
 ---
 

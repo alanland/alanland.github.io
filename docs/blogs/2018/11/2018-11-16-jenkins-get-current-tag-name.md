@@ -1,6 +1,6 @@
 ---
 title:  "Jenkins get current tag name"
-date:   2018-11-16 16:29:37 +0000
+date:   2018-11-16 16:29:37
 tags:   [git, jenkins, ci]
 ---
 

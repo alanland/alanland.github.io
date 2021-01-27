@@ -1,6 +1,6 @@
 ---
 title:  "Flask Gunicorn Nginx delpoy"
-date:   2017-10-23 04:57:37 +0000
+date:   2017-10-23 04:57:37
 tags:   [python, flask, supervisor]
 categories: [Python]
 ---

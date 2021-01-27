@@ -1,6 +1,6 @@
 ---
 title:  "Record Video and Upload"
-date:   2017-04-14 01:28:13 +0000
+date:   2017-04-14 01:28:13
 img:  docker-jekyll.jpg
 description: Scala Implicit
 categories: [前端]

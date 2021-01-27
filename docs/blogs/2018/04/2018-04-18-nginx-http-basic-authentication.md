@@ -1,6 +1,6 @@
 ---
 title:  "Nginx Basic HTTP Authentication"
-date:   2018-04-18 16:43:37 +0000
+date:   2018-04-18 16:43:37
 tags:   [nginx]
 categories: [DevOps]
 ---

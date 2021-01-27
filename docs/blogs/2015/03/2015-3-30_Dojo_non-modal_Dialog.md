@@ -1,6 +1,6 @@
 ---
 title:  "Dojo non-modal Dialog"
-date:   2015-03-30 23:29:37 +0000
+date:   2015-03-30 23:29:37
 tags:   [js, dojo]
 ---
 

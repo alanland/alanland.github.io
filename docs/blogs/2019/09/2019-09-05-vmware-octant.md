@@ -1,6 +1,6 @@
 ---
 title:  "VMWare  Octant"
-date:   2019-09-05 12:15:37 +0000
+date:   2019-09-05 12:15:37
 tags:   [vmware, octant, kubernetes]
 categories: [DevOps]
 ---

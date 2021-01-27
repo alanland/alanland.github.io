@@ -1,6 +1,6 @@
 ---
 title:  "Aliyun Kubernetes RBAC"
-date:   2019-06-14 12:23:37 +0000
+date:   2019-06-14 12:23:37
 tags:   [aliyun, kubernetes]
 ---
 

@@ -1,9 +1,9 @@
 ---
 title:  "Docker WorkPress Cluster"
-date:   2017-04-12 14:25:49 +0000
+date:   2017-04-12 14:25:49
 img:  docker-jekyll.jpg
 description: Docker WordPress Cluster
-categories: [Docker]
+categories: [DevOps]
 tags:   [container, docker, swarm, compose, cluster]
 ---
 准备： Docker 1.13, Swarm mode, Compose v3

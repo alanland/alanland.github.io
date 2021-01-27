@@ -1,6 +1,6 @@
 ---
 title:  "Broccoli Coffee 插件处理已经存在的同名js文件"
-date:   2015-04-04 23:29:37 +0000
+date:   2015-04-04 23:29:37
 tags:   [js, broccoli, coffee]
 ---
 

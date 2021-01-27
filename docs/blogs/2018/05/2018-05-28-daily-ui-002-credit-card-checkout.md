@@ -1,6 +1,6 @@
 ---
 title:  "Daily UI: 002 Credit Card Checkout"
-date:   2018-05-28 12:23:37 +0000
+date:   2018-05-28 12:23:37
 tags:   [dailyui]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title:  "InfluxDB: Query Language"
-date:   2017-07-07 15:27:37 +0000
+date:   2017-07-07 15:27:37
 tags:   [influxdb]
 ---
 ## influxDB名词

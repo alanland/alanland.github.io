@@ -1,6 +1,6 @@
 ---
 title:  "Nginx HTTP to HTTPS"
-date:   2018-04-18 12:43:37 +0000
+date:   2018-04-18 12:43:37
 tags:   [nginx, ssl]
 ---
 

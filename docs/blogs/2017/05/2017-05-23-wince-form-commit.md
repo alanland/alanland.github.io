@@ -1,6 +1,6 @@
 ---
 title:  "WinCE form key event and form commit"
-date:   2017-05-23 11:27:37 +0000
+date:   2017-05-23 11:27:37
 tags:   [wms, wince, js]
 ---
 部分WinCE在测试的时候发现一些JS功能不正常：

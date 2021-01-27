@@ -1,6 +1,6 @@
 ---
 title:  "Spring Active Profile by Command Line"
-date:   2018-04-17 20:23:37 +0000
+date:   2018-04-17 20:23:37
 tags:   [spring]
 ---
 

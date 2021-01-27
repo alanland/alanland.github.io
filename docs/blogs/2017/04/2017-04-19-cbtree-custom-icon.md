@@ -1,6 +1,6 @@
 ---
 title:  "Custom Cbtree Icons"
-date:   2017-04-19 19:54:28 +0000
+date:   2017-04-19 19:54:28
 img:  docker-jekyll.jpg
 description: Custom Cbtree Icons
 tags:   [dojo, dijit, cbtree, icon]

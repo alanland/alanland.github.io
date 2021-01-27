@@ -1,6 +1,6 @@
 ---
 title:  "Nginx/OpenResty: Rate Limit"
-date:   2017-11-11 12:57:37 +0000
+date:   2017-11-11 12:57:37
 tags:   [ratelimite, nginx, openresty, lua]
 categories: [DevOps]
 ---

@@ -1,6 +1,6 @@
 ---
 title:  "Flask: Blueprints"
-date:   2017-09-16 09:57:37 +0000
+date:   2017-09-16 09:57:37
 tags:   [flask, python]
 ---
 

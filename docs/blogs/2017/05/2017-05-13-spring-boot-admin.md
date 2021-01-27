@@ -1,6 +1,6 @@
 ---
 title:  "Spring Boot Admin"
-date:   2017-05-13 03:27:37 +0000
+date:   2017-05-13 03:27:37
 tags:   [spring, springboot, spring-boot-admin]
 ---
 `Spring Boot Admin` 提供了Actuator之上提供了一个WEB UI。

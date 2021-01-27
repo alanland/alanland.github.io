@@ -1,6 +1,6 @@
 ---
 title:  "Ansible Generate Crypted Password for User Module)"
-date:   2018-04-17 11:23:37 +0000
+date:   2018-04-17 11:23:37
 tags:   [ansible, linux]
 categories: [DevOps]
 ---

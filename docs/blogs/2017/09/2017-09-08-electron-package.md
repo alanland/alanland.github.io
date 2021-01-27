@@ -1,6 +1,6 @@
 ---
 title:  "Electron package"
-date:   2017-09-08 12:57:37 +0000
+date:   2017-09-08 12:57:37
 tags:   [js, electron]
 ---
 

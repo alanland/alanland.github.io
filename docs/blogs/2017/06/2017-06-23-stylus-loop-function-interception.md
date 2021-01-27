@@ -1,6 +1,6 @@
 ---
 title:  "Stylus: loop, function and interception"
-date:   2017-06-23 18:27:37 +0000
+date:   2017-06-23 18:27:37
 tags:   [stylus]
 ---
 从一段scss代码翻译到stylus时候,由于`@content`没有找到合适的写法,并且部分时候插值有点问题,

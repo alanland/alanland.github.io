@@ -1,6 +1,6 @@
 ---
 title:  "Nginx Keepalived VIP"
-date:   2019-04-16 11:23:37 +0000
+date:   2019-04-16 11:23:37
 tags:   [nginx, keepalived, vip]
 ---
 

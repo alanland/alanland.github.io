@@ -1,6 +1,6 @@
 ---
 title:  "Install Kong with Docker"
-date:   2018-04-22 08:23:37 +0000
+date:   2018-04-22 08:23:37
 tags:   [docker, kong]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title:  "Auto generate Release Notes in gitlab"
-date:   2018-11-16 10:23:37 +0000
+date:   2018-11-16 10:23:37
 tags:   [gitlab, git]
 categories: [DevOps]
 ---

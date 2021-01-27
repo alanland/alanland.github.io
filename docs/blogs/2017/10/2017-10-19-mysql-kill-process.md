@@ -1,6 +1,6 @@
 ---
 title:  "Mysql batch kill connections"
-date:   2017-10-19 05:57:37 +0000
+date:   2017-10-19 05:57:37
 tags:   [mysql]
 ---
 

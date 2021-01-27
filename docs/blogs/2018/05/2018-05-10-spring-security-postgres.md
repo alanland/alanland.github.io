@@ -1,6 +1,6 @@
 ---
 title:  "Spring Security Postgresql"
-date:   2018-05-10 08:23:37 +0000
+date:   2018-05-10 08:23:37
 tags:   [spring-security, postgres]
 categories: [Java]
 ---

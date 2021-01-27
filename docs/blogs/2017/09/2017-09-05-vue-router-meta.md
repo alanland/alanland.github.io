@@ -1,6 +1,6 @@
 ---
 title:  "Vue Router Meta"
-date:   2017-09-05 11:57:37 +0000
+date:   2017-09-05 11:57:37
 tags:   [vue]
 ---
 

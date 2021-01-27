@@ -1,6 +1,6 @@
 ---
 title:  "MacOS Openresty"
-date:   2018-08-20 10:23:37 +0000
+date:   2018-08-20 10:23:37
 tags:   [openresty, macos]
 categories: [DevOps]
 ---

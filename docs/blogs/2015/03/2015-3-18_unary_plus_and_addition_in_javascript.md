@@ -1,10 +1,12 @@
 ---
 title:  "JavaScript中的加号[+]"
-date:   2015-03-18 23:29:37 +0000
+date:   2015-03-18 23:29:37
 tags:   [js]
 categories: [前端]
 author: Alan Wong
 ---
+
+[[toc]]
 
 昨天看到一个问题， `var a=+new Data`是什么意思．
 

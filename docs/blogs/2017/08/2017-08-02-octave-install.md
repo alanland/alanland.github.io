@@ -1,6 +1,6 @@
 ---
 title:  "Octave Install"
-date:   2017-08-02 19:57:37 +0000
+date:   2017-08-02 19:57:37
 tags:   [linux, octave]
 categories: [算法]
 ---

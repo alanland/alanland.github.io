@@ -1,6 +1,6 @@
 ---
 title:  "Ansible Start"
-date:   2017-05-22 18:27:37 +0000
+date:   2017-05-22 18:27:37
 tags:   [ssh, ansible, operation]
 ---
 ubuntu安装：

@@ -1,6 +1,6 @@
 ---
 title:  "Multiple Java Environments on MacOS"
-date:   2017-11-28 10:23:37 +0000
+date:   2017-11-28 10:23:37
 tags:   [java, mac]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title:  "Install ruby 2.4 in Ubuntu"
-date:   2017-05-15 13:27:37 +0000
+date:   2017-05-15 13:27:37
 tags:   [ubuntu, ruby]
 categories: [DevOps]
 ---

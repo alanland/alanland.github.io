@@ -1,6 +1,6 @@
 ---
 title:  "Ansible create user with SUDO privilege"
-date:   2017-09-15 11:57:37 +0000
+date:   2017-09-15 11:57:37
 tags:   [ansible]
 ---
 ## 直接给 sudo group

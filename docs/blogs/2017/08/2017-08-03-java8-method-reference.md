@@ -1,6 +1,6 @@
 ---
 title:  "Java 8 Method Reference"
-date:   2017-08-03 11:57:37 +0000
+date:   2017-08-03 11:57:37
 tags:   [java]
 ---
 ```java

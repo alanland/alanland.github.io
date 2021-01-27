@@ -1,6 +1,6 @@
 ---
 title:  "Remove Page Footer or Header in Chrome Printer"
-date:   2017-04-19 12:01:03 +0000
+date:   2017-04-19 12:01:03
 img:  docker-jekyll.jpg
 description: Remove Page Footer or Header in Chrome Printer
 tags:   [chrome, print]

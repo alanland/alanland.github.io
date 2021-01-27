@@ -1,6 +1,6 @@
 ---
 title:  "GLIBCXX_3.4.20 not found"
-date:   2017-08-08 11:57:37 +0000
+date:   2017-08-08 11:57:37
 tags:   [mongo]
 categories: [DevOps]
 ---

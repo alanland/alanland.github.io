@@ -1,6 +1,6 @@
 ---
 title:  "Kubenetes 阿里云NAS使用"
-date:   2019-05-21 12:23:37 +0000
+date:   2019-05-21 12:23:37
 tags:   [kubernetes, nas, aliyun]
 categories: [DevOps]
 ---

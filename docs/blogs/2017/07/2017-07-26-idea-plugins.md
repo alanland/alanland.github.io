@@ -1,6 +1,6 @@
 ---
 title:  "IntelliJ Idea Plugins"
-date:   2017-07-26 13:27:37 +0000
+date:   2017-07-26 13:27:37
 tags:   [mysql, profile]
 categories: [Java]
 ---

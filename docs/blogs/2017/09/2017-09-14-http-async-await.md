@@ -1,6 +1,6 @@
 ---
 title:  "JS async await"
-date:   2017-09-14 12:57:37 +0000
+date:   2017-09-14 12:57:37
 tags:   [js, es7]
 ---
 

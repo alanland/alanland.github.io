@@ -1,6 +1,6 @@
 ---
 title:  "SpringMVC Swagger: unable to infer base url"
-date:   2017-11-28 17:23:37 +0000
+date:   2017-11-28 17:23:37
 tags:   [springmvc ,swagger, springframework]
 categories: [Java]
 ---

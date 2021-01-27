@@ -1,6 +1,6 @@
 ---
 title:  "Hadoop install"
-date:   2017-06-11 10:27:37 +0000
+date:   2017-06-11 10:27:37
 tags:   [bigdata, hadoop]
 ---
 首先去[官网](http://hadoop.apache.org/releases.html)下载hadoop.本文书写时最新版为`3.0.0-alpha3`，

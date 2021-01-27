@@ -1,6 +1,6 @@
 ---
 title:  "GraphQl Java"
-date:   2017-07-17 12:27:37 +0000
+date:   2017-07-17 12:27:37
 tags:   [graphql]
 categories: [Java]
 ---

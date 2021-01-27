@@ -1,6 +1,6 @@
 ---
 title:  "Tomcat: the response has already been committed"
-date:   2017-09-28 03:57:37 +0000
+date:   2017-09-28 03:57:37
 tags:   [spring, tomcat]
 categories: [Java]
 ---

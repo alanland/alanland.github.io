@@ -1,6 +1,6 @@
 ---
 title:  "Linux: Command History"
-date:   2017-11-12 09:17:37 +0000
+date:   2017-11-12 09:17:37
 tags:   [linux]
 ---
 

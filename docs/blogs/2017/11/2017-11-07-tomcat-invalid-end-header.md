@@ -1,6 +1,6 @@
 ---
 title:  "Tomcat: Zip exception: Invalid end header"
-date:   2017-11-07 04:57:37 +0000
+date:   2017-11-07 04:57:37
 tags:   [tomcat, vpn]
 ---
 

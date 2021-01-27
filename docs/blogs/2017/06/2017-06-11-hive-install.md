@@ -1,6 +1,6 @@
 ---
 title:  "Spark Start"
-date:   2017-06-11 12:30:37 +0000
+date:   2017-06-11 12:30:37
 tags:   [bigdata, hive]
 categories: [BigData]
 ---

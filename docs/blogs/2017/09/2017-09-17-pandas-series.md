@@ -1,6 +1,6 @@
 ---
 title:  "Pandas: Series"
-date:   2017-09-17 03:57:37 +0000
+date:   2017-09-17 03:57:37
 tags:   [python, pandas]
 ---
 

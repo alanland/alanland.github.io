@@ -1,6 +1,6 @@
 ---
 title:  "MySql: ON DUPLICATE KEY"
-date:   2017-07-27 13:27:37 +0000
+date:   2017-07-27 13:27:37
 tags:   [mysql, sql]
 ---
 MySql的`INSERT ... ON DUPLICATE KEY`语法,在插入时候,

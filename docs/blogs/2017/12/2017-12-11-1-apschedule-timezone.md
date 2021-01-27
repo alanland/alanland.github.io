@@ -1,6 +1,6 @@
 ---
 title:  "APScheduler Local Timezone"
-date:   2017-12-11 10:23:37 +0000
+date:   2017-12-11 10:23:37
 tags:   [python, apscheduler]
 ---
 

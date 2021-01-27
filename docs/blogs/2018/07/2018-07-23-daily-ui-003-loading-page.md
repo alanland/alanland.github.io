@@ -1,6 +1,6 @@
 ---
 title:  "Daily UI: 003 Loading Page"
-date:   2018-07-23 12:23:37 +0000
+date:   2018-07-23 12:23:37
 tags:   [dailyui]
 categories: [UE]
 ---

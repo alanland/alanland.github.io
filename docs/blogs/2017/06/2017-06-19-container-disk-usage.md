@@ -1,8 +1,8 @@
 ---
 title:  "Container Disk Usage"
-date:   2017-06-19 12:57:37 +0000
+date:   2017-06-19 12:57:37
 tags:   [docker, container]
-categories: [Cloud]
+categories: [DevOps]
 ---
 ```shell
 docker ps -s

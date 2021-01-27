@@ -1,6 +1,6 @@
 ---
 title:  "Ansible SSH Bastion Host"
-date:   2017-11-17 19:23:37 +0000
+date:   2017-11-17 19:23:37
 tags:   [ansible, ssh, bastion]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title:  "Linux: Run Program Background / Daemon"
-date:   2018-08-08 12:23:37 +0000
+date:   2018-08-08 12:23:37
 tags:   [linux]
 categories: [DevOps]
 ---

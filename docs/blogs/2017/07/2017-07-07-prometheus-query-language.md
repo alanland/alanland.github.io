@@ -1,6 +1,6 @@
 ---
 title:  "Prometheus: Query Language"
-date:   2017-07-07 09:27:37 +0000
+date:   2017-07-07 09:27:37
 tags:   [prometheus]
 ---
 ## data type

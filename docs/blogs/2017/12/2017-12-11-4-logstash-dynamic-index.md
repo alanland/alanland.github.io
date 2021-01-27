@@ -1,6 +1,6 @@
 ---
 title:  "Logstash: Use dynamic Index name based on nested field"
-date:   2017-12-11 16:23:37 +0000
+date:   2017-12-11 16:23:37
 tags:   [logstash]
 ---
 

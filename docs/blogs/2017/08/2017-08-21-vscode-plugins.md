@@ -1,6 +1,6 @@
 ---
 title:  "VSCode plugins"
-date:   2017-08-11 11:57:37 +0000
+date:   2017-08-11 11:57:37
 tags:   [ide, vscode]
 categories: [前端]
 ---

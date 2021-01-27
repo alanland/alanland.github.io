@@ -1,6 +1,6 @@
 ---
 title:  "Binary search tree(BST/B Tree)"
-date:   2017-07-27 14:27:37 +0000
+date:   2017-07-27 14:27:37
 tags:   [tree, algorithm]
 categories: [算法]
 ---

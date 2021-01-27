@@ -1,6 +1,6 @@
 ---
 title:  "Run Jekyll in Docker"
-date:   2017-04-07 14:58:00 +0000
+date:   2017-04-07 14:58:00
 tags:   [jekyll]
 categories: [Blog]
 ---

@@ -1,6 +1,6 @@
 ---
 title:  "Pac4j - SpringMVC - SecurityLogic"
-date:   2018-05-09 08:23:37 +0000
+date:   2018-05-09 08:23:37
 tags:   [spring, springmvc, pac4j]
 categories: [Java]
 ---

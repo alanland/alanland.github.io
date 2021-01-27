@@ -1,6 +1,6 @@
 ---
 title:  "Ansible authorized_keys"
-date:   2017-05-22 19:27:37 +0000
+date:   2017-05-22 19:27:37
 tags:   [ssh, ansible, operation]
 categories: [DevOps]
 ref:

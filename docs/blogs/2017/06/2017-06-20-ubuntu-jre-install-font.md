@@ -1,6 +1,6 @@
 ---
 title:  "Ubuntu Server: Install Fonts (Java)"
-date:   2017-06-20 16:27:37 +0000
+date:   2017-06-20 16:27:37
 tags:   [linux, java]
 ---
 阿里云的Ubuntu服务器安装Java测试下来`ttc`字体不起作用.

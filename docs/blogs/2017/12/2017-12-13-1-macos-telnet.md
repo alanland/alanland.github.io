@@ -1,6 +1,6 @@
 ---
 title:  "MacOS Telnet"
-date:   2017-12-13 15:23:37 +0000
+date:   2017-12-13 15:23:37
 tags:   [macos, telnet]
 ---
 

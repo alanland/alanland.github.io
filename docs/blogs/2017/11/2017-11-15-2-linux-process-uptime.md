@@ -1,6 +1,6 @@
 ---
 title:  "Linux Process uptime"
-date:   2017-11-15 09:23:37 +0000
+date:   2017-11-15 09:23:37
 tags:   [linux, uptime]
 ---
 

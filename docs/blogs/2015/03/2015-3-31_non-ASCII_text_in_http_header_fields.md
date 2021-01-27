@@ -1,6 +1,6 @@
 ---
 title:  "non-ASCII Text in HTTP Header Fields"
-date:   2015-03-31 23:29:37 +0000
+date:   2015-03-31 23:29:37
 tags:   [js, http]
 ---
 

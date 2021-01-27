@@ -1,6 +1,6 @@
 ---
 title:  "Spark Tutorial 1"
-date:   2017-12-01 22:23:37 +0000
+date:   2017-12-01 22:23:37
 tags:   [scala, spark]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title:  "GoAccess Install"
-date:   2019-06-03 12:28:37 +0000
+date:   2019-06-03 12:28:37
 tags:   [linux, nginx, goaccess]
 ---
 

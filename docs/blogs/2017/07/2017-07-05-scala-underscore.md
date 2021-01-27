@@ -1,6 +1,6 @@
 ---
 title:  "Scala: Underscore usage"
-date:   2017-07-06 10:27:37 +0000
+date:   2017-07-06 10:27:37
 tags:   [scala]
 ---
 

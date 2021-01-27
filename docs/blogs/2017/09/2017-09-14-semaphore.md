@@ -1,6 +1,6 @@
 ---
 title:  "semaphore"
-date:   2017-09-14 14:57:37 +0000
+date:   2017-09-14 14:57:37
 tags:   [ansible, semaphore]
 categories: [DevOps]
 ---

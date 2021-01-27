@@ -1,6 +1,6 @@
 ---
 title:  "WebStorm rpx"
-date:   2019-03-14 11:23:37 +0000
+date:   2019-03-14 11:23:37
 tags:   [webstorm]
 ---
 

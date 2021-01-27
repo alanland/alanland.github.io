@@ -1,6 +1,6 @@
 ---
 title:  "Spark RDD, DataFrame, DataSet"
-date:   2017-08-05 11:57:37 +0000
+date:   2017-08-05 11:57:37
 tags:   [spark]
 ---
 ## RDD, DataFrame

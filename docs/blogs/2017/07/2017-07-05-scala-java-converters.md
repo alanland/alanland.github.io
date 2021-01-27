@@ -1,6 +1,6 @@
 ---
 title:  "Scala: JavaConverters"
-date:   2017-07-06 10:57:37 +0000
+date:   2017-07-06 10:57:37
 tags:   [scala]
 ---
 ## `scala.collection.JavaConverters`

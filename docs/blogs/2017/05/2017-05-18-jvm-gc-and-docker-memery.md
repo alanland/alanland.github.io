@@ -1,6 +1,6 @@
 ---
 title:  "Docker Memory and JVM GC"
-date:   2017-05-18 11:27:37 +0000
+date:   2017-05-18 11:27:37
 tags:   [docker, jvm, gc, oom, java]
 ---
 最近服务器上有暴露一些内存问题，几个Tomcat Docker在某些业务场景内存使用会很大，然后超过DContainer的mem limit，

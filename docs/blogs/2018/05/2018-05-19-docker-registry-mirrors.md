@@ -1,6 +1,6 @@
 ---
 title:  "Docker registry mirrors"
-date:   2018-05-19 14:23:37 +0000
+date:   2018-05-19 14:23:37
 tags:   [ubuntu, docker]
 ---
 

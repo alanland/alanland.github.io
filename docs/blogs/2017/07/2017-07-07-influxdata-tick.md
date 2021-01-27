@@ -1,6 +1,6 @@
 ---
 title:  "InfluxData: TICK"
-date:   2017-07-07 12:27:37 +0000
+date:   2017-07-07 12:27:37
 tags:   [influxdb]
 ---
 使用｀compose`运行TICK, 运行成功后打开chronograf的[界面](http://localhost:8888/)

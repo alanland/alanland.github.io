@@ -1,6 +1,6 @@
 ---
 title:  "Vue: runtime-only build"
-date:   2017-06-20 18:27:37 +0000
+date:   2017-06-20 18:27:37
 tags:   [javascript, vue]
 ---
 ```

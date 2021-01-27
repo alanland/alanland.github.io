@@ -1,6 +1,6 @@
 ---
 title:  "Connection Refused"
-date:   2017-12-05 10:23:37 +0000
+date:   2017-12-05 10:23:37
 tags:   [tomcat, http, tcp, connection]
 ---
 

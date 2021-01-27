@@ -1,6 +1,6 @@
 ---
 title:  "Lua: Array Length"
-date:   2017-11-11 13:27:37 +0000
+date:   2017-11-11 13:27:37
 tags:   [lua, Nginx]
 categories: [Lua]
 ---

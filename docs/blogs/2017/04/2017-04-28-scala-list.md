@@ -1,6 +1,6 @@
 ---
 title:  "Scala List"
-date:   2017-04-28 19:07:37 +0000
+date:   2017-04-28 19:07:37
 tags:   [scala]
 ---
 Scala list 常用操作：

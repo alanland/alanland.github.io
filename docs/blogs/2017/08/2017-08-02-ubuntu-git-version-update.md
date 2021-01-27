@@ -1,6 +1,6 @@
 ---
 title:  "Ubuntu update git version"
-date:   2017-08-02 11:27:37 +0000
+date:   2017-08-02 11:27:37
 tags:   [linux, git]
 categories: [DevOps]
 ---

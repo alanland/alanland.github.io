@@ -1,6 +1,6 @@
 ---
 title:  "Spring Security OAuth2: Full authentication is required to access this resource"
-date:   2018-05-11 14:23:37 +0000
+date:   2018-05-11 14:23:37
 tags:   [spring-security, oauth]
 ---
 

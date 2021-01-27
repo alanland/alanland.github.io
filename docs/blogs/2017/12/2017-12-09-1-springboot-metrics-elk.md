@@ -1,6 +1,6 @@
 ---
 title:  "Springboot Metrics to ELK"
-date:   2017-12-09 13:23:37 +0000
+date:   2017-12-09 13:23:37
 tags:   [elk, springboot, metrics]
 ---
 

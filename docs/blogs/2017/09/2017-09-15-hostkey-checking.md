@@ -1,6 +1,6 @@
 ---
 title:  "Disable host key checking"
-date:   2017-09-15 12:57:37 +0000
+date:   2017-09-15 12:57:37
 tags:   [ansible]
 categories: [DevOps]
 ---

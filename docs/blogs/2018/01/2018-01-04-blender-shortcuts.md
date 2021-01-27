@@ -1,6 +1,6 @@
 ---
 title:  "Blender Shortcuts"
-date:   2010-01-04 09:23:37 +0000
+date:   2010-01-04 09:23:37
 tags:   [blender]
 ---
 

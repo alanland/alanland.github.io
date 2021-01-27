@@ -1,6 +1,6 @@
 ---
 title:  "Github Pages locally with Jekyll"
-date:   2017-05-15 19:27:37 +0000
+date:   2017-05-15 19:27:37
 tags:   [jekyll, github-pages]
 categories: [Blog]
 ---

@@ -1,6 +1,6 @@
 ---
 title:  "Python: install python3-pip"
-date:   2017-07-06 12:27:37 +0000
+date:   2017-07-06 12:27:37
 tags:   [python]
 categories: [Python]
 ---

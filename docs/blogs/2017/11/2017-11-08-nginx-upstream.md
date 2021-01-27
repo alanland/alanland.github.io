@@ -1,6 +1,6 @@
 ---
 title:  "Nginx Upstream"
-date:   2017-11-08 05:57:37 +0000
+date:   2017-11-08 05:57:37
 tags:   [nginx]
 categories: [DevOps]
 ---

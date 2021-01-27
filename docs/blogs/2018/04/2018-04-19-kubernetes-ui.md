@@ -1,6 +1,6 @@
 ---
 title:  "Kubernetes Dashboard UI"
-date:   2018-04-19 14:23:37 +0000
+date:   2018-04-19 14:23:37
 tags:   [kubernetes]
 ---
 

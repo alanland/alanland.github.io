@@ -1,6 +1,6 @@
 ---
 title:  "Export Sql Result to Excel"
-date:   2017-09-29 03:57:37 +0000
+date:   2017-09-29 03:57:37
 tags:   [mqsql]
 ---
 

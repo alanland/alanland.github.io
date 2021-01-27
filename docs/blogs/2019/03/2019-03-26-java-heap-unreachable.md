@@ -1,6 +1,6 @@
 ---
 title:  "Java Heap Unreachable Objects"
-date:   2019-03-26 11:23:37 +0000
+date:   2019-03-26 11:23:37
 tags:   [jvm, heap]
 ---
 

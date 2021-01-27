@@ -1,6 +1,6 @@
 ---
 title:  "Scala Implicit - 1"
-date:   2017-04-17 21:30:19 +0000
+date:   2017-04-17 21:30:19
 img:  docker-jekyll.jpg
 description: Scala Implicit
 categories: [Scala]

@@ -1,6 +1,6 @@
 ---
 title:  "Nginx Websocket"
-date:   2016-07-04 23:29:37 +0000
+date:   2016-07-04 23:29:37
 tags:   [nginx, websocket]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title:  "MySql: innodb_lock_wait"
-date:   2017-07-24 12:27:37 +0000
+date:   2017-07-24 12:27:37
 tags:   [mysql, lock]
 ---
 常见错误:

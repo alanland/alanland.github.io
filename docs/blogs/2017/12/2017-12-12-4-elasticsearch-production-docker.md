@@ -1,6 +1,6 @@
 ---
 title:  "Use Elasticsearch in Docker for producetion use"
-date:   2017-12-12 15:23:37 +0000
+date:   2017-12-12 15:23:37
 tags:   [elasticsearch, docker]
 ---
 

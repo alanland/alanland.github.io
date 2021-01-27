@@ -1,6 +1,6 @@
 ---
 title:  "C3: Simple DrillDown"
-date:   2017-06-24 12:27:37 +0000
+date:   2017-06-24 12:27:37
 tags:   [c3, chart, drilldown]
 ---
 

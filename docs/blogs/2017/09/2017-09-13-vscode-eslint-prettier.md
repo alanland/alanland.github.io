@@ -1,6 +1,6 @@
 ---
 title:  "VSCode Pretter"
-date:   2017-09-13 11:57:37 +0000
+date:   2017-09-13 11:57:37
 tags:   [vscode, eslint, prettier]
 ---
 # Prettier formatter for Visual Studio Code
