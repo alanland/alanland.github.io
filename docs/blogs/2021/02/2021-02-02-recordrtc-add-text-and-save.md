@@ -1,5 +1,7 @@
 ---
-title: WebRCT 视频录制添加时间戳和自定义文字 date: 2021-01-27 categories: [前端]
+title: WebRCT 视频录制添加时间戳和自定义文字 
+date: 2021-02-02 
+categories: [前端]
 tags: [webrtc]
 ---
 
