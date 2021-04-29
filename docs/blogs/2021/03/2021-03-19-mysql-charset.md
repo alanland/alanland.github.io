@@ -1,7 +1,7 @@
 ---
 title: MySQL数据库乱码
 date: 2021-03-19
-categories: [运维]
+categories: [DevOps]
 tags: [mysql]
 ---
 

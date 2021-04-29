@@ -2,6 +2,7 @@
 title:  "Ansible: Become(sudo)"
 date:   2017-06-21 18:27:37
 tags:   [ansible]
+categories: [DevOps]
 ---
 
 

@@ -2,6 +2,7 @@
 title:  "Redis: Jedis Pool test"
 date:   2017-06-23 11:27:37
 tags:   [redis, jedis]
+categories: [Java]
 ---
 程序中Redis连接的时候,偶尔会出现下面问题:
 ```shell
@@ -12,6 +13,7 @@ redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resourc
 ```
 
 下面进行测试:
+
 ```groovy
 JedisPool pool(int maxTotal, long wait, int db) {
 JedisPoolConfig poolConfig = new JedisPoolConfig()

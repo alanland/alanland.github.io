@@ -2,6 +2,7 @@
 title:  "Vue: runtime-only build"
 date:   2017-06-20 18:27:37
 tags:   [javascript, vue]
+categories: [前端]
 ---
 ```
 VM17700:431 [Vue warn]: You are using the runtime-only build

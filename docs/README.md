@@ -1,18 +1,19 @@
 ---
 home: true
-heroText: Next 365 Days
-tagline: Life, Program, Web, BigData, BI ...
-# heroImage: /hero.png
-# heroImageStyle: {
-#   maxWidth: '600px',
-#   width: '100%',
-#   display: block,
-#   margin: '9rem auto 2rem',
-#   background: '#fff',
-#   borderRadius: '1rem',
-# }
+heroText: # Next 365 Days
+tagline: # Life, Program, Web, BigData, BI ...
+heroImage: /hero.png
+heroImageStyle: {
+  maxWidth: '600px',
+  width: '100%',
+  display: block,
+  margin: '9rem auto 2rem',
+  color: '#fff',
+  borderRadius: '1rem',
+}
+bgImage: '/titlebg.jpg'
 bgImageStyle: {
-  height: '450px'
+  height: 'calc(100vh - 3.6rem)'
 }
 isShowTitleInHome: false
 actionText: Guide

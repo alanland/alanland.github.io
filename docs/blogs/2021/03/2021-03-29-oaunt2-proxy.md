@@ -1,7 +1,7 @@
 ---
 title: oauth2-proxy 使用
 date: 2021-03-29
-categories: [运维]
+categories: [DevOps]
 tags: [oauth2-proxy]
 ---
 
