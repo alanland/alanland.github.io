@@ -46,3 +46,4 @@ tags: [blog, vuepress]
 - https://diygod.me/handshake/#more
 - https://nyakku.moe/posts/2019/10/21/moefy-your-vuepress-blog.html
 - https://moefyit.github.io/moefy-vuepress/
+- https://lovelijunyi.gitee.io/posts/c898.html

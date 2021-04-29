@@ -23,3 +23,4 @@ RecordRTC 网页上有前端加 Logo 的例子，稍微改造了下，效果如�
 - [HTML5 Canvas Text](http://tutorials.jenkov.com/html5-canvas/text.html)
 - [30+ Simple Demos using RecordRTC](https://www.webrtc-experiment.com/RecordRTC/simple-demos/)
 - [Show logo+advertisement on the recorded video | RecordRTC](https://www.webrtc-experiment.com/RecordRTC/simple-demos/show-logo-on-recorded-video.html)
+- https://www.webrtc-experiment.com/
