@@ -5,5 +5,5 @@ tags:   [dailyui]
 categories: [UE]
 ---
 
-![](./resources/2018-07-23-daily-ui-003-loading-page/daylyui-003.png)
+![](./resources/2018-07-23-daily-ui-003-loading-page/dailyui-003.png)
 

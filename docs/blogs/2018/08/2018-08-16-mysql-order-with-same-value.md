@@ -30,7 +30,7 @@ SELECT id, created FROM order_header ORDER BY created DESC, 1 DESC LIMIT 0, 100
 
 可以看到数据按照插入数据库的顺序倒序排列了，
 
-![](./resources/2018-08-16-mysql-order-with-same-value/mysql-orderby-created1desc.png)
+![](./resources/2018-08-16-mysql-order-with-same-value/mysql-oderby-created1desc.png)
 
 
 同理使用` ORDER BY 1 ASC`可达到如下效果：

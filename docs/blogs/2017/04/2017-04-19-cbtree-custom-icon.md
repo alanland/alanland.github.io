@@ -11,7 +11,7 @@ tags:   [dojo, dijit, cbtree, icon]
 
 首先制作一个图标文件：
 
-![cbtree icons]({{ site.baseurl }}/assets/images/cbtree-icons.png "cbtree icons")
+![](./resources/2017-04-19-cbtree-custom-icon/cbtree-icons.png)
 
 接下来编写css文件，比如我们的图标主题叫做`office`:
 
@@ -53,7 +53,7 @@ tree = new Tree {
 
 可以浏览到效果：
 
-![]({{ site.baseurl }}/assets/images/cbtree-custom-icon-preview.png)
+![](./resources/2017-04-19-cbtree-custom-icon/cbtree-custom-icon-preview.png)
 
 
 ---

@@ -37,3 +37,5 @@ class MyHttpService extends Actor {
   }
 }
 ```
+
+![](./resources/2017-04-14-Spray1-first-app/spray-template-hello-page.png)

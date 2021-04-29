@@ -5,14 +5,14 @@ tags:   [macos, docker]
 categories: [DevOps]
 ---
 
-
 然后使用brew安装bash-completion：
-
+```sh
 brew install bash-completion
+```
 
-
-
-Alans-MacBook-Pro:~ alan$ brew info bash-completion
+如下：
+```sh
+$ brew info bash-completion
 bash-completion: stable 1.3 (bottled)
 Programmable completion for Bash 3.2
 https://bash-completion.alioth.debian.org/
@@ -27,10 +27,12 @@ Add the following line to your ~/.bash_profile:
 
 Bash completion has been installed to:
   /usr/local/etc/bash_completion.d
+```
 
 
 
+执行以下命令下载补全脚本，并保存到`bash-completion`的配置目录中：
 
-执行以下命令下载补全脚本，并保存到bash-completion的配置目录中：
-
+```sh
 curl -L https://raw.githubusercontent.com/docker/docker/v$(docker version -f "{{.Client.Version}}")/contrib/completion/bash/docker -o /usr/local/etc/bash_completion.d/docker
+```

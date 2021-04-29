@@ -5,7 +5,7 @@ tags:   [processing]
 ---
 首先画一个渐进的背景：
 
-![](./resources/demos/processing/tree/bg1.png)
+![](./resources/processing/tree/bg1.png)
 
 ```java
 void setup() {
@@ -32,7 +32,7 @@ void draw() {
 
 调整背景颜色变得柔和一些，
 
-![](./resources/demos/processing/tree/bg1.png)
+![](./resources/processing/tree/bg1.png)
 
 ```
 bg.fill(map(diam, min, max, 255, 210 ));
@@ -41,7 +41,7 @@ bg.fill(map(diam, min, max, 255, 210 ));
 
 接下来我们画树，树的画法是一个经典的分形算法。但是如果是完全的分形那么会显得不那么真实，比如下面：
 
-![](./resources/demos/processing/tree/xxx.png)
+![](./resources/processing/tree/tree-00.jpeg)
 
 实际我们在画树的时候我们都会增加一些噪音让图画显得更自然。
 
@@ -104,21 +104,21 @@ void draw() {
 ```
 
 
-![](./resources/demos/processing/tree/tree1.png)
-![](./resources/demos/processing/tree/tree1-1.png)
-![](./resources/demos/processing/tree/tree1-2.png)
-![](./resources/demos/processing/tree/tree1-3.png)
-![](./resources/demos/processing/tree/tree1-4.png)
-![](./resources/demos/processing/tree/tree1-5.png)
-![](./resources/demos/processing/tree/tree1-6.png)
-![](./resources/demos/processing/tree/tree1-7.png)
-![](./resources/demos/processing/tree/tree1-8.png)
-![](./resources/demos/processing/tree/tree1-9.png)
-![](./resources/demos/processing/tree/tree1-10.png)
-![](./resources/demos/processing/tree/tree1-11.png)
-![](./resources/demos/processing/tree/tree1-12.png)
-![](./resources/demos/processing/tree/tree1-13.png)
-![](./resources/demos/processing/tree/tree1-14.png)
+![](./resources/processing/tree/tree1.png)
+![](./resources/processing/tree/tree1-1.png)
+![](./resources/processing/tree/tree1-2.png)
+![](./resources/processing/tree/tree1-3.png)
+![](./resources/processing/tree/tree1-4.png)
+![](./resources/processing/tree/tree1-5.png)
+![](./resources/processing/tree/tree1-6.png)
+![](./resources/processing/tree/tree1-7.png)
+![](./resources/processing/tree/tree1-8.png)
+![](./resources/processing/tree/tree1-9.png)
+![](./resources/processing/tree/tree1-10.png)
+![](./resources/processing/tree/tree1-11.png)
+![](./resources/processing/tree/tree1-12.png)
+![](./resources/processing/tree/tree1-13.png)
+![](./resources/processing/tree/tree1-14.png)
 
 上面程序只加入了少许的随机，就能产生如此神奇的形状，而且我们看到，只要稍微调整一下参数就能生成各种各样的树。
 
