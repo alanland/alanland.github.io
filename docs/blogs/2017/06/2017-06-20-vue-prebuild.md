@@ -1,7 +1,7 @@
 ---
 title:  "Vue: runtime-only build"
 date:   2017-06-20 18:27:37
-tags:   [javascript, vue]
+tags:   [js, vue]
 categories: [前端]
 ---
 ```

@@ -2,7 +2,7 @@
 title: tui-editor paste image
 date: 2020-07-21 12:44:07.160Z
 categories: [前端]
-tags: [javascript, editor]
+tags: [js, editor]
 ---
 
 ```js
