@@ -39,7 +39,7 @@ module.exports = {
         "items": [
           {
             "text": "技术雷达",
-            "link": "/radar/"
+            "link": "/radar/index.html"
           },
           {
             "text": "华为",

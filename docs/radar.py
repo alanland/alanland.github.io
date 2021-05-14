@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 
-blogs = '/Users/alan/workspace/github/alanland/alanland.github.io/docs/blogs'
-base = '/Users/alan/workspace/github/alanland/alanland.github.io/docs'
+blogs = './blogs'
+base = '.'
 
 import json
 import os

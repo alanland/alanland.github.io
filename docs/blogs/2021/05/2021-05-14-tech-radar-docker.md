@@ -7,5 +7,5 @@ categories: [TechRadar]
 
 ## Quadrant: `平台`
 
-## Ring: `采用` 2021-05-11
+## Ring: `采用` 2021-05-14
 
