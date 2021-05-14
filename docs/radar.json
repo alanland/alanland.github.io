@@ -72,6 +72,13 @@
         {
             "description": "",
             "isNew": false,
+            "name": "Zipkin",
+            "quadrant": "工具",
+            "ring": "评估"
+        },
+        {
+            "description": "",
+            "isNew": false,
             "name": "Micro Frontends",
             "quadrant": "技术",
             "ring": "采用"
@@ -101,7 +108,14 @@
             "description": "",
             "isNew": false,
             "name": "SkyWalking",
-            "quadrant": "语言和框架",
+            "quadrant": "工具",
+            "ring": "采用"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "Zipkin",
+            "quadrant": "工具",
             "ring": "评估"
         },
         {
@@ -170,9 +184,23 @@
         {
             "description": "",
             "isNew": false,
+            "name": "OpenTracing",
+            "quadrant": "技术",
+            "ring": "评估"
+        },
+        {
+            "description": "",
+            "isNew": false,
             "name": "Technology Radar",
             "quadrant": "技术",
             "ring": "采用"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "Jaeger",
+            "quadrant": "工具",
+            "ring": "评估"
         }
     ]
 }
