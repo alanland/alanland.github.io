@@ -9,7 +9,9 @@ categories: [TechRadar]
 
 - [https://sentry.io/welcome/](https://sentry.io/welcome/)
 
-## 2021-05-10 `实验`
+## Quadrant: `工具`
+
+## Ring: `实验` 2021-05-10
 
 Sentry 是一个开源的实时错误追踪系统，可以使用其在线服务，
 也可以[本地搭建](https://develop.sentry.dev/self-hosted/)（[GitHub Compose项目](https://github.com/getsentry/onpremise)）。

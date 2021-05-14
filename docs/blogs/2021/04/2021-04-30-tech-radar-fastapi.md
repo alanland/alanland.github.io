@@ -9,7 +9,9 @@ categories: [TechRadar]
 
 [https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/)
 
-## 2021-04-30 `评估`
+## Quadrant: `工具`
+
+## Ring: `评估` 2021-04-30
 
 一个高性能的Web框架，只支持Python3.6以上版本。性能据说可以和NodeJS、Go相比，编码简单、对API支持良好。
 

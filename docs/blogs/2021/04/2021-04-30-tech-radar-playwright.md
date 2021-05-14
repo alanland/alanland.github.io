@@ -11,7 +11,9 @@ categories: [TechRadar]
 
 - https://playwright.dev/
 
-## 2021-04-30 `评估`
+## Quadrant: `工具`
+
+## Ring: `评估` 2021-04-30
 
 Playwright允许使用同一套API编写不同浏览器（Chrome、Firefox）的Web UI测试。
 

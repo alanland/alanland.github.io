@@ -6,6 +6,10 @@ set -e
 # build
 yarn build
 
+python radar.py
+
+mv dist public/radar
+
 # navigate into the build output directory
 cd public
 

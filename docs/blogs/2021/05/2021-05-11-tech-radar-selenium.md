@@ -5,9 +5,9 @@ tags:   [tech-radar, testing]
 categories: [TechRadar]
 ---
 
-## 象限 `工具`
+## Quadrant: `工具`
 
-## 2021-05-10 `暂缓`
+## Ring: `暂缓` 2021-05-10
 
 老牌的自动化测试工具，使用比较反人类。
 

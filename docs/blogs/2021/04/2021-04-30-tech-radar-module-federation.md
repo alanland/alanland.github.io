@@ -9,7 +9,9 @@ categories: [TechRadar]
 
 - https://webpack.js.org/concepts/module-federation/
 
-## 2021-04-30 `评估`
+## Quadrant: `技术`
+
+## Ring: `评估` 2021-04-30
 
 Webpack 5的新特性 `Module Federation` 允许我们在项目内动态加载其它项目的代码，同步项目依赖。
 解决了独立应用间代码贡献的问题。

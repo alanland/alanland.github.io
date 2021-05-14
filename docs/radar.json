@@ -1,0 +1,171 @@
+{
+    "title": "Cybertrans Radar",
+    "quadrants": [
+        "技术",
+        "工具",
+        "平台",
+        "语言和框架"
+    ],
+    "rings": [
+        "采用",
+        "实验",
+        "评估",
+        "暂缓"
+    ],
+    "blips": [
+        {
+            "description": "",
+            "isNew": false,
+            "name": "Playwright",
+            "quadrant": "工具",
+            "ring": "评估"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "Module Federation",
+            "quadrant": "技术",
+            "ring": "评估"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "io-ts",
+            "quadrant": "语言和框架",
+            "ring": "评估"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "BackStage",
+            "quadrant": "工具",
+            "ring": "实验"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "Excalidraw",
+            "quadrant": "工具",
+            "ring": "实验"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "FastAPI",
+            "quadrant": "工具",
+            "ring": "评估"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "WICG: Import Maps",
+            "quadrant": "技术",
+            "ring": "评估"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "SPA Injection",
+            "quadrant": "技术",
+            "ring": "评估"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "Micro Frontends",
+            "quadrant": "技术",
+            "ring": "采用"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "Cypress",
+            "quadrant": "工具",
+            "ring": "实验"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "Vue",
+            "quadrant": "语言和框架",
+            "ring": "采用"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "SpringCloud",
+            "quadrant": "语言和框架",
+            "ring": "采用"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "Docker",
+            "quadrant": "平台",
+            "ring": "采用"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "TypeScript",
+            "quadrant": "语言和框架",
+            "ring": "采用"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "Team Topologies",
+            "quadrant": "技术",
+            "ring": "评估"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "Selenium",
+            "quadrant": "工具",
+            "ring": "暂缓"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "TestCafe",
+            "quadrant": "工具",
+            "ring": "实验"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "SpringBoot",
+            "quadrant": "语言和框架",
+            "ring": "采用"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "Sentry",
+            "quadrant": "工具",
+            "ring": "实验"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "Puppeteer",
+            "quadrant": "工具",
+            "ring": "实验"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "Formily",
+            "quadrant": "语言和框架",
+            "ring": "评估"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "Technology Radar",
+            "quadrant": "技术",
+            "ring": "采用"
+        }
+    ]
+}

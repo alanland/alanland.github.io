@@ -11,7 +11,9 @@ categories: [TechRadar]
 
 > Runtime type system for IO decoding/encoding
 
-## 2021-04-30 `评估`
+## Quadrant: `语言和框架`
+
+## Ring: `评估` 2021-04-30
 
 TypeScript的强类型给我们带来了便利和安全。但是服务端返回的数据和类型定义不一致时，可能导致运行时错误.
 io-ts通过编码和解码的方式，解决了外部数据在编译和检查期间的问题，

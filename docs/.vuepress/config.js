@@ -38,6 +38,10 @@ module.exports = {
         "icon": "reco-message",
         "items": [
           {
+            "text": "技术雷达",
+            "link": "/radar/"
+          },
+          {
             "text": "华为",
             "link": "/docs/theme-reco/huawei/"
           }

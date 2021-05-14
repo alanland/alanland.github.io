@@ -5,9 +5,9 @@ tags:   [tech-radar, testing]
 categories: [TechRadar]
 ---
 
-## 象限 `工具`
+## Quadrant: `工具`
 
-## 2021-05-11 `实验`
+## Ring: `实验` 2021-05-11
 
 ThoughtWorks 技术雷达评级为采用。定位为下一代的前端测试工具。有App和Cli来生成项目，对工程化比较友好。提供 Dashboard 查看执行和日志。
 
