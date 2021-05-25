@@ -37,7 +37,7 @@
         {
             "description": "",
             "isNew": false,
-            "name": "BackStage",
+            "name": "Backstage",
             "quadrant": "工具",
             "ring": "实验"
         },
@@ -79,6 +79,13 @@
         {
             "description": "",
             "isNew": false,
+            "name": "Davinci",
+            "quadrant": "语言和框架",
+            "ring": "实验"
+        },
+        {
+            "description": "",
+            "isNew": false,
             "name": "Micro Frontends",
             "quadrant": "技术",
             "ring": "采用"
@@ -86,9 +93,37 @@
         {
             "description": "",
             "isNew": false,
+            "name": "GraalVM",
+            "quadrant": "平台",
+            "ring": "评估"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "Kuboard",
+            "quadrant": "平台",
+            "ring": "评估"
+        },
+        {
+            "description": "",
+            "isNew": false,
             "name": "Cypress",
             "quadrant": "工具",
             "ring": "实验"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "Micronaut",
+            "quadrant": "语言和框架",
+            "ring": "实验"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "K9s",
+            "quadrant": "平台",
+            "ring": "评估"
         },
         {
             "description": "",
@@ -107,9 +142,23 @@
         {
             "description": "",
             "isNew": false,
+            "name": "Lighthouse",
+            "quadrant": "工具",
+            "ring": "采用"
+        },
+        {
+            "description": "",
+            "isNew": false,
             "name": "SkyWalking",
             "quadrant": "工具",
             "ring": "采用"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "KuberSphere",
+            "quadrant": "平台",
+            "ring": "评估"
         },
         {
             "description": "",
@@ -128,6 +177,13 @@
         {
             "description": "",
             "isNew": false,
+            "name": "Quarkus",
+            "quadrant": "语言和框架",
+            "ring": "评估"
+        },
+        {
+            "description": "",
+            "isNew": false,
             "name": "TypeScript",
             "quadrant": "语言和框架",
             "ring": "采用"
@@ -135,8 +191,22 @@
         {
             "description": "",
             "isNew": false,
+            "name": "WaveScope",
+            "quadrant": "平台",
+            "ring": "采用"
+        },
+        {
+            "description": "",
+            "isNew": false,
             "name": "Team Topologies",
             "quadrant": "技术",
+            "ring": "评估"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "Consul",
+            "quadrant": "平台",
             "ring": "评估"
         },
         {
@@ -163,6 +233,13 @@
         {
             "description": "",
             "isNew": false,
+            "name": "Octant",
+            "quadrant": "平台",
+            "ring": "评估"
+        },
+        {
+            "description": "",
+            "isNew": false,
             "name": "Sentry",
             "quadrant": "工具",
             "ring": "实验"
@@ -177,9 +254,30 @@
         {
             "description": "",
             "isNew": false,
+            "name": "KNative",
+            "quadrant": "平台",
+            "ring": "评估"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "Istio",
+            "quadrant": "平台",
+            "ring": "实验"
+        },
+        {
+            "description": "",
+            "isNew": false,
             "name": "Formily",
             "quadrant": "语言和框架",
             "ring": "评估"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "Kubernetes Lens",
+            "quadrant": "平台",
+            "ring": "实验"
         },
         {
             "description": "",
@@ -201,6 +299,13 @@
             "name": "Jaeger",
             "quadrant": "工具",
             "ring": "评估"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "kubernetic",
+            "quadrant": "平台",
+            "ring": "实验"
         }
     ]
 }

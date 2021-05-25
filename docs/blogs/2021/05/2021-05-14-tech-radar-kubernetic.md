@@ -1,5 +1,5 @@
 ---
-title:  "『技术雷达』Kubernetes"
+title:  "『技术雷达』kubernetic"
 date:   2021-05-14 19:38:23
 tags:   [tech-radar]
 categories: [TechRadar]

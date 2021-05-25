@@ -39,7 +39,7 @@ module.exports = {
         "items": [
           {
             "text": "技术雷达",
-            "link": "/radar/index.html"
+            "link": "https://alanland.github.io/radar/"
           },
           {
             "text": "华为",
