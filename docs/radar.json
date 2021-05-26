@@ -14,28 +14,126 @@
     ],
     "blips": [
         {
+            "description": "<p>VMWare 出品的 Kubernetes 管理客户端。</p> <a href=\"/docs/tech-radar/platforms/octant.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "Octant",
+            "quadrant": "平台",
+            "ring": "评估"
+        },
+        {
+            "description": "<p>从「服务注册」到「服务网格」。</p> <a href=\"/docs/tech-radar/platforms/consul.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "Consul",
+            "quadrant": "平台",
+            "ring": "评估"
+        },
+        {
+            "description": "<p>Kubernetes 上构建「以应用为中心」的「企业级分布式容器平台」。</p> <a href=\"/docs/tech-radar/platforms/kubersphere.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "KuberSphere",
+            "quadrant": "平台",
+            "ring": "评估"
+        },
+        {
+            "description": "<p>基于 Kubernetes 的 Serverless 。</p> <a href=\"/docs/tech-radar/platforms/knative.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "KNative",
+            "quadrant": "平台",
+            "ring": "评估"
+        },
+        {
+            "description": "<p>Kubernetes 管理客户端。</p> <a href=\"/docs/tech-radar/platforms/kubernetic.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "kubernetic",
+            "quadrant": "平台",
+            "ring": "实验"
+        },
+        {
+            "description": "<p>Kubernetes CLI。</p> <a href=\"/docs/tech-radar/platforms/k9s.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "K9s",
+            "quadrant": "平台",
+            "ring": "评估"
+        },
+        {
+            "description": "<p>ServiceMesh。</p> <a href=\"/docs/tech-radar/platforms/istio.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "Istio",
+            "quadrant": "平台",
+            "ring": "实验"
+        },
+        {
+            "description": "<p>Kubernetes IDE。有 Mac 客户端。</p> <a href=\"/docs/tech-radar/platforms/lens.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "Kubernetes Lens",
+            "quadrant": "平台",
+            "ring": "实验"
+        },
+        {
+            "description": "<p>Kubernetes、容器监控管理工具。</p> <a href=\"/docs/tech-radar/platforms/wavescope.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "WaveScope",
+            "quadrant": "平台",
+            "ring": "采用"
+        },
+        {
             "description": "",
             "isNew": false,
-            "name": "Playwright",
+            "name": "Docker",
+            "quadrant": "平台",
+            "ring": "采用"
+        },
+        {
+            "description": "<p>下一代的虚拟机，支持多种语言，很多 Java 微服务框架已经支持。</p> <a href=\"/docs/tech-radar/platforms/graalvm.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "GraalVM",
+            "quadrant": "平台",
+            "ring": "评估"
+        },
+        {
+            "description": " <a href=\"/docs/tech-radar/platforms/kuboard.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "Kuboard",
+            "quadrant": "平台",
+            "ring": "评估"
+        },
+        {
+            "description": "<p>ThoughtWorks 技术雷达评级为采用。定位为下一代的前端测试工具。有App和Cli来生成项目，对工程化比较友好。提供 Dashboard 查看执行和日志。</p> <a href=\"/docs/tech-radar/tools/cypress.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "Cypress",
+            "quadrant": "工具",
+            "ring": "实验"
+        },
+        {
+            "description": " <a href=\"/docs/tech-radar/tools/testscafe.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "TestCafe",
+            "quadrant": "工具",
+            "ring": "实验"
+        },
+        {
+            "description": "<p>Uber 开源，灵感来源于 Dapper 和 OpenZipkin。</p>\n<p>APM工具。拦截请求，侵入式编码。</p> <a href=\"/docs/tech-radar/tools/jaeger.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "Jaeger",
             "quadrant": "工具",
             "ring": "评估"
         },
         {
-            "description": "",
+            "description": " <a href=\"/docs/tech-radar/tools/puppeteer.html\" target=\"_blank\">Tech Radar</a>",
             "isNew": false,
-            "name": "Module Federation",
-            "quadrant": "技术",
-            "ring": "评估"
+            "name": "Puppeteer",
+            "quadrant": "工具",
+            "ring": "实验"
         },
         {
-            "description": "",
+            "description": "<p>前端性能优化测试工具，集成到了 Chrome DevTools 工具里面。</p> <a href=\"/docs/tech-radar/tools/lighthouse.html\" target=\"_blank\">Tech Radar</a>",
             "isNew": false,
-            "name": "io-ts",
-            "quadrant": "语言和框架",
-            "ring": "评估"
+            "name": "Lighthouse",
+            "quadrant": "工具",
+            "ring": "采用"
         },
         {
-            "description": "",
+            "description": "<p>BackStage是由Spotify创建的构建开发者门户的开放平台。 它希望解决随着开发工具和技术的增多，技术和工具的选择越来越困难，团队之间甚至重复造轮子的问题。\n通过某种形式的标准化，实现了一致性才能让开发人员专注于创新和开发本身。</p> <a href=\"/docs/tech-radar/tools/backstage.html\" target=\"_blank\">Tech Radar</a>",
             "isNew": false,
             "name": "Backstage",
             "quadrant": "工具",
@@ -44,86 +142,72 @@
         {
             "description": "",
             "isNew": false,
-            "name": "Excalidraw",
-            "quadrant": "工具",
-            "ring": "实验"
-        },
-        {
-            "description": "",
-            "isNew": false,
-            "name": "FastAPI",
+            "name": "Playwright",
             "quadrant": "工具",
             "ring": "评估"
         },
         {
-            "description": "",
+            "description": "<p>Elastic 开源的 APM 工具。</p> <a href=\"/docs/tech-radar/tools/elastic-apm.html\" target=\"_blank\">Tech Radar</a>",
             "isNew": false,
-            "name": "WICG: Import Maps",
-            "quadrant": "技术",
+            "name": "Elastic APM",
+            "quadrant": "工具",
             "ring": "评估"
         },
         {
-            "description": "",
+            "description": "<p>一个开源 APM 监控平台，用于从服务和云原生基础设施收集、分析、聚合和可视化数据。</p>\n<p>字节码注入，无侵入。</p> <a href=\"/docs/tech-radar/tools/skywalking.html\" target=\"_blank\">Tech Radar</a>",
             "isNew": false,
-            "name": "SPA Injection",
-            "quadrant": "技术",
-            "ring": "评估"
+            "name": "SkyWalking",
+            "quadrant": "工具",
+            "ring": "采用"
         },
         {
-            "description": "",
+            "description": "<p>APM工具。拦截请求，侵入式编码。</p> <a href=\"/docs/tech-radar/tools/zipkin.html\" target=\"_blank\">Tech Radar</a>",
             "isNew": false,
             "name": "Zipkin",
             "quadrant": "工具",
             "ring": "评估"
         },
         {
-            "description": "",
+            "description": "<p>老牌的自动化测试工具，使用比较反人类。</p> <a href=\"/docs/tech-radar/tools/selenium.html\" target=\"_blank\">Tech Radar</a>",
             "isNew": false,
-            "name": "Davinci",
-            "quadrant": "语言和框架",
-            "ring": "实验"
+            "name": "Selenium",
+            "quadrant": "工具",
+            "ring": "暂缓"
         },
         {
-            "description": "",
+            "description": "<p>一个高性能的Web框架，只支持Python3.6以上版本。性能据说可以和NodeJS、Go相比，编码简单、对API支持良好。</p>\n<p>如果不考虑性能的优势，对OpenAPI的天然支持以及方便的容器部署是很大的优势。</p>\n<p>官方文档很清晰，代码提示好。Flask项目可以尝试使用FastAPI。</p> <a href=\"/docs/tech-radar/tools/fastapi.html\" target=\"_blank\">Tech Radar</a>",
             "isNew": false,
-            "name": "Micro Frontends",
-            "quadrant": "技术",
-            "ring": "采用"
-        },
-        {
-            "description": "",
-            "isNew": false,
-            "name": "GraalVM",
-            "quadrant": "平台",
+            "name": "FastAPI",
+            "quadrant": "工具",
             "ring": "评估"
         },
         {
-            "description": "",
+            "description": "<p>Excalidraw 提供手绘风格的作图体验。有些地方会比 draw.io 用起来舒服。</p>\n<p>优点：\n- 多人协作\n- 很多Libraries\n- 手绘风格</p> <a href=\"/docs/tech-radar/tools/excalidraw.html\" target=\"_blank\">Tech Radar</a>",
             "isNew": false,
-            "name": "Kuboard",
-            "quadrant": "平台",
-            "ring": "评估"
-        },
-        {
-            "description": "",
-            "isNew": false,
-            "name": "Cypress",
+            "name": "Excalidraw",
             "quadrant": "工具",
             "ring": "实验"
         },
         {
-            "description": "",
+            "description": "<p>阿里巴巴出品的表单生成方案。 可以实现表单布局、校验、异步数据源、联动、组建自定义等。</p>\n<p>支持下面方式：</p>\n<ul>\n<li>Markup Schema</li>\n<li>Json Schema</li>\n<li>JSX</li>\n</ul> <a href=\"/docs/tech-radar/language-and-frameworks/formily.html\" target=\"_blank\">Tech Radar</a>",
             "isNew": false,
-            "name": "Micronaut",
+            "name": "Formily",
             "quadrant": "语言和框架",
-            "ring": "实验"
+            "ring": "评估"
         },
         {
             "description": "",
             "isNew": false,
-            "name": "K9s",
-            "quadrant": "平台",
-            "ring": "评估"
+            "name": "SpringBoot",
+            "quadrant": "语言和框架",
+            "ring": "采用"
+        },
+        {
+            "description": "<p>函数式编程、强类型检查、和 Java 的互交互性，以及其在大数据上的应用。值得尝试。\n但是类型的复杂性（包括泛型和 Java 的兼容），以及灵活的写法，需要在架构和开发规范层面做好约束和设计。</p>\n<p>随着<a href=\"https://dotty.epfl.ch/\">Dotty</a>毕业，<a href=\"https://www.scala-lang.org/blog/2020/09/15/scala-3-the-community-powered-release.html\">Scala 3</a>\n已经发布，类型系统增强、抽象上下文等新特性让 Scala 变得强大的同时，也更加复杂。</p> <a href=\"/docs/tech-radar/language-and-frameworks/scala.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "Scala",
+            "quadrant": "语言和框架",
+            "ring": "实验"
         },
         {
             "description": "",
@@ -131,6 +215,27 @@
             "name": "Vue",
             "quadrant": "语言和框架",
             "ring": "采用"
+        },
+        {
+            "description": "<p>DVaaS（Data Visualization as a Service）平台解决方案。</p> <a href=\"/docs/tech-radar/language-and-frameworks/davinci.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "Davinci",
+            "quadrant": "语言和框架",
+            "ring": "实验"
+        },
+        {
+            "description": "<p>Grails 的微服务继承者。支持 GraalVM 。</p> <a href=\"/docs/tech-radar/language-and-frameworks/micronaut.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "Micronaut",
+            "quadrant": "语言和框架",
+            "ring": "实验"
+        },
+        {
+            "description": "<p>微服务框架。支持 GraalVM 。</p> <a href=\"/docs/tech-radar/language-and-frameworks/quarkus.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "Quarkus",
+            "quadrant": "语言和框架",
+            "ring": "评估"
         },
         {
             "description": "",
@@ -142,58 +247,30 @@
         {
             "description": "",
             "isNew": false,
-            "name": "Lighthouse",
-            "quadrant": "工具",
-            "ring": "采用"
-        },
-        {
-            "description": "",
-            "isNew": false,
-            "name": "SkyWalking",
-            "quadrant": "工具",
-            "ring": "采用"
-        },
-        {
-            "description": "",
-            "isNew": false,
-            "name": "KuberSphere",
-            "quadrant": "平台",
-            "ring": "评估"
-        },
-        {
-            "description": "",
-            "isNew": false,
-            "name": "Zipkin",
-            "quadrant": "工具",
-            "ring": "评估"
-        },
-        {
-            "description": "",
-            "isNew": false,
-            "name": "Docker",
-            "quadrant": "平台",
-            "ring": "采用"
-        },
-        {
-            "description": "",
-            "isNew": false,
-            "name": "Quarkus",
-            "quadrant": "语言和框架",
-            "ring": "评估"
-        },
-        {
-            "description": "",
-            "isNew": false,
             "name": "TypeScript",
             "quadrant": "语言和框架",
             "ring": "采用"
         },
         {
-            "description": "",
+            "description": "<p>TypeScript的强类型给我们带来了便利和安全。但是服务端返回的数据和类型定义不一致时，可能导致运行时错误.\nio-ts通过编码和解码的方式，解决了外部数据在编译和检查期间的问题，</p> <a href=\"/docs/tech-radar/language-and-frameworks/io-ts.html\" target=\"_blank\">Tech Radar</a>",
             "isNew": false,
-            "name": "WaveScope",
-            "quadrant": "平台",
-            "ring": "采用"
+            "name": "io-ts",
+            "quadrant": "语言和框架",
+            "ring": "评估"
+        },
+        {
+            "description": "<p>Webpack 5的新特性 <code>Module Federation</code> 允许我们在项目内动态加载其它项目的代码，同步项目依赖。\n解决了独立应用间代码贡献的问题。</p>\n<p>该特性允许项目构建的时候定义自己为 <code>host</code>或者<code>remote</code>，或者两者都是。</p>\n<p>Host 配置了使用的 remotes 列表，以及共享的模块，Remote 定义项目名、打包方式、打包文件名、共享模块、API等。\n类似微前端，Remote部署好，在index.html里面引入 Remote Entry 就可以了。</p> <a href=\"/docs/tech-radar/techniques/module-federation.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "Module Federation",
+            "quadrant": "技术",
+            "ring": "评估"
+        },
+        {
+            "description": "<p><code>strangler fig pattern</code><a href=\"https://martinfowler.com/bliki/StranglerFigApplication.html\">绞杀榕模式</a>常被作为老旧系统现代化改造的默认策略，这种模式下，新代码包围在旧代码周围，慢慢实现旧代码的功能。\n向农村包围城市一样，由外而内的进行改造。单页应用注入<code>由内而外</code>地进行旧系统改造，向旧系统嵌入新的HTML替换旧功能逐渐完成系统改造。\n由于增加了新的代码，系统会下载更多的内容，页面加载会变慢。</p> <a href=\"/docs/tech-radar/techniques/spa-injection.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "SPA Injection",
+            "quadrant": "技术",
+            "ring": "评估"
         },
         {
             "description": "",
@@ -205,86 +282,9 @@
         {
             "description": "",
             "isNew": false,
-            "name": "Consul",
-            "quadrant": "平台",
-            "ring": "评估"
-        },
-        {
-            "description": "",
-            "isNew": false,
-            "name": "Selenium",
-            "quadrant": "工具",
-            "ring": "暂缓"
-        },
-        {
-            "description": "",
-            "isNew": false,
-            "name": "TestCafe",
-            "quadrant": "工具",
-            "ring": "实验"
-        },
-        {
-            "description": "",
-            "isNew": false,
-            "name": "SpringBoot",
-            "quadrant": "语言和框架",
-            "ring": "采用"
-        },
-        {
-            "description": "",
-            "isNew": false,
-            "name": "Octant",
-            "quadrant": "平台",
-            "ring": "评估"
-        },
-        {
-            "description": "",
-            "isNew": false,
-            "name": "Sentry",
-            "quadrant": "工具",
-            "ring": "实验"
-        },
-        {
-            "description": "",
-            "isNew": false,
-            "name": "Puppeteer",
-            "quadrant": "工具",
-            "ring": "实验"
-        },
-        {
-            "description": "",
-            "isNew": false,
-            "name": "KNative",
-            "quadrant": "平台",
-            "ring": "评估"
-        },
-        {
-            "description": "",
-            "isNew": false,
-            "name": "Istio",
-            "quadrant": "平台",
-            "ring": "实验"
-        },
-        {
-            "description": "",
-            "isNew": false,
-            "name": "Formily",
-            "quadrant": "语言和框架",
-            "ring": "评估"
-        },
-        {
-            "description": "",
-            "isNew": false,
-            "name": "Kubernetes Lens",
-            "quadrant": "平台",
-            "ring": "实验"
-        },
-        {
-            "description": "",
-            "isNew": false,
-            "name": "OpenTracing",
+            "name": "Micro Frontends",
             "quadrant": "技术",
-            "ring": "评估"
+            "ring": "采用"
         },
         {
             "description": "",
@@ -294,18 +294,18 @@
             "ring": "采用"
         },
         {
-            "description": "",
+            "description": "<p>当使用多个微前端构建系统时，需要确定系统的某些部分加载哪些微前端，以及从哪里加载他们。\n之前我们通过<code>singe-spa</code>等框架来实现，现在有个一个新标准<code>Import Maps</code>，\n他使用JS来说明要导入的内容，同时 在初始化 HTML 的响应中使用一个轻量脚本指定从哪里加载微前端。</p>\n<p>目前只有 Chrome 支持，但可以通过 SystemJS polyfill 来进行更广泛的应用。</p> <a href=\"/docs/tech-radar/techniques/maps.html\" target=\"_blank\">Tech Radar</a>",
             "isNew": false,
-            "name": "Jaeger",
-            "quadrant": "工具",
+            "name": "WICG: Import Maps",
+            "quadrant": "技术",
             "ring": "评估"
         },
         {
-            "description": "",
+            "description": " <a href=\"/docs/tech-radar/techniques/opentracing.html\" target=\"_blank\">Tech Radar</a>",
             "isNew": false,
-            "name": "kubernetic",
-            "quadrant": "平台",
-            "ring": "实验"
+            "name": "OpenTracing",
+            "quadrant": "技术",
+            "ring": "评估"
         }
     ]
 }

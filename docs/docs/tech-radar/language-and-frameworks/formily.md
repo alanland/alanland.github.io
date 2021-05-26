@@ -12,6 +12,7 @@ categories: [TechRadar]
 阿里巴巴出品的表单生成方案。 可以实现表单布局、校验、异步数据源、联动、组建自定义等。
 
 支持下面方式：
+
 - Markup Schema
 - Json Schema
 - JSX
