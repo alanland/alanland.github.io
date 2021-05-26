@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 
-blogs = './blogs'
+blogs = './docs/tech-radar'
 base = '.'
 
 import json

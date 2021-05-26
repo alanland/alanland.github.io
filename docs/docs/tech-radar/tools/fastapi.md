@@ -5,10 +5,6 @@ tags:   [tech-radar, python]
 categories: [TechRadar]
 ---
 
-## 网站
-
-[https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/)
-
 ## Quadrant: `工具`
 
 ## Ring: `评估` 2021-04-30
@@ -18,3 +14,7 @@ categories: [TechRadar]
 如果不考虑性能的优势，对OpenAPI的天然支持以及方便的容器部署是很大的优势。
 
 官方文档很清晰，代码提示好。Flask项目可以尝试使用FastAPI。
+
+## 网站
+
+[https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/)

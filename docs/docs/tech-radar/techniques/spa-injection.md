@@ -5,10 +5,6 @@ tags:   [tech-radar]
 categories: [TechRadar]
 ---
 
-## 网站
-
-- [https://backstage.io/](https://backstage.io/)
-
 ## Quadrant: `技术`
 
 ## Ring: `评估` 2021-04-30
@@ -17,5 +13,6 @@ categories: [TechRadar]
 向农村包围城市一样，由外而内的进行改造。单页应用注入`由内而外`地进行旧系统改造，向旧系统嵌入新的HTML替换旧功能逐渐完成系统改造。
 由于增加了新的代码，系统会下载更多的内容，页面加载会变慢。
 
+## 网站
 
-
+- [https://backstage.io/](https://backstage.io/)

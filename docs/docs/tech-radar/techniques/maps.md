@@ -5,13 +5,6 @@ tags:   [tech-radar, js]
 categories: [TechRadar]
 ---
 
-## 网址
-
-- [https://github.com/WICG/import-maps](https://github.com/WICG/import-maps)
-
-WICD的全程是 `Web Platform Incubator Community Group`， 也就是`W3C Web平台孵化器社区组`。
-该计划，旨在寻求一种更便捷的方式，让开发者把可行的Web平台新特性提交到标准里。
-
 ## Quadrant: `技术`
 
 ## Ring: `评估` 2021-04-30
@@ -21,3 +14,11 @@ WICD的全程是 `Web Platform Incubator Community Group`， 也就是`W3C Web�
 他使用JS来说明要导入的内容，同时 在初始化 HTML 的响应中使用一个轻量脚本指定从哪里加载微前端。
 
 目前只有 Chrome 支持，但可以通过 SystemJS polyfill 来进行更广泛的应用。
+
+
+## 网址
+
+- [https://github.com/WICG/import-maps](https://github.com/WICG/import-maps)
+
+WICD的全程是 `Web Platform Incubator Community Group`， 也就是`W3C Web平台孵化器社区组`。
+该计划，旨在寻求一种更便捷的方式，让开发者把可行的Web平台新特性提交到标准里。

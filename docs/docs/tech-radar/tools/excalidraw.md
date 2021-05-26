@@ -5,10 +5,6 @@ tags:   [tech-radar]
 categories: [TechRadar]
 ---
 
-## 网站
-
-- [https://excalidraw.com/](https://excalidraw.com/)
-
 ## Quadrant: `工具`
 
 ## Ring: `实验` 2021-04-30
@@ -20,4 +16,6 @@ Excalidraw 提供手绘风格的作图体验。有些地方会比 draw.io 用起
 - 很多Libraries
 - 手绘风格
 
+## 网站
 
+- [https://excalidraw.com/](https://excalidraw.com/)

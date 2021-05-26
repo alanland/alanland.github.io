@@ -5,10 +5,6 @@ tags:   [tech-radar, webpack]
 categories: [TechRadar]
 ---
 
-## 网站
-
-- https://webpack.js.org/concepts/module-federation/
-
 ## Quadrant: `技术`
 
 ## Ring: `评估` 2021-04-30
@@ -20,3 +16,7 @@ Webpack 5的新特性 `Module Federation` 允许我们在项目内动态加载�
 
 Host 配置了使用的 remotes 列表，以及共享的模块，Remote 定义项目名、打包方式、打包文件名、共享模块、API等。
 类似微前端，Remote部署好，在index.html里面引入 Remote Entry 就可以了。
+
+## 网站
+
+- https://webpack.js.org/concepts/module-federation/
