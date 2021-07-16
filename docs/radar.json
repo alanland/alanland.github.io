@@ -7,7 +7,7 @@
         "语言和框架"
     ],
     "rings": [
-        "采用",
+        "采纳",
         "实验",
         "评估",
         "暂缓"
@@ -56,6 +56,13 @@
             "ring": "评估"
         },
         {
+            "description": "<p>VMWare 出品的 Kubernetes 管理客户端。</p> <a href=\"/docs/tech-radar/platforms/kiala.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "Octant",
+            "quadrant": "平台",
+            "ring": "评估"
+        },
+        {
             "description": "<p>ServiceMesh。</p> <a href=\"/docs/tech-radar/platforms/istio.html\" target=\"_blank\">Tech Radar</a>",
             "isNew": false,
             "name": "Istio",
@@ -74,14 +81,14 @@
             "isNew": false,
             "name": "WaveScope",
             "quadrant": "平台",
-            "ring": "采用"
+            "ring": "采纳"
         },
         {
             "description": "",
             "isNew": false,
             "name": "Docker",
             "quadrant": "平台",
-            "ring": "采用"
+            "ring": "采纳"
         },
         {
             "description": "<p>下一代的虚拟机，支持多种语言，很多 Java 微服务框架已经支持。</p> <a href=\"/docs/tech-radar/platforms/graalvm.html\" target=\"_blank\">Tech Radar</a>",
@@ -98,6 +105,27 @@
             "ring": "评估"
         },
         {
+            "description": "<p>监控预警系统。</p> <a href=\"/docs/tech-radar/tools/prometheus.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "Prometheus",
+            "quadrant": "工具",
+            "ring": "实验"
+        },
+        {
+            "description": "<p>开源企业内容管理系统，功能强大。</p> <a href=\"/docs/tech-radar/tools/alfresco-ecm.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "Alfresco ECM",
+            "quadrant": "工具",
+            "ring": "评估"
+        },
+        {
+            "description": "<p>基于 Kubernetes 和 Envoy 的网关。</p> <a href=\"/docs/tech-radar/tools/ambassadar.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "Apache APISIX",
+            "quadrant": "工具",
+            "ring": "评估"
+        },
+        {
             "description": "<p>ThoughtWorks 技术雷达评级为采用。定位为下一代的前端测试工具。有App和Cli来生成项目，对工程化比较友好。提供 Dashboard 查看执行和日志。</p> <a href=\"/docs/tech-radar/tools/cypress.html\" target=\"_blank\">Tech Radar</a>",
             "isNew": false,
             "name": "Cypress",
@@ -110,6 +138,13 @@
             "name": "TestCafe",
             "quadrant": "工具",
             "ring": "实验"
+        },
+        {
+            "description": "<p>用来保护应用安全访问。比如在服务（比如 Nginx）前面部署一个 Pomerium，访问服务的时候先通过 Pomerium 的验证才能访问系统。\n支持 Github、 Gitlab 等，相比<a href=\"https://oauth2-proxy.github.io/oauth2-proxy/\">OAuth2-Proxy</a> \nPomerium 支持路由规则，但是使用比较复杂。</p> <a href=\"/docs/tech-radar/tools/pomerium.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "Pomerium",
+            "quadrant": "工具",
+            "ring": "暂缓"
         },
         {
             "description": "<p>Uber 开源，灵感来源于 Dapper 和 OpenZipkin。</p>\n<p>APM工具。拦截请求，侵入式编码。</p> <a href=\"/docs/tech-radar/tools/jaeger.html\" target=\"_blank\">Tech Radar</a>",
@@ -130,7 +165,21 @@
             "isNew": false,
             "name": "Lighthouse",
             "quadrant": "工具",
-            "ring": "采用"
+            "ring": "采纳"
+        },
+        {
+            "description": "<p>OAuth2 Proxy 可以有效的保护我们的网站，配置简单，缺点是还不支持路由，无法一个实例代理多个网站。\n支持 Gitlab、Google 等。</p> <a href=\"/docs/tech-radar/tools/oauth2-proxy.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "OAuth2-Proxy",
+            "quadrant": "工具",
+            "ring": "采纳"
+        },
+        {
+            "description": "<p>Sentry 是一个开源的实时错误追踪系统，可以使用其在线服务，\n也可以<a href=\"https://develop.sentry.dev/self-hosted/\">本地搭建</a>（<a href=\"https://github.com/getsentry/onpremise\">GitHub Compose项目</a>）。</p>\n<p>支持多种语言和框架(<a href=\"https://sentry.io/for/spring/\">Spring</a>,<a href=\"https://docs.sentry.io/platforms/javascript/guides/vue/\">Vue</a>，提供了多个流行服务的集成（Gitlab, Slack, Trello），</p> <a href=\"/docs/tech-radar/tools/sentry.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "Sentry",
+            "quadrant": "工具",
+            "ring": "采纳"
         },
         {
             "description": "<p>BackStage是由Spotify创建的构建开发者门户的开放平台。 它希望解决随着开发工具和技术的增多，技术和工具的选择越来越困难，团队之间甚至重复造轮子的问题。\n通过某种形式的标准化，实现了一致性才能让开发人员专注于创新和开发本身。</p> <a href=\"/docs/tech-radar/tools/backstage.html\" target=\"_blank\">Tech Radar</a>",
@@ -147,6 +196,13 @@
             "ring": "评估"
         },
         {
+            "description": "<p>动态、实时、高性能的云原生Api网关.\nProvides rich traffic management features such as load balancing, dynamic upstream, canary release, circuit breaking, authentication, observability, and more. Based on the Nginx library and etcd.</p> <a href=\"/docs/tech-radar/tools/apisix.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "Apache APISIX",
+            "quadrant": "工具",
+            "ring": "实验"
+        },
+        {
             "description": "<p>Elastic 开源的 APM 工具。</p> <a href=\"/docs/tech-radar/tools/elastic-apm.html\" target=\"_blank\">Tech Radar</a>",
             "isNew": false,
             "name": "Elastic APM",
@@ -158,7 +214,14 @@
             "isNew": false,
             "name": "SkyWalking",
             "quadrant": "工具",
-            "ring": "采用"
+            "ring": "采纳"
+        },
+        {
+            "description": "<p>服务发现和配置管理。</p> <a href=\"/docs/tech-radar/tools/nacas.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "SkyWalking",
+            "quadrant": "工具",
+            "ring": "采纳"
         },
         {
             "description": "<p>APM工具。拦截请求，侵入式编码。</p> <a href=\"/docs/tech-radar/tools/zipkin.html\" target=\"_blank\">Tech Radar</a>",
@@ -166,6 +229,13 @@
             "name": "Zipkin",
             "quadrant": "工具",
             "ring": "评估"
+        },
+        {
+            "description": "<p>可视化工具。</p> <a href=\"/docs/tech-radar/tools/grafana.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "Grafana",
+            "quadrant": "工具",
+            "ring": "实验"
         },
         {
             "description": "<p>老牌的自动化测试工具，使用比较反人类。</p> <a href=\"/docs/tech-radar/tools/selenium.html\" target=\"_blank\">Tech Radar</a>",
@@ -200,7 +270,7 @@
             "isNew": false,
             "name": "SpringBoot",
             "quadrant": "语言和框架",
-            "ring": "采用"
+            "ring": "采纳"
         },
         {
             "description": "<p>函数式编程、强类型检查、和 Java 的互交互性，以及其在大数据上的应用。值得尝试。\n但是类型的复杂性（包括泛型和 Java 的兼容），以及灵活的写法，需要在架构和开发规范层面做好约束和设计。</p>\n<p>随着<a href=\"https://dotty.epfl.ch/\">Dotty</a>毕业，<a href=\"https://www.scala-lang.org/blog/2020/09/15/scala-3-the-community-powered-release.html\">Scala 3</a>\n已经发布，类型系统增强、抽象上下文等新特性让 Scala 变得强大的同时，也更加复杂。</p> <a href=\"/docs/tech-radar/language-and-frameworks/scala.html\" target=\"_blank\">Tech Radar</a>",
@@ -214,7 +284,7 @@
             "isNew": false,
             "name": "Vue",
             "quadrant": "语言和框架",
-            "ring": "采用"
+            "ring": "采纳"
         },
         {
             "description": "<p>DVaaS（Data Visualization as a Service）平台解决方案。</p> <a href=\"/docs/tech-radar/language-and-frameworks/davinci.html\" target=\"_blank\">Tech Radar</a>",
@@ -242,20 +312,27 @@
             "isNew": false,
             "name": "SpringCloud",
             "quadrant": "语言和框架",
-            "ring": "采用"
+            "ring": "采纳"
         },
         {
             "description": "",
             "isNew": false,
             "name": "TypeScript",
             "quadrant": "语言和框架",
-            "ring": "采用"
+            "ring": "采纳"
         },
         {
             "description": "<p>TypeScript的强类型给我们带来了便利和安全。但是服务端返回的数据和类型定义不一致时，可能导致运行时错误.\nio-ts通过编码和解码的方式，解决了外部数据在编译和检查期间的问题，</p> <a href=\"/docs/tech-radar/language-and-frameworks/io-ts.html\" target=\"_blank\">Tech Radar</a>",
             "isNew": false,
             "name": "io-ts",
             "quadrant": "语言和框架",
+            "ring": "评估"
+        },
+        {
+            "description": "<p>当使用多个微前端构建系统时，需要确定系统的某些部分加载哪些微前端，以及从哪里加载他们。\n之前我们通过<code>singe-spa</code>等框架来实现，现在有个一个新标准<code>Import Maps</code>，\n他使用JS来说明要导入的内容，同时 在初始化 HTML 的响应中使用一个轻量脚本指定从哪里加载微前端。</p>\n<p>目前只有 Chrome 支持，但可以通过 SystemJS polyfill 来进行更广泛的应用。</p> <a href=\"/docs/tech-radar/techniques/import-maps.html\" target=\"_blank\">Tech Radar</a>",
+            "isNew": false,
+            "name": "WICG: Import Maps",
+            "quadrant": "技术",
             "ring": "评估"
         },
         {
@@ -282,23 +359,37 @@
         {
             "description": "",
             "isNew": false,
+            "name": "DDD",
+            "quadrant": "技术",
+            "ring": "实验"
+        },
+        {
+            "description": "",
+            "isNew": false,
             "name": "Micro Frontends",
             "quadrant": "技术",
-            "ring": "采用"
+            "ring": "采纳"
+        },
+        {
+            "description": "",
+            "isNew": false,
+            "name": "SSO",
+            "quadrant": "技术",
+            "ring": "采纳"
         },
         {
             "description": "",
             "isNew": false,
             "name": "Technology Radar",
             "quadrant": "技术",
-            "ring": "采用"
+            "ring": "采纳"
         },
         {
-            "description": "<p>当使用多个微前端构建系统时，需要确定系统的某些部分加载哪些微前端，以及从哪里加载他们。\n之前我们通过<code>singe-spa</code>等框架来实现，现在有个一个新标准<code>Import Maps</code>，\n他使用JS来说明要导入的内容，同时 在初始化 HTML 的响应中使用一个轻量脚本指定从哪里加载微前端。</p>\n<p>目前只有 Chrome 支持，但可以通过 SystemJS polyfill 来进行更广泛的应用。</p> <a href=\"/docs/tech-radar/techniques/maps.html\" target=\"_blank\">Tech Radar</a>",
+            "description": "",
             "isNew": false,
-            "name": "WICG: Import Maps",
+            "name": "Vue Design System",
             "quadrant": "技术",
-            "ring": "评估"
+            "ring": "实验"
         },
         {
             "description": " <a href=\"/docs/tech-radar/techniques/opentracing.html\" target=\"_blank\">Tech Radar</a>",

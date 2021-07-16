@@ -46,7 +46,7 @@ def generate():
     radar = {
         "title": "Cybertrans Radar",
         "quadrants": ["技术", "工具", "平台", "语言和框架"],
-        "rings": ["采用", "实验", "评估", "暂缓"],
+        "rings": ["采纳", "实验", "评估", "暂缓"],
         "blips": []
     }
 

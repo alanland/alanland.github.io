@@ -7,7 +7,7 @@ categories: [TechRadar]
 
 ## Quadrant: `语言和框架`
 
-## Ring: `采用` 2021-05-10
+## Ring: `采纳` 2021-05-10
 
 
 

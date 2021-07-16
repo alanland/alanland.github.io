@@ -7,6 +7,6 @@ categories: [TechRadar]
 
 ## Quadrant: `技术`
 
-## Ring: `采用` 2021-05-10
+## Ring: `采纳` 2021-05-10
 
 Vue(Vue3)。 

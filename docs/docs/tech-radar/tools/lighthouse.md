@@ -7,7 +7,7 @@ categories: [TechRadar]
 
 ## Quadrant: `工具`
 
-## Ring: `采用` 2021-05-17
+## Ring: `采纳` 2021-05-17
 
 前端性能优化测试工具，集成到了 Chrome DevTools 工具里面。
 

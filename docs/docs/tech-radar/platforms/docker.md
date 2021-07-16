@@ -7,6 +7,6 @@ categories: [TechRadar]
 
 ## Quadrant: `平台`
 
-## Ring: `采用` 2021-05-14
+## Ring: `采纳` 2021-05-14
 
 加速应用开发、部署和运维。

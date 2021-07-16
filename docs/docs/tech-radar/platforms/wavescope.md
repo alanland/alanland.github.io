@@ -7,7 +7,7 @@ categories: [TechRadar]
 
 ## Quadrant: `平台`
 
-## Ring: `采用` 2021-05-14
+## Ring: `采纳` 2021-05-14
 
 Kubernetes、容器监控管理工具。
 
